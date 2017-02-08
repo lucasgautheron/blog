@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Rouslan Gauchet"  # (translatable)
 BLOG_TITLE = "La Physis"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://la-physis.fr/"
+SITE_URL = "http://la-physis.fr/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
