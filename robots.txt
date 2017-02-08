@@ -1,2 +1,2 @@
-Sitemap: https://la-physis.fr/sitemapindex.xml
+Sitemap: http://la-physis.fr/sitemapindex.xml
 
