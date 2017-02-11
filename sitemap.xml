@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://la-physis.fr/</loc>
-  <lastmod>2017-02-08T01:50:00Z</lastmod>
+  <lastmod>2017-02-11T19:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://la-physis.fr/2017/</loc>
+  <lastmod>2017-02-11T19:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://la-physis.fr/archive.html</loc>
-  <lastmod>2017-02-08T10:58:00Z</lastmod>
+  <lastmod>2017-02-11T19:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://la-physis.fr/categories/</loc>
@@ -24,5 +28,9 @@
  <url>
   <loc>http://la-physis.fr/listings/</loc>
   <lastmod>2016-10-14T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://la-physis.fr/posts/decodex/</loc>
+  <lastmod>2017-02-11T19:59:00Z</lastmod>
  </url>
 </urlset>
