@@ -7383,3 +7383,9 @@ article .img {
   display: block;
   margin: 0 auto;
 }
+
+div.section > p {
+  text-indent: 1em;
+  margin-bottom: 0;
+  text-align: justify;
+}

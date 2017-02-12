@@ -30,7 +30,6 @@ L'équipe du Monde met à disposition des utilisateurs plusieurs moyens pour acc
 
 En plus du code couleur associé à chaque site recensé, une description rapide du média. Par exemple, dans le cas du site http://lemonde.fr/, bien sûr catalogué en vert, on trouve la description suivante :
 > Un quotidien et site Internet d'information généraliste. Le groupe est détenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Bergé et Matthieu Pigasse.
-En savoir plus sur http://www.lemonde.fr/verification/#60FbMx7qQgFC7QEo.99
 
 Des références sont parfois données pour justifier d'un classement, mais ce n'est pas systématique. C'est le cas par exemple du Daily Mail, récemment déclassé comme source fiable par la communauté de wikipédia FIXME REFERENCE, et labellisé orange sur Décodex (voir [Décodex - DailyMail](/decodex/dailymail.png)).
 
