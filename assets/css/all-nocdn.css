@@ -7377,3 +7377,9 @@ article.post-micro {
         display: none;
     }
 }
+
+article .img {
+  max-width: 640px;
+  display: block;
+  margin: 0 auto;
+}
