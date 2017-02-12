@@ -1,11 +1,12 @@
-article .img {
+article img {
   max-width: 640px;
   display: block;
   margin: 0 auto;
 }
 
-div.section > p {
+article div > p {
   text-indent: 1em;
   margin-bottom: 0;
   text-align: justify;
 }
+
