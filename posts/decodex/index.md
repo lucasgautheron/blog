@@ -24,6 +24,7 @@ Le "décodex" consiste donc en un catalogue de sites d'"information", tous affub
 ![code couleurs décodex](/decodex/code_couleurs.png)
 
 L'équipe du Monde met à disposition des utilisateurs plusieurs moyens pour accéder au label d'un site :
+
  * [Une barre de recherche sur le site du monde](http://www.lemonde.fr/verification/).
  * Des "plugins" (ou "greffons") pour les navigateurs chrome et firefox, qui affichent le code couleur correspondant en haut à droite de chaque page ou onglet que vous êtes en train de lire.
  * Un bot facebook.
@@ -34,6 +35,7 @@ En plus du code couleur associé à chaque site recensé, une description rapide
 Des références sont parfois données pour justifier d'un classement, mais ce n'est pas systématique. C'est le cas par exemple du Daily Mail, récemment déclassé comme source fiable par la communauté de wikipédia FIXME REFERENCE, et labellisé orange sur Décodex (voir [Décodex - DailyMail](/decodex/dailymail.png)).
 
 On peut d'ores et déjà souligner l'importance du dispositif, par les ressources qu'il a mobilisées :
+
  * La constitution du catalogue, qui suit des discussions dans l'équipe, nécessite un minimum de concertation, et donc de temps.
  * Le développement d'une interface intégrée sur le site du Monde et clairement mise en avant qui nécessite au moins un développeur.
  * Et de même le développement d'interfaces pour les applications tierces Firefox, Chrome et Facebook qui requiert aussi une main d'oeuvre dédiée.
@@ -50,16 +52,15 @@ L'élément déterminant sera, me semble-t-il, l'élection de Donald Trump le 8 
 
 Après la victoire de Donald Trump, fleurissent les attaques de la presse contre les "fake-news", presque désignées responsables de la défaite d'Hillary Clinton - qui, avec ses 1,2 milliard de dollars de frais de campagne, soit le double du budget de celle de son concurrent, n'avait aucun moyen de propagande pour se défendre, bien évidemment. Un exemple aussi ridicule qu'emblématique du phénomène est l'affaire du [pizzagate](https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory), une théorie conspirationniste accusant des membres du parti démocrate de pratiquer des actes de pédophilie dans l'arrière boutique d'une pizzeria.
 
-C'est ainsi qu'est né le néologisme de "fake-news". Les fausses informations, le bourrage de crâne, sont-ils une réalité nouvelle ? Bien sûr que non. La vraie nouveauté, cachée derrière ce nouveau mot pour un concept vieux comme le monde de l'information, c'est que les médias généraux ont perdu le monopole du bourrage du crâne. Malgré cela, ce mot composé a pris un sens intrinsèque, créé de toute pièce par la presse mondialiste, et référant bien à un phénomène nouveau, comme le montre l'explosion des recherches google pour "fake news" au lendemain du 8 novembre - et ce même en France ou l'anglicisme n'a pas été traduit :
+C'est ainsi qu'est né le néologisme de "fake-news". Les fausses informations, le bourrage de crâne, sont-ils une réalité nouvelle ? Bien sûr que non. La vraie nouveauté, cachée derrière ce nouveau mot pour un concept vieux comme le monde de l'information, c'est que les médias généraux ont perdu le monopole du bourrage du crâne. Malgré cela, ce mot composé a pris un sens intrinsèque, créé de toute pièce par la presse mondialiste. Ce qui est vraiment nouveau avec les "fake news", en fait, c'est son association évidente avec des événements spécifiques. Comme le montre d'ailleurs l'explosion des recherches google pour "fake news" au lendemain du 8 novembre, et ce même en France ou l'anglicisme n'a que peu été traduit :
 
 !["fake-news" et Google Trends](/decodex/fake-news.svg)
 
-Alors, sommes nous donc entré dans une ère de la "politique post-vérité", feignent de se demander ces journalistes unanimes - impliquant encore une fois, que jusqu'à présent jamais le pouvoir politique ne s'était appuyé sur le mensonge ? À cette question, Frédéric Lordon a répondu très justement [(Le Monde Diplomatique, 22/11/2016)](http://blog.mondediplo.net/2016-11-22-Politique-post-verite-ou-journalisme-post). Au concept de politique post-vérité, lui préfère celui de "journalisme post-politique" : soucieux de n'admettre aucune alternative au libéralisme mondialisée, la plupart de la presse a refusé les expressions politiques discordantes. Et devant l'échec de ces politiques récentes - rappelons que l'espérance de vie aux États-Unis a baissé l'année dernière [(BBC News, 8/12/2016)](http://www.bbc.com/news/world-us-canada-38247385), puisque l'alternative était rendue illisible et invisible dans les médias, le peuple s'est réfugié dans une contestation frontale et totale au "système", quitte à soutenir un candidat par ailleurs xénophobe ou misogyne. L'accusation des "fake-news" n'est alors qu'une fuite de ces journalistes, un moyen de se dédouaner des conséquences de leur accaparemment de la parole politique.
-
+Alors, sommes nous donc entré dans une ère de la "politique post-vérité", feignent de se demander ces journalistes unanimes - impliquant encore une fois, que jusqu'à présent jamais le pouvoir politique ne s'était appuyé sur le mensonge ? À cette question, Frédéric Lordon a répondu très justement [(Le Monde Diplomatique, 22/11/2016)](http://blog.mondediplo.net/2016-11-22-Politique-post-verite-ou-journalisme-post). Au concept de politique post-vérité, lui oppose celui de "journalisme post-politique" : soucieux de n'admettre aucune alternative au libéralisme mondialisée, la plupart de la presse a refusé les expressions politiques discordantes. Finalement, il ne resterait qu'à discuter des modalités de la mondialisation, et de la sauce à laquelle les néolibéraux vont nous manger. Et devant l'échec de ces politiques récentes - rappelons que l'espérance de vie aux États-Unis a baissé l'année dernière [(BBC News, 8/12/2016)](http://www.bbc.com/news/world-us-canada-38247385), dévoilant une certaine crise ayant sans doute pesé davantage dans la balance de l'élection présidentielle que les fake-news -, puisque l'alternative était rendue illisible et invisible dans les médias, le peuple s'est réfugié dans une contestation frontale et totale au "système", quitte à soutenir un candidat par ailleurs xénophobe ou misogyne. L'accusation des "fake-news" n'est alors qu'une fuite de ces journalistes, un moyen de se dédouaner des conséquences de leur accaparemment de la parole politique - et du refus du débat.
 
 ## Acte II : La contre-offensive
 
-## 
+
 
 
 
