@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://la-physis.fr/categories/cat_medias.xml</loc>
+  <lastmod>2017-02-12T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://la-physis.fr/categories/decodex.xml</loc>
+  <lastmod>2017-02-12T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://la-physis.fr/categories/le-monde.xml</loc>
+  <lastmod>2017-02-12T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://la-physis.fr/galleries/rss.xml</loc>
   <lastmod>2017-02-08T10:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/rss.xml</loc>
-  <lastmod>2017-02-11T19:59:00Z</lastmod>
+  <lastmod>2017-02-12T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/sitemap.xml</loc>
-  <lastmod>2017-02-11T19:59:00Z</lastmod>
+  <lastmod>2017-02-12T00:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -4,17 +4,21 @@
 <meta charset="utf-8">
 <base href="http://la-physis.fr/posts/decodex/">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Decodex | La Physis</title>
+<title>L'offensive Décodex, et la contre-offensive | La Physis</title>
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
 <link rel="canonical" href="http://la-physis.fr/posts/decodex/">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Rouslan Gauchet">
 <meta property="og:site_name" content="La Physis">
-<meta property="og:title" content="Decodex">
+<meta property="og:title" content="L'offensive Décodex, et la contre-offensive">
 <meta property="og:url" content="http://la-physis.fr/posts/decodex/">
-<meta property="og:description" content="Write your post here.">
+<meta property="og:description" content="Acte I : L'offensive décodex
+Le dispositif
+Tout commence le premier février de cette année, lorsque l'équipe des décodeurs du Monde lance &quot;Décodex&quot;, présenté comme un &quot;outil de vérification de l'infor">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2017-02-10T01:15:21+01:00">
+<meta property="article:tag" content="Decodex">
+<meta property="article:tag" content="Le Monde">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -67,7 +71,7 @@
         <div class="row">
             
             
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Decodex</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">L'offensive Décodex, et la contre-offensive</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
@@ -84,9 +88,42 @@
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p>Write your post here.</p>
+    <div>
+<h3>Acte I : L'offensive décodex</h3>
+<h4>Le dispositif</h4>
+<p>Tout commence le premier février de cette année, lorsque l'équipe des décodeurs du Monde lance "Décodex", présenté comme un "outil de vérification de l'information" <a href="http://www.lemonde.fr/les-decodeurs/article/2017/01/23/le-decodex-un-premier-premier-pas-vers-la-verification-de-masse-de-l-information_5067709_4355770.html">Le Monde, 23/01/2017</a>. L'enjeu est annoncé :</p>
+<p>Le "décodex" consiste donc en un catalogue de sites d'"information", tous affublés d'un label parmi 5 possibilités :</p>
+<ul>
+<li>Label gris, qui signifie que le site est trop hétérogène pour conclure quand à sa fiabilité. C'est par exemple le cas de réseaux sociaux comme twitter.</li>
+<li>Label bleu, pour indiquer un site à vocation humoristique, "satirique".</li>
+<li>Label rouge, pour identifier les sites "diffusant régulièrement de fausses informations ou des articles trompeurs".</li>
+<li>Label orange, pour désigner les sites "regulièrement imprécis, ne précisant par leurs sources et reprenant des informations sans vérifications".</li>
+<li>Enfin, en vert, sont labelisés les sites "en principe plutôt fiables".</li>
+</ul>
+<p><img alt="code couleurs décodex" src="../../decodex/code_couleurs.png"></p>
+<p>L'équipe du Monde met à disposition des utilisateurs plusieurs moyens pour accéder au label d'un site :
+ * <a href="http://www.lemonde.fr/verification/">Une barre de recherche sur le site du monde</a>.
+ * Des "plugins" (ou "greffons") pour les navigateurs chrome et firefox, qui affiche le code couleur correspondant en haut à droite de chaque page ou onglet que vous êtes en train de lire.
+ * Un bot facebook.</p>
+<p>En plus du code couleur associé à chaque site recensé, une description rapide du média. Par exemple, dans le cas du site http://lemonde.fr/, bien sûr catalogué en vert :</p>
+<p><img alt="Décodex - Le Monde" src="../../decodex/lemonde.png"></p>
+<p>Pour les sites catalogués d'une autre couleur,  comme celui du Daily Mail, récemment déclassé comme source fiable par la communauté de wikipédia FIXME REFERENCE, le résultat est <a href="http://www.lemonde.fr/verification/source/dailymail/">le suivant</a> :</p>
+<p><img alt="Décodex - Le Monde" src="../../decodex/dailymail.png"></p>
+<p>On notera l'absence de justification pour ce cas particulier, mais celle-ci n'est pas systématique. Certains labels sont justifiés rapidement dans la description ou par des ressources supplémentaires.</p>
+<p>On peut d'ores et déjà souligner l'importance du dispositif, par les ressources qu'il a mobilisées :
+ * La constitution du catalogue, qui suit des discussions dans l'équipe, nécessite un minimum de concertation, et donc de temps.
+ * Le développement d'une interface intégrée sur le site du Monde et clairement mise en avant qui nécessite au moins un développeur.
+ * Et de même le développement d'interfaces pour les applications tierces Firefox, Chrome et Facebook qui requiert aussi une main d'oeuvre dédiée.</p>
+<p>Alors pourquoi donc un tel dispositif, qui a demandé des centaines d'heures de travail et mobilisé toutes ces personnes ? Les décodeurs expliquent avoir réalisé qu'après les attentats du 13 novembre 2015 et les fausses informations propagées sur les réseaux à leur sujet, une "désintoxication" au cas par cas était vaine <a href="http://www.arretsurimages.net/articles/2017-01-25/Comment-le-Decodex-du-Monde-va-labelliser-l-infaux-en-ligne-id9493">Arrêt sur images, 25/01/2017</a>. Et c'est alors que serait née l'idée du "décodex". Mais cela remonte à un an, et les véritables raisons, celles auxquelles on doit vraiment le décodex, sont liées de l'actualité plus récente. Dans son article d'introduction de son nouvel outil <a href="http://www.lemonde.fr/les-decodeurs/article/2017/01/23/le-decodex-un-premier-premier-pas-vers-la-verification-de-masse-de-l-information_5067709_4355770.html">Le Monde, 23/01/2017</a>, </p>
+<h3>Acte II : La contre-offensive</h3>
+<h3></h3>
+<p>http://www.arretsurimages.net/articles/2017-01-25/Comment-le-Decodex-du-Monde-va-labelliser-l-infaux-en-ligne-id9493</p>
+</div>
     </div>
-    <aside class="postpromonav"><nav></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../categories/decodex/" rel="tag">Decodex</a></li>
+            <li><a class="tag p-category" href="../../categories/le-monde/" rel="tag">Le Monde</a></li>
+        </ul></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
         
         
 
