@@ -1,2 +1,4 @@
 Sitemap: http://la-physis.fr/sitemapindex.xml
 
+User-Agent: *
+Host: la-physis.fr
