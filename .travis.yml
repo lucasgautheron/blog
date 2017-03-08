@@ -1,0 +1,14 @@
+before_install:
+ - pip install --upgrade pip wheel
+language: python
+cache: apt
+sudo: false
+python:
+ - '3.4'
+install:
+ - pip install Nikola
+ - pip install "Nikola[extras]"
+script:
+ - nikola build
+after_success:
+ - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
