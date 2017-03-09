@@ -65,15 +65,17 @@ Alors, sommes nous donc entré dans une ère de la "politique post-vérité", fe
 
 Conclusion : derrière ce soucis prétendument neutre de pure vérification factuelle, il y a un bien un système idéologique. 
 
-Afin d'achever de prouver que le "Décodex" procède bien d'un certain degré de paranoïa et de panique, voici une liste de sites Internet que les décodeurs ont jugé utile de classer :
+Afin d'achever de prouver que le "Décodex" procède en effet d'un certain degré de panique, voici une liste de sites Internet que les décodeurs ont jugé utile de classer :
 
 * Des pages facebook telles que https://www.facebook.com/PenseDeFilles ou https://www.facebook.com/Seum.couples jugés "racoleurs", au cas où le contenu [#]_ ne serait pas assez explicite à ce sujet.
 * Les sites je-suis-stupide-j-ai-vote-hollande.fr, hollande-demission.fr, hollande-degage.fr, facebook.com/JeSuisStupideJaiVoteHollande, facebook.com/CollectifHollandeDegage, facebook.com/Mouvement.HollandeDemission, et twitter.com/degage_hollande. On pourrait croire à s'y méprendre que "les décodeurs" sont dans une grossière démarche de réhabilitation de François Hollande... Mais sans doute pas, puisqu'on les a connu plus subtils dans cet exercice, avec notamment un article s'inscrivant bien dans le ton infantilisant et débilisant dont ils ont le secret [#]_, et dont le principe est simple : inviter le lecteur non pas à se saisir de ses plus jolis crayons de couleur, mais de sa souris, pour jouer aux devinettes et dessiner la courbe d'évolution de variables bien choisies (e.g. nombre de créations d'entreprises) pour amener le lecteur devenu élève à l'inévitable conclusion que finalement, le bilan de ce gouvernement n'est pas si mauvais qu'il l'eut crû.
+* http://reptiliens.blogspot.fr/ qui "qui diffuse des théories douteuses sur la domination du monde par des reptiles humanoïdes" (les décodeurs ont quand même des doutes)
+* La page facebook `Je mange du porc et je t'emmerde <http://facebook.com/JMDPEJT>`_ dont le titre ne saurait indiquer une approche particulière de l'information.
 
 *A contrario*, on notera l'absence de certains sites comme :
 
 * acrimed.org (sans doute un distrait oubli)
-* http://fakirpresse.info/ retiré après avoir été classé en orange pour avoir osé usurpé le rôle des décodeurs sans autorisation desdits tamponneurs d'info officiels, en fact-checkant le porte-parole de Macron, Christophe Castaner [#]_ . Pas du goût de Samuel Laurent visiblement chatouillant au sujet de François Hollande ou d'Emmanuel Macron son digne héritier et idôle du patron [#]_.
+* http://fakirpresse.info/ retiré après avoir été classé en orange pour avoir osé usurpé le rôle des décodeurs sans autorisation desdits tamponneurs d'info officiels, en fact-checkant le porte-parole de Macron, Christophe Castaner [#]_ . Pas du goût de Samuel Laurent, visiblement chatouilleux au sujet de François Hollande ou d'Emmanuel Macron son digne héritier et idôle du patron [#]_.
 
 
 Les réactions à chaud
