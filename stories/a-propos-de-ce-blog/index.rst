@@ -7,6 +7,9 @@
 .. description: 
 .. type: text
 
+Le blog
+-------
+
 Ce blog n'est pas un recueil d'humeurs. Ce n'est pas un recueil d'actualités. C'est l'expression pour moi et le spectacle pour vous d'un esprit en mouvement, aussi limité soit-il.
 C'est un espace de création. Je ne prétends pas proposer de synthèses, mais j'expose mon travail, c'est-à-dire un processus de construction. Bref, ce blog est mon brouillon.
 
