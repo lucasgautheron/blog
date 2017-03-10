@@ -1,5 +1,5 @@
-.. title: L'offensive Décodex, et la contre-offensive
-.. slug: decodex
+.. title: Un mois de Décodex
+.. slug: un-mois-de-decodex
 .. date: 2017-02-10 01:15:21 UTC+01:00
 .. tags: Le Monde, Decodex
 .. category: medias
@@ -72,6 +72,13 @@ Afin d'achever de prouver que le "Décodex" procède en effet d'un certain degr�
 * http://reptiliens.blogspot.fr/ qui "qui diffuse des théories douteuses sur la domination du monde par des reptiles humanoïdes" (les décodeurs ont quand même des doutes)
 * La page facebook `Je mange du porc et je t'emmerde <http://facebook.com/JMDPEJT>`_ dont le titre ne saurait indiquer une approche particulière de l'information.
 
+Les décodeurs prennent-ils leurs lecteurs pour des imbéciles ? Jugez-en :
+
+.. raw:: html
+
+         <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr"><a href="https://twitter.com/YassinElazzaz">@YassinElazzaz</a> Ca craint comme source d&#39;info, et plein de gens se font avoir par des trucs qui paraisset sans doute bête à un Bac+7 :</p>&mdash; Samuel Laurent (@samuellaurent) <a href="https://twitter.com/samuellaurent/status/835182023794900993">24 février 2017</a></blockquote>
+         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 *A contrario*, on notera l'absence de certains sites comme :
 
 * acrimed.org (sans doute un distrait oubli)
@@ -97,3 +104,6 @@ Les réactions à chaud
 .. [#] : http://www.lepoint.fr/presidentielle/emmanuel-macron-recoit-le-soutien-de-pierre-berge-31-01-2017-2101331_3121.php
 
 http://www.arretsurimages.net/articles/2017-01-25/Comment-le-Decodex-du-Monde-va-labelliser-l-infaux-en-ligne-id9493
+
+http://abonnes.lemonde.fr/les-decodeurs/article/2016/06/24/le-debat-sur-l-aeroport-de-notre-dame-des-landes-resume-en-conversation-sms_4957564_4355770.html
+
