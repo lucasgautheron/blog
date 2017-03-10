@@ -1,8 +1,10 @@
+sudo: false
+cache: pip
+
 before_install:
  - pip install --upgrade pip wheel
 language: python
-cache: apt
-sudo: false
+
 python:
  - '3.4'
 install:
