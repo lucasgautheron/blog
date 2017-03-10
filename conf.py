@@ -25,7 +25,7 @@ SITE_URL = "http://la-physis.fr/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "lucas.gautheron@gmail.com"
+BLOG_EMAIL = "rouslan.gauchet@gmail.com"
 BLOG_DESCRIPTION = "Physique, Politique..."  # (translatable)
 
 # Nikola is multilingual!
@@ -84,7 +84,7 @@ BLOG_DESCRIPTION = "Physique, Politique..."  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "fr"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
