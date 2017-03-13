@@ -10,6 +10,7 @@
 L'article qui suit vise simplement à exposer la méthodologie et les résultats d'une très rapide recherche que j'ai menée. Je me suis interrogé sur la quantité de personnes vivant dans des zones "à risque" nucléaires, c'est-à-dire à proximité de centrales nucléaires, et donc susceptibles d'être mises en danger ou déplacées en cas d'incident.
 
 Afin de réaliser ces calculs, j'avais besoin de deux données :
+
 * Carte de population de la France. J'ai trouvée mon bonheur sur `le site de l'insee <https://www.insee.fr/fr/statistiques/2520034>`_ qui propose une base de données carroyées à 200 mètres, ce qui est largement suffisant pour une précision de l'ordre de la dizaine de kilomètres.
 * Coordonnées géographiques des centrales en France métropolitaine et non loin de ses frontières. J'ai du les rechercher manuellement avec Google Earth, et des listes de centrales nucléaires en service trouvées sur Wikipedia pour la France (19 centrales) et les pays voisins (Belgique, Suisse, Allemagne, je n'ai pas cherché pour le reste - soit 13 centrales).
 
@@ -32,7 +33,8 @@ Les résultats sont les suivants :
 
 Avant de discuter les résultats, je précise que la dernière colonne n'est qu'un calcul fait dans l'hypothèse (fausse) d'une densité de population constante, ou, ce qui conduit au même résultat, dans l'hypothèse plus faible qu'elle est constante et égale à la moyenne de France métropolitaine (118 hab/km²) aux voisinages des 19 centrales françaises. Ce calcul (population :math:`p(r) = \mbox{19}\times\mbox{118}\times \pi r^2`) repose sur l'hypothèse que les voisinages ne s'intersectent pas et donc n'est valide que pour :math:`r <` 32 km (distance entre deux centrales la plus petite en France).
 
-Les chiffres parlent d'eux-mêmes, aussi je me bornerai à quelques remarques et explications :
+Les chiffres parlant d'eux-mêmes, je me bornerai à quelques deux remarques :
+
 * Le périmètre PPI pour le risque nucléaire [#]_ (Périmètre des Plans Particuliers d'Interventions) était jusqu'à récemment de 10 km mais doit être étendu à 20 km [#]_. Parmi les mesures en place dans ce périmètre, est la distribution préventive de comprimés d'iode à toutes les personnes y résidant. On remarque que sa taille est inférieure à celle des zones d'exclusion mises en place autour de Fukushima et Tchernobyl.
 * Puisque l'hypothèse simpliste homogène donne des résultats relativement similaires aux résultats exacts, on peut conclure que la densité de population autour des centrales nucléaires n'est pas vraiment plus basse que la moyenne.
 
