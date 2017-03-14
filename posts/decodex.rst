@@ -1,7 +1,7 @@
 .. title: Un mois de Décodex
 .. slug: un-mois-de-decodex
 .. date: 2017-02-10 01:15:21 UTC+01:00
-.. tags: draft, Le Monde, Decodex
+.. tags: Le Monde, Decodex
 .. category: medias
 .. link: 
 .. description: 
@@ -12,7 +12,7 @@ Retour sur le dispositif
 
 Tout commence le premier février de cette année, lorsque l'équipe des décodeurs du Monde lance "Décodex", présenté comme un "outil de vérification de l'information" [#]_. L'enjeu est annoncé :
 
-Le "décodex" consiste donc en un catalogue de sites d'"information", tous affublés d'un label parmi 5 possibilités :
+Le "décodex", à son lancement, consiste donc en un catalogue de sites d'"information", tous affublés d'un label parmi 5 possibilités :
 
 * Label gris, qui signifie que le site est trop hétérogène pour conclure quand à sa fiabilité. C'est par exemple le cas de réseaux sociaux comme twitter.
 * Label bleu, pour indiquer un site à vocation humoristique, "satirique".
@@ -70,9 +70,9 @@ Afin d'achever de prouver que le "Décodex" procède en effet d'un certain degr�
 * Des pages facebook telles que https://www.facebook.com/PenseDeFilles ou https://www.facebook.com/Seum.couples jugés "racoleurs", au cas où le contenu [#]_ ne serait pas assez explicite à ce sujet.
 * Les sites je-suis-stupide-j-ai-vote-hollande.fr, hollande-demission.fr, hollande-degage.fr, facebook.com/JeSuisStupideJaiVoteHollande, facebook.com/CollectifHollandeDegage, facebook.com/Mouvement.HollandeDemission, et twitter.com/degage_hollande. On pourrait croire à s'y méprendre que "les décodeurs" sont dans une grossière démarche de réhabilitation de François Hollande... Mais sans doute pas, puisqu'on les a connu plus subtils dans cet exercice, avec notamment un article s'inscrivant bien dans le ton infantilisant et débilisant dont ils ont le secret [#]_, et dont le principe est simple : inviter le lecteur non pas à se saisir de ses plus jolis crayons de couleur, mais de sa souris, pour jouer aux devinettes et dessiner la courbe d'évolution de variables bien choisies (e.g. nombre de créations d'entreprises) pour amener le lecteur devenu élève à l'inévitable conclusion que finalement, le bilan de ce gouvernement n'est pas si mauvais qu'il l'eut crû.
 * http://reptiliens.blogspot.fr/ qui "qui diffuse des théories douteuses sur la domination du monde par des reptiles humanoïdes" (les décodeurs ont quand même des doutes)
-* La page facebook `Je mange du porc et je t'emmerde <http://facebook.com/JMDPEJT>`_ dont le titre ne saurait indiquer une approche particulière de l'information.
+* La page facebook `Je mange du porc et je t'emmerde <http://facebook.com/JMDPEJT>`_ dont le titre, semble-t-il, ne saurait à lui seul indiquer une approche particulière de l'information.
 
-Les décodeurs prennent-ils leurs lecteurs pour des imbéciles ? Jugez-en :
+Les décodeurs prennent-ils leurs lecteurs pour des imbéciles ? Jugez-en par vous-même :
 
 .. raw:: html
 
