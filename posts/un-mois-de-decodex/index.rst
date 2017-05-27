@@ -55,7 +55,7 @@ L'élément déterminant sera, me semble-t-il, l'élection de Donald Trump le 8 
 
 Après la victoire de Donald Trump, fleurissent les attaques de la presse contre les "fake-news", presque désignées responsables de la défaite d'Hillary Clinton - qui, avec ses 1,2 milliard de dollars de frais de campagne, soit le double du budget de celui de son concurrent, n'avait aucun moyen de propagande non plus, bien évidemment. Un exemple aussi ridicule qu'emblématique du phénomène est l'affaire du  pizzagate [#]_, une théorie conspirationniste accusant des membres du parti démocrate de pratiquer des actes de pédophilie dans l'arrière boutique d'une pizzeria.
 
-C'est ainsi qu'est né le néologisme de "fake-news". Les fausses informations, le bourrage de crâne, sont-ils une réalité nouvelle ? Bien sûr que non. La vraie nouveauté, cachée derrière ce nouveau mot pour un concept vieux comme le monde, qu'on appelait avant "rumeurs", c'est que les médias de l'establishment ont perdu le monopole du bourrage du crâne. Malgré cela, ce mot composé a pris un sens intrinsèque, créé de toute pièce par la presse officielle. Ce qui est vraiment nouveau avec les "fake news", en fait, c'est son association évidente avec des événements spécifiques. Comme le montre d'ailleurs l'explosion des recherches google pour "fake news" au lendemain du 8 novembre, et ce même en France ou l'anglicisme n'a que peu été traduit :
+C'est ainsi qu'est né le néologisme de "fake-news". Les fausses informations, le bourrage de crâne, sont-ils une réalité nouvelle ? Bien sûr que non. La vraie nouveauté, cachée derrière ce nouveau mot pour un concept vieux comme le monde, qu'on appelait avant "rumeurs", c'est que les médias de l'establishment ont perdu le monopole du bourrage du crâne. Malgré cela, ce mot composé a pris un sens intrinsèque, créé de toute pièce par la presse officielle. Ce qui est vraiment nouveau avec les "fake news", en fait, c'est son association évidente avec des événements politiques spécifiques. Comme le montre d'ailleurs l'explosion des recherches google pour "fake news" au lendemain du 8 novembre, et ce même en France ou l'anglicisme n'a que peu été traduit :
 
 .. figure:: /decodex/fake-news.svg
 
@@ -79,14 +79,8 @@ Les décodeurs prennent-ils leurs lecteurs pour des imbéciles ? Jugez-en par vo
          <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr"><a href="https://twitter.com/YassinElazzaz">@YassinElazzaz</a> Ca craint comme source d&#39;info, et plein de gens se font avoir par des trucs qui paraisset sans doute bête à un Bac+7 :</p>&mdash; Samuel Laurent (@samuellaurent) <a href="https://twitter.com/samuellaurent/status/835182023794900993">24 février 2017</a></blockquote>
          <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*A contrario*, on notera l'absence de certains sites comme :
+*A contrario*, on notera l'absence de certains sites comme celui de Fakir, retiré après avoir été classé en orange pour avoir osé usurpé le rôle des décodeurs sans autorisation desdits tamponneurs d'info officiels, en fact-checkant le porte-parole de Macron, Christophe Castaner [#]_ . Pas du goût de Samuel Laurent, visiblement chatouilleux au sujet de François Hollande ou d'Emmanuel Macron son digne héritier et idôle du patron [#]_.
 
-* acrimed.org (sans doute un distrait oubli)
-* http://fakirpresse.info/ retiré après avoir été classé en orange pour avoir osé usurpé le rôle des décodeurs sans autorisation desdits tamponneurs d'info officiels, en fact-checkant le porte-parole de Macron, Christophe Castaner [#]_ . Pas du goût de Samuel Laurent, visiblement chatouilleux au sujet de François Hollande ou d'Emmanuel Macron son digne héritier et idôle du patron [#]_.
-
-
-Les réactions à chaud
-=====================
 
 .. [#] : `Le Monde, 23/01/2017 <http://www.lemonde.fr/les-decodeurs/article/2017/01/23/le-decodex-un-premier-premier-pas-vers-la-verification-de-masse-de-l-information_5067709_4355770.html>`_
 .. [#] : `Arrêt sur images, 25/01/2017 <http://www.arretsurimages.net/articles/2017-01-25/Comment-le-Decodex-du-Monde-va-labelliser-l-infaux-en-ligne-id9493>`_
