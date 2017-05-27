@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+**Il y a déjà 12 ans, les Français étaient amenés à se prononcer sur le référendum pour un traité constitutionnel de l'Union Européenne. Le "non" l'avait remporté avec près de 54 % des voix. Après Maastricht, la "France d'en bas" détenait sa revanche sur la "France d'en haut". En 2017, cette opposition est-elle encore pertinente ? Structure-t-elle toujours politiquement la société ?**
+
 La méthode : l'inférence écologique
 ===================================
 
