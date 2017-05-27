@@ -14,9 +14,9 @@ Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la 
 
 J'ai donc compilé les résultats du référendum de 2005 et des deux tours de la présidentielle de 2017 par commune, pour calculer les probabilités de report département par département, et enfin les combiner au niveau national. Avant de donner les résultats, il convient d'avouer les limites de cette méthode :
 
-    Beaucoup de communes ont disparus, ou été l'objet de fusion entre 2005 et 2017. Seules ont été retenues les communes qui existent toujours et qui n'ont pas connu de variation du nombre d'inscrits supérieure à 50 %. Dans certains départements, cela ne laisse que quelques dizaines de communes et les résultats ne sont pas très fiables. Cette sélection est donc aussi un peu biaisée (quelques dizièmes de points d'écart entre sélection et scores nationaux).
-    Le renouvellement du corps électoral entre ces deux dates est d'environ 10 %. L'électorat a changé : le nombre de personnes devenues en âge de voter sur cette période atteint près de 4 millions. Un nombre du même ordre de grandeur est décédé. Et il y a eu des transferts migratoires entre communes.
-    Pour que la méthode soit précise, il vaut mieux fusionner des options électorales qui n'ont réuni que peu de voix. J'ai donc du intégrer Hamon aux "petits candidats".
+* Beaucoup de communes ont disparus, ou été l'objet de fusion entre 2005 et 2017. Seules ont été retenues les communes qui existent toujours et qui n'ont pas connu de variation du nombre d'inscrits supérieure à 50 %. Dans certains départements, cela ne laisse que quelques dizaines de communes et les résultats ne sont pas très fiables. Cette sélection est donc aussi un peu biaisée (quelques dizièmes de points d'écart entre sélection et scores nationaux).
+* Le renouvellement du corps électoral entre ces deux dates est d'environ 10 %. L'électorat a changé : le nombre de personnes devenues en âge de voter sur cette période atteint près de 4 millions. Un nombre du même ordre de grandeur est décédé. Et il y a eu des transferts migratoires entre communes.
+* Pour que la méthode soit précise, il vaut mieux fusionner des options électorales qui n'ont réuni que peu de voix. J'ai donc du intégrer Hamon aux "petits candidats".
 
 Résultats nationaux
 ====================
