@@ -10,3 +10,10 @@ article div > p {
   text-align: justify;
 }
 
+.wide {
+  width:100%;
+  height:300px;
+  background-image:url('/assets/header.jpg');
+  background-position: center center;
+  background-size:cover;
+}

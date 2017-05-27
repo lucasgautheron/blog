@@ -1,5 +1,7 @@
 sudo: false
-cache: pip
+cache:
+    apt: true
+    pip: true
 
 before_install:
  - pip install --upgrade pip wheel
