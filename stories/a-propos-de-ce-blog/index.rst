@@ -10,7 +10,12 @@
 Le blog
 =======
 
-`Désormais sur Mediapart <https://blogs.mediapart.fr/lucas-gautheron/blog>`_
+`Aussi sur Mediapart <https://blogs.mediapart.fr/lucas-gautheron/blog>`_
+
+Sites amis
+==========
+
+Ce sont mes amis, même s'ils l'ignorent.
 
 Blogs politiques
 ----------------
