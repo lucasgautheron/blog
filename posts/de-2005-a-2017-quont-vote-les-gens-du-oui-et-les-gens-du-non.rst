@@ -1,7 +1,7 @@
 .. title: De 2005 à 2017 : qu'ont voté les gens du "oui" et les gens du "non" ?
 .. slug: de-2005-a-2017-quont-vote-les-gens-du-oui-et-les-gens-du-non
 .. date: 2017-05-27 12:59:49 UTC+02:00
-.. tags: 
+.. tags: Présidentielle 2017, TCE, Référendum 2005, mathjax
 .. category: 
 .. link: 
 .. description: 
@@ -10,7 +10,7 @@
 La méthode : l'inférence écologique
 ===================================
 
-Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode souffre de plusieurs inconvénients. D'abord, son coût : je n'ai pas les moyens de le faire, et à ma connaissance, personne ne l'a fait. Ensuite, elle pâtit des problèmes inhérents à chaque sondage : erreur statistique due à la taille de l'échantillon, biais (non représentativité, personnes qui peuvent mentir, se tromper, etc.). Mais il existe une méthode qui permet d'estimer les "trajectoires de vote" : l'inférence écologique. Celle-ci consiste en fait à utiliser les données sur plusieurs sous-ensembles (ex: des communes) d'un plus grand ensemble (ex: un département) en faisant l'hypothèse que la probabilité de report (probabilité qu'un inscrit ayant voté A (par exemple, non en 2005) à une élection ait voté B (par exemple Fillon en 2017) à une autre, qu'on note mathématiquement P(B|A)). En effet, si un défaut (resp. excès) de vote A est associé à un défaut (resp. excès) de vote B, alors les deux sont probablement corrélés et la probabilité P(B|A) élevée. L'algorithme employé fait appel à des méthodes statistiques rigoureuses pour tirer partie de cet effet.
+Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode souffre de plusieurs inconvénients. D'abord, son coût : je n'ai pas les moyens de le faire, et à ma connaissance, personne ne l'a fait. Ensuite, elle pâtit des problèmes inhérents à chaque sondage : erreur statistique due à la taille de l'échantillon, biais (non représentativité, personnes qui peuvent mentir, se tromper, etc.). Mais il existe une méthode qui permet d'estimer les "trajectoires de vote" : l'inférence écologique. Celle-ci consiste en fait à utiliser les données sur plusieurs sous-ensembles (ex: des communes) d'un plus grand ensemble (ex: un département) en faisant l'hypothèse que la probabilité de report (probabilité qu'un inscrit ayant voté A (par exemple, non en 2005) à une élection ait voté B (par exemple Fillon en 2017) à une autre, qu'on note mathématiquement :math:`P(B|A)`. En effet, si un défaut (resp. excès) de vote A est associé à un défaut (resp. excès) de vote B, alors les deux sont probablement corrélés et la probabilité :math:`P(B|A)` élevée. L'algorithme employé fait appel à des méthodes statistiques rigoureuses pour tirer partie de cet effet.
 
 J'ai donc compilé les résultats du référendum de 2005 et des deux tours de la présidentielle de 2017 par commune, pour calculer les probabilités de report département par département, et enfin les combiner au niveau national. Avant de donner les résultats, il convient d'avouer les limites de cette méthode :
 
