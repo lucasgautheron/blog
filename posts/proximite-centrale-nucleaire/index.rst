@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
+**Faire le choix du nucléaire, c'est aussi accepter le risque d'un accident dont les conséquences pourraient être désastreuses. Il convient alors de quantifier l'ampleur de ce risque. Par exemple, on peut calculer la population résidant à proximité d'une centrale nucléaire. On trouve ainsi qu'en métropole, près de deux tiers des français vivent à moins de 100 km d'un réacteur.**
+
+.. TEASER_END
+
 L'article qui suit vise simplement à exposer la méthodologie et les résultats d'une très rapide recherche que j'ai menée. Je me suis interrogé sur la quantité de personnes vivant dans des zones "à risque" nucléaires, c'est-à-dire à proximité de centrales nucléaires, et donc susceptibles d'être mises en danger ou déplacées en cas d'incident.
 
 Afin de réaliser ces calculs, j'avais besoin de deux données :

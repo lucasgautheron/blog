@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+.. TEASER_END
+
 Retour sur le dispositif
 ========================
 
