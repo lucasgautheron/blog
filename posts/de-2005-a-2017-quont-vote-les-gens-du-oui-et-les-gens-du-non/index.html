@@ -32,6 +32,10 @@
 Pour qui ont voté les gens du &quot;non&quot; et les gens du &quot;oui&quot; au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode ">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2017-05-27T12:59:49+02:00">
+<meta property="article:tag" content="mathjax">
+<meta property="article:tag" content="Présidentielle 2017">
+<meta property="article:tag" content="Référendum 2005">
+<meta property="article:tag" content="TCE">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Aller au contenu principal</a>
@@ -110,12 +114,13 @@ Pour qui ont voté les gens du &quot;non&quot; et les gens du &quot;oui&quot; au
     <div>
 <div class="section" id="la-methode-l-inference-ecologique">
 <h2>La méthode : l'inférence écologique</h2>
-<p>Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode souffre de plusieurs inconvénients. D'abord, son coût : je n'ai pas les moyens de le faire, et à ma connaissance, personne ne l'a fait. Ensuite, elle pâtit des problèmes inhérents à chaque sondage : erreur statistique due à la taille de l'échantillon, biais (non représentativité, personnes qui peuvent mentir, se tromper, etc.). Mais il existe une méthode qui permet d'estimer les "trajectoires de vote" : l'inférence écologique. Celle-ci consiste en fait à utiliser les données sur plusieurs sous-ensembles (ex: des communes) d'un plus grand ensemble (ex: un département) en faisant l'hypothèse que la probabilité de report (probabilité qu'un inscrit ayant voté A (par exemple, non en 2005) à une élection ait voté B (par exemple Fillon en 2017) à une autre, qu'on note mathématiquement P(B|A)). En effet, si un défaut (resp. excès) de vote A est associé à un défaut (resp. excès) de vote B, alors les deux sont probablement corrélés et la probabilité P(B|A) élevée. L'algorithme employé fait appel à des méthodes statistiques rigoureuses pour tirer partie de cet effet.</p>
+<p>Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode souffre de plusieurs inconvénients. D'abord, son coût : je n'ai pas les moyens de le faire, et à ma connaissance, personne ne l'a fait. Ensuite, elle pâtit des problèmes inhérents à chaque sondage : erreur statistique due à la taille de l'échantillon, biais (non représentativité, personnes qui peuvent mentir, se tromper, etc.). Mais il existe une méthode qui permet d'estimer les "trajectoires de vote" : l'inférence écologique. Celle-ci consiste en fait à utiliser les données sur plusieurs sous-ensembles (ex: des communes) d'un plus grand ensemble (ex: un département) en faisant l'hypothèse que la probabilité de report (probabilité qu'un inscrit ayant voté A (par exemple, non en 2005) à une élection ait voté B (par exemple Fillon en 2017) à une autre, qu'on note mathématiquement <span class="math">\(P(B|A)\)</span>. En effet, si un défaut (resp. excès) de vote A est associé à un défaut (resp. excès) de vote B, alors les deux sont probablement corrélés et la probabilité <span class="math">\(P(B|A)\)</span> élevée. L'algorithme employé fait appel à des méthodes statistiques rigoureuses pour tirer partie de cet effet.</p>
 <p>J'ai donc compilé les résultats du référendum de 2005 et des deux tours de la présidentielle de 2017 par commune, pour calculer les probabilités de report département par département, et enfin les combiner au niveau national. Avant de donner les résultats, il convient d'avouer les limites de cette méthode :</p>
-<blockquote>
-Beaucoup de communes ont disparus, ou été l'objet de fusion entre 2005 et 2017. Seules ont été retenues les communes qui existent toujours et qui n'ont pas connu de variation du nombre d'inscrits supérieure à 50 %. Dans certains départements, cela ne laisse que quelques dizaines de communes et les résultats ne sont pas très fiables. Cette sélection est donc aussi un peu biaisée (quelques dizièmes de points d'écart entre sélection et scores nationaux).
-Le renouvellement du corps électoral entre ces deux dates est d'environ 10 %. L'électorat a changé : le nombre de personnes devenues en âge de voter sur cette période atteint près de 4 millions. Un nombre du même ordre de grandeur est décédé. Et il y a eu des transferts migratoires entre communes.
-Pour que la méthode soit précise, il vaut mieux fusionner des options électorales qui n'ont réuni que peu de voix. J'ai donc du intégrer Hamon aux "petits candidats".</blockquote>
+<ul class="simple">
+<li>Beaucoup de communes ont disparus, ou été l'objet de fusion entre 2005 et 2017. Seules ont été retenues les communes qui existent toujours et qui n'ont pas connu de variation du nombre d'inscrits supérieure à 50 %. Dans certains départements, cela ne laisse que quelques dizaines de communes et les résultats ne sont pas très fiables. Cette sélection est donc aussi un peu biaisée (quelques dizièmes de points d'écart entre sélection et scores nationaux).</li>
+<li>Le renouvellement du corps électoral entre ces deux dates est d'environ 10 %. L'électorat a changé : le nombre de personnes devenues en âge de voter sur cette période atteint près de 4 millions. Un nombre du même ordre de grandeur est décédé. Et il y a eu des transferts migratoires entre communes.</li>
+<li>Pour que la méthode soit précise, il vaut mieux fusionner des options électorales qui n'ont réuni que peu de voix. J'ai donc du intégrer Hamon aux "petits candidats".</li>
+</ul>
 </div>
 <div class="section" id="resultats-nationaux">
 <h2>Résultats nationaux</h2>
@@ -184,7 +189,12 @@ Europhiles et europhobes, France d'en bas et France d'en haut ?
 </div>
 </div>
     </div>
-    <aside class="postpromonav"><nav><ul class="pager hidden-print">
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../categories/presidentielle-2017/" rel="tag">Présidentielle 2017</a></li>
+            <li><a class="tag p-category" href="../../categories/referendum-2005/" rel="tag">Référendum 2005</a></li>
+            <li><a class="tag p-category" href="../../categories/tce/" rel="tag">TCE</a></li>
+        </ul>
+<ul class="pager hidden-print">
 <li class="previous">
                 <a href="../proximite-centrale-nucleaire/" rel="prev" title="Combien de français vivent à proximité d'une centrale nucléaire ?">Article précédent</a>
             </li>
@@ -210,7 +220,19 @@ Europhiles et europhobes, France d'en bas et France d'en haut ?
     <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
-        </section></article><script>var disqus_shortname="la-physis";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
+        </section><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-yYfngbEKv4RENfGDvNUqJTqGFcKf31NJEe9OTnnMH3Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'left', // Change this to 'center' to center equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script></article><script>var disqus_shortname="la-physis";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
 </div>
         <!--End of body content-->
 
