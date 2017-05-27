@@ -23,7 +23,11 @@ J'ai donc compilé les résultats du référendum de 2005 et des deux tours de l
 Résultats nationaux
 ====================
 
-Les trajectoires de vote nationales sont données dans le tableau ci-dessous. La corrélation entre vote au référendum et vote à la présidentielle est plus que flagrante. On remarque notamment que :
+Les trajectoires de vote nationales sont données dans le tableau ci-dessous. 
+
+.. figure:: /tce-presidentielle/tableaux.png
+
+La corrélation entre vote au référendum et vote à la présidentielle est plus que flagrante. On remarque notamment que :
 
 * 75 % des "gens du oui" ont voté pour Macron ou Fillon au premier tour.
 * 70 % des "nonistes" ont voté pour Mélenchon ou Le Pen au premier tour.
