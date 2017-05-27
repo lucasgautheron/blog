@@ -10,18 +10,7 @@
 Le blog
 =======
 
-Ce blog n'est pas un recueil d'humeurs. Ce n'est pas un recueil d'actualités. C'est l'expression pour moi et le spectacle pour vous d'un esprit en mouvement, aussi limité soit-il.
-C'est un espace de création. Je ne prétends pas proposer de synthèses, mais j'expose mon travail, c'est-à-dire un processus de construction. Bref, ce blog est mon brouillon.
-
-L'auteur
-========
-
-Quels éléments de mon ego seraient pertinents à rappeler ici ? Exercice trop difficile que de répondre à cette question. Je m'arrêterais donc à une description de type "carte d'identité". Je suis professionnellement étudiant en Physique. Politiquement de gauche. Écologiquement croyant mais non pratiquant.
-
-Les sites amis
-==============
-
-Nous sommes amis, même s'ils ne le savent pas.
+`Désormais sur Mediapart <https://blogs.mediapart.fr/lucas-gautheron/blog>`_
 
 Blogs politiques
 ----------------
