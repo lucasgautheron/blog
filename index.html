@@ -92,6 +92,7 @@
 </div>
     </header><div class="e-content entry-content">
     <div>
+<p><strong>Il y a déjà 12 ans, les Français étaient amenés à se prononcer sur le référendum pour un traité constitutionnel de l'Union Européenne. Le "non" l'avait remporté avec près de 54 % des voix. Après Maastricht, la "France d'en bas" détenait sa revanche sur la "France d'en haut". En 2017, cette opposition est-elle encore pertinente ? Structure-t-elle toujours politiquement la société ?</strong></p>
 <div class="section" id="la-methode-l-inference-ecologique">
 <h2>La méthode : l'inférence écologique</h2>
 <p>Pour qui ont voté les gens du "non" et les gens du "oui" au premier tour de la présidentielle ? Pour le savoir, on pourrait réaliser un sondage, mais cette méthode souffre de plusieurs inconvénients. D'abord, son coût : je n'ai pas les moyens de le faire, et à ma connaissance, personne ne l'a fait. Ensuite, elle pâtit des problèmes inhérents à chaque sondage : erreur statistique due à la taille de l'échantillon, biais (non représentativité, personnes qui peuvent mentir, se tromper, etc.). Mais il existe une méthode qui permet d'estimer les "trajectoires de vote" : l'inférence écologique. Celle-ci consiste en fait à utiliser les données sur plusieurs sous-ensembles (ex: des communes) d'un plus grand ensemble (ex: un département) en faisant l'hypothèse que la probabilité de report (probabilité qu'un inscrit ayant voté A (par exemple, non en 2005) à une élection ait voté B (par exemple Fillon en 2017) à une autre, qu'on note mathématiquement <span class="math">\(P(B|A)\)</span>. En effet, si un défaut (resp. excès) de vote A est associé à un défaut (resp. excès) de vote B, alors les deux sont probablement corrélés et la probabilité <span class="math">\(P(B|A)\)</span> élevée. L'algorithme employé fait appel à des méthodes statistiques rigoureuses pour tirer partie de cet effet.</p>
@@ -146,7 +147,7 @@
 <div class="section" id="europhiles-et-europhobes-france-d-en-bas-et-france-d-en-haut">
 <h2>Europhiles et europhobes, France d'en bas et France d'en haut ?</h2>
 <div class="system-message">
-<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">&lt;string&gt;</tt>, line 72)</p>
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">&lt;string&gt;</tt>, line 74)</p>
 <p>Title underline too short.</p>
 <pre class="literal-block">
 Europhiles et europhobes, France d'en bas et France d'en haut ?
@@ -274,72 +275,72 @@ Europhiles et europhobes, France d'en bas et France d'en haut ?
 <li>Puisque l'hypothèse simpliste homogène donne des résultats relativement similaires aux résultats exacts, on peut conclure que la densité de population autour des centrales nucléaires n'est pas vraiment plus basse que la moyenne.</li>
 </ul>
 <p>Le script de calcul :</p>
-<pre class="code python"><a name="rest_code_77e542a94e8f45a2bf88db37ce489981-1"></a><span class="c1"># Auteur: Lucas Gautheron</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-2"></a><span class="c1"># Données population : https://www.insee.fr/fr/statistiques/2520034</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-3"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-4"></a><span class="kn">import</span> <span class="nn">sys</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-5"></a><span class="kn">import</span> <span class="nn">re</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-6"></a><span class="kn">from</span> <span class="nn">lxml</span> <span class="kn">import</span> <span class="n">etree</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-7"></a><span class="kn">import</span> <span class="nn">dbf</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-8"></a><span class="kn">from</span> <span class="nn">pyproj</span> <span class="kn">import</span> <span class="n">Proj</span><span class="p">,</span> <span class="n">transform</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-9"></a><span class="kn">from</span> <span class="nn">geopy.distance</span> <span class="kn">import</span> <span class="n">vincenty</span><span class="p">,</span> <span class="n">great_circle</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-10"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-11"></a><span class="n">inCoords</span> <span class="o">=</span> <span class="n">Proj</span><span class="p">(</span><span class="n">proj</span><span class="o">=</span><span class="s1">'latlong'</span><span class="p">,</span><span class="n">datum</span><span class="o">=</span><span class="s1">'WGS84'</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-12"></a><span class="n">outCoords</span> <span class="o">=</span> <span class="n">Proj</span><span class="p">(</span><span class="n">init</span><span class="o">=</span><span class="s1">'epsg:3035'</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-13"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-14"></a><span class="n">thresholds</span> <span class="o">=</span> <span class="p">[</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">50</span><span class="p">,</span> <span class="mi">75</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">150</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">100000</span> <span class="p">]</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-15"></a><span class="n">populations</span> <span class="o">=</span> <span class="p">{}</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-16"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-17"></a><span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">thresholds</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-18"></a>    <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-19"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-20"></a><span class="k">def</span> <span class="nf">distance</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-21"></a>    <span class="k">return</span> <span class="n">great_circle</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-22"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-23"></a><span class="c1">#import reverse_geocoder as rg</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-24"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-25"></a><span class="k">def</span> <span class="nf">parse_plants</span><span class="p">():</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-26"></a>    <span class="n">plants</span> <span class="o">=</span> <span class="p">[]</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-27"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-28"></a>    <span class="n">tree</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="s2">"plants.xml"</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-29"></a>    <span class="k">for</span> <span class="n">coordinates</span> <span class="ow">in</span> <span class="n">tree</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s2">"//coordinates"</span> <span class="k">if</span> <span class="nb">int</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span> <span class="o">==</span> <span class="mi">0</span> <span class="k">else</span> <span class="s2">"//coordinates[not(@french='1')]"</span><span class="p">):</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-30"></a>        <span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="s1">'((?&lt;![a-zA-Z:])[-+]?\d*\.?\d+),((?&lt;![a-zA-Z:])[-+]?\d*\.?\d+)?,0'</span><span class="p">,</span> <span class="n">coordinates</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-31"></a>        <span class="n">lat</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">2</span><span class="p">))</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-32"></a>        <span class="nb">long</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-33"></a>        <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">transform</span><span class="p">(</span><span class="n">inCoords</span><span class="p">,</span><span class="n">outCoords</span><span class="p">,</span><span class="n">lat</span><span class="p">,</span><span class="nb">long</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-34"></a>        <span class="n">plants</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">'lat'</span><span class="p">:</span> <span class="n">lat</span><span class="p">,</span> <span class="s1">'long'</span><span class="p">:</span> <span class="nb">long</span><span class="p">,</span> <span class="s1">'x'</span><span class="p">:</span> <span class="n">x</span><span class="p">,</span> <span class="s1">'y'</span><span class="p">:</span> <span class="n">y</span><span class="p">})</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-35"></a>    <span class="k">return</span> <span class="n">plants</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-36"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-37"></a><span class="n">plants</span> <span class="o">=</span> <span class="n">parse_plants</span><span class="p">()</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-38"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-39"></a><span class="n">table</span> <span class="o">=</span> <span class="n">dbf</span><span class="o">.</span><span class="n">Table</span><span class="p">(</span><span class="s2">"car_m.dbf"</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-40"></a><span class="n">table</span><span class="o">.</span><span class="n">open</span><span class="p">()</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-41"></a><span class="n">count</span> <span class="o">=</span> <span class="mi">0</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-42"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-43"></a><span class="k">for</span> <span class="n">rec</span> <span class="ow">in</span> <span class="n">table</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-44"></a>    <span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="s1">'CRS3035RES200mN(-?[0-9]+)E(-?[0-9]+)'</span><span class="p">,</span> <span class="n">rec</span><span class="o">.</span><span class="n">idinspire</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-45"></a>    <span class="n">x</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-46"></a>    <span class="n">y</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-47"></a>    <span class="n">population</span> <span class="o">=</span> <span class="n">rec</span><span class="o">.</span><span class="n">ind_c</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-48"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-49"></a>    <span class="n">longitude</span><span class="p">,</span> <span class="n">latitude</span> <span class="o">=</span> <span class="n">transform</span><span class="p">(</span><span class="n">outCoords</span><span class="p">,</span> <span class="n">inCoords</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-50"></a>    <span class="c1">#print (latitude, longitude, rec.id, rec.idinspire, rec.idk, rec.ind_c)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-51"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-52"></a>    <span class="n">min_distance</span> <span class="o">=</span> <span class="mf">1e100</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-53"></a>    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">plants</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-54"></a>        <span class="n">d</span> <span class="o">=</span> <span class="n">distance</span><span class="p">((</span><span class="n">latitude</span><span class="p">,</span> <span class="n">longitude</span><span class="p">),</span> <span class="p">(</span><span class="n">p</span><span class="p">[</span><span class="s1">'lat'</span><span class="p">],</span> <span class="n">p</span><span class="p">[</span><span class="s1">'long'</span><span class="p">]))</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-55"></a>        <span class="k">if</span> <span class="n">d</span><span class="o">.</span><span class="n">kilometers</span> <span class="o">&lt;</span> <span class="n">min_distance</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-56"></a>            <span class="n">min_distance</span> <span class="o">=</span> <span class="n">d</span><span class="o">.</span><span class="n">kilometers</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-57"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-58"></a>    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">thresholds</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-59"></a>        <span class="k">if</span> <span class="n">min_distance</span> <span class="o">&lt;</span> <span class="n">t</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-60"></a>            <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">=</span> <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">+</span> <span class="n">population</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-61"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-62"></a>    <span class="n">count</span> <span class="o">=</span> <span class="n">count</span> <span class="o">+</span> <span class="mi">1</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-63"></a>    <span class="k">if</span> <span class="n">count</span> <span class="o">%</span> <span class="mi">10000</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-64"></a>        <span class="k">print</span> <span class="p">(</span><span class="n">count</span><span class="p">)</span>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-65"></a>
-<a name="rest_code_77e542a94e8f45a2bf88db37ce489981-66"></a><span class="k">print</span><span class="p">(</span><span class="n">populations</span><span class="p">)</span>
+<pre class="code python"><a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-1"></a><span class="c1"># Auteur: Lucas Gautheron</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-2"></a><span class="c1"># Données population : https://www.insee.fr/fr/statistiques/2520034</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-3"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-4"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-5"></a><span class="kn">import</span> <span class="nn">re</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-6"></a><span class="kn">from</span> <span class="nn">lxml</span> <span class="kn">import</span> <span class="n">etree</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-7"></a><span class="kn">import</span> <span class="nn">dbf</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-8"></a><span class="kn">from</span> <span class="nn">pyproj</span> <span class="kn">import</span> <span class="n">Proj</span><span class="p">,</span> <span class="n">transform</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-9"></a><span class="kn">from</span> <span class="nn">geopy.distance</span> <span class="kn">import</span> <span class="n">vincenty</span><span class="p">,</span> <span class="n">great_circle</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-10"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-11"></a><span class="n">inCoords</span> <span class="o">=</span> <span class="n">Proj</span><span class="p">(</span><span class="n">proj</span><span class="o">=</span><span class="s1">'latlong'</span><span class="p">,</span><span class="n">datum</span><span class="o">=</span><span class="s1">'WGS84'</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-12"></a><span class="n">outCoords</span> <span class="o">=</span> <span class="n">Proj</span><span class="p">(</span><span class="n">init</span><span class="o">=</span><span class="s1">'epsg:3035'</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-13"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-14"></a><span class="n">thresholds</span> <span class="o">=</span> <span class="p">[</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="mi">30</span><span class="p">,</span> <span class="mi">50</span><span class="p">,</span> <span class="mi">75</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">150</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">100000</span> <span class="p">]</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-15"></a><span class="n">populations</span> <span class="o">=</span> <span class="p">{}</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-16"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-17"></a><span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">thresholds</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-18"></a>    <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-19"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-20"></a><span class="k">def</span> <span class="nf">distance</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-21"></a>    <span class="k">return</span> <span class="n">great_circle</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-22"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-23"></a><span class="c1">#import reverse_geocoder as rg</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-24"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-25"></a><span class="k">def</span> <span class="nf">parse_plants</span><span class="p">():</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-26"></a>    <span class="n">plants</span> <span class="o">=</span> <span class="p">[]</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-27"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-28"></a>    <span class="n">tree</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="s2">"plants.xml"</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-29"></a>    <span class="k">for</span> <span class="n">coordinates</span> <span class="ow">in</span> <span class="n">tree</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s2">"//coordinates"</span> <span class="k">if</span> <span class="nb">int</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span> <span class="o">==</span> <span class="mi">0</span> <span class="k">else</span> <span class="s2">"//coordinates[not(@french='1')]"</span><span class="p">):</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-30"></a>        <span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="s1">'((?&lt;![a-zA-Z:])[-+]?\d*\.?\d+),((?&lt;![a-zA-Z:])[-+]?\d*\.?\d+)?,0'</span><span class="p">,</span> <span class="n">coordinates</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-31"></a>        <span class="n">lat</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">2</span><span class="p">))</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-32"></a>        <span class="nb">long</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-33"></a>        <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">transform</span><span class="p">(</span><span class="n">inCoords</span><span class="p">,</span><span class="n">outCoords</span><span class="p">,</span><span class="n">lat</span><span class="p">,</span><span class="nb">long</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-34"></a>        <span class="n">plants</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">'lat'</span><span class="p">:</span> <span class="n">lat</span><span class="p">,</span> <span class="s1">'long'</span><span class="p">:</span> <span class="nb">long</span><span class="p">,</span> <span class="s1">'x'</span><span class="p">:</span> <span class="n">x</span><span class="p">,</span> <span class="s1">'y'</span><span class="p">:</span> <span class="n">y</span><span class="p">})</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-35"></a>    <span class="k">return</span> <span class="n">plants</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-36"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-37"></a><span class="n">plants</span> <span class="o">=</span> <span class="n">parse_plants</span><span class="p">()</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-38"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-39"></a><span class="n">table</span> <span class="o">=</span> <span class="n">dbf</span><span class="o">.</span><span class="n">Table</span><span class="p">(</span><span class="s2">"car_m.dbf"</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-40"></a><span class="n">table</span><span class="o">.</span><span class="n">open</span><span class="p">()</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-41"></a><span class="n">count</span> <span class="o">=</span> <span class="mi">0</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-42"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-43"></a><span class="k">for</span> <span class="n">rec</span> <span class="ow">in</span> <span class="n">table</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-44"></a>    <span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="s1">'CRS3035RES200mN(-?[0-9]+)E(-?[0-9]+)'</span><span class="p">,</span> <span class="n">rec</span><span class="o">.</span><span class="n">idinspire</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-45"></a>    <span class="n">x</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-46"></a>    <span class="n">y</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-47"></a>    <span class="n">population</span> <span class="o">=</span> <span class="n">rec</span><span class="o">.</span><span class="n">ind_c</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-48"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-49"></a>    <span class="n">longitude</span><span class="p">,</span> <span class="n">latitude</span> <span class="o">=</span> <span class="n">transform</span><span class="p">(</span><span class="n">outCoords</span><span class="p">,</span> <span class="n">inCoords</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-50"></a>    <span class="c1">#print (latitude, longitude, rec.id, rec.idinspire, rec.idk, rec.ind_c)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-51"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-52"></a>    <span class="n">min_distance</span> <span class="o">=</span> <span class="mf">1e100</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-53"></a>    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">plants</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-54"></a>        <span class="n">d</span> <span class="o">=</span> <span class="n">distance</span><span class="p">((</span><span class="n">latitude</span><span class="p">,</span> <span class="n">longitude</span><span class="p">),</span> <span class="p">(</span><span class="n">p</span><span class="p">[</span><span class="s1">'lat'</span><span class="p">],</span> <span class="n">p</span><span class="p">[</span><span class="s1">'long'</span><span class="p">]))</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-55"></a>        <span class="k">if</span> <span class="n">d</span><span class="o">.</span><span class="n">kilometers</span> <span class="o">&lt;</span> <span class="n">min_distance</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-56"></a>            <span class="n">min_distance</span> <span class="o">=</span> <span class="n">d</span><span class="o">.</span><span class="n">kilometers</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-57"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-58"></a>    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">thresholds</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-59"></a>        <span class="k">if</span> <span class="n">min_distance</span> <span class="o">&lt;</span> <span class="n">t</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-60"></a>            <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">=</span> <span class="n">populations</span><span class="p">[</span><span class="n">t</span><span class="p">]</span> <span class="o">+</span> <span class="n">population</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-61"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-62"></a>    <span class="n">count</span> <span class="o">=</span> <span class="n">count</span> <span class="o">+</span> <span class="mi">1</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-63"></a>    <span class="k">if</span> <span class="n">count</span> <span class="o">%</span> <span class="mi">10000</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-64"></a>        <span class="k">print</span> <span class="p">(</span><span class="n">count</span><span class="p">)</span>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-65"></a>
+<a name="rest_code_ef0681684f7e4fe4872fb11376a8615f-66"></a><span class="k">print</span><span class="p">(</span><span class="n">populations</span><span class="p">)</span>
 </pre>
 <table class="docutils footnote" frame="void" id="id3" rules="none">
 <colgroup>
