@@ -1,6 +1,6 @@
 .. title: France 2 produit accidentellement un tract du Front National
 .. slug: france-2-produit-accidentellement-un-tract-du-front-national
-.. date: 2017-05-29 00:34:03 UTC+02:00
+.. date: 2017-05-05 00:34:03 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
