@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-** (Texte écrit pour `opiam.fr <http://opiam.fr>`_) **
+**(Texte écrit pour `opiam.fr <http://opiam.fr>`_)**
 
 .. TEASER_END
 
