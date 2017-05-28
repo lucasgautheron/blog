@@ -21,13 +21,10 @@ L’émission se poursuit alors avec un autre témoignage sincère et pas du tou
 Le meilleur moment de l’émission reste sans doute le comparatif audacieux entre le programme de Le Pen et celui de Mélenchon. Les deux candidats y sont mis dos à dos, et les points communs de leur programme sont listés. On trouve notamment l’augmentation du SMIC et le retraite à soixante ans. Qu’en dit le Front National ? Selon Marine Le Pen, « `Augmenter le SMIC est une mauvaise mesure <http://www.alexis-corbiere.com/index.php/post/2015/11/09/Pour-le-peuple,-contre-le-Front-national>`__ », et d’après l’ex secrétaire national du parti, « `[ils n’ont] jamais défendu la retraite à 60 ans <http://melenchon.fr/2015/12/02/gattaz-pense-trop-a-le-fatigue-de-penser/>`__ ». Dommage que les décodeurs distraits du Monde, les désintoxiqueurs de Libération, les laborieux détecteurs du « Lab » d‘Europe1 et autres décrypteurs du Petit Journal et de Quotidien aient manqué l’erreur d’inattention des journalistes du service public. Heureusement, des journalistes du Monde, quelques jours après la qualification d’Emmanuel Macron et de la candidate de l’extrême droite pour le second tour, ont fini par courageusement décoder un tract du FN, fortement inspiré par l’infographie de France 2 et diffusé par quelques militants anonymes sur Internet. Le tract est censé pointer les mesures partagées par le FN et la France Insoumise :
 
 .. figure:: /france2-tract-fn/tract.jpg
+   
    En haut, l'infographie produite par France 2. En bas, le tract du front national. Où l'inverse, je ne sais plus.
 
- Les « inexactitudes » de l’Émission Politique, elles, diffusées devant près de 2,5 millions de téléspectateurs, ne seront pas corrigées. `Mélenchon = Le Pen, <http://opiam.fr/category/1-le-pire/melenchon-le-pen/>`__ sauf durant la période de l’entre deux tours !
-Partager :- `span <http://opiam.fr/2017/05/05/lenglet/?share=twitter>`__
-- `span <http://opiam.fr/2017/05/05/lenglet/?share=facebook>`__
-- `span <http://opiam.fr/2017/05/05/lenglet/?share=google-plus-1>`__
-
+Les « inexactitudes » de l’Émission Politique, elles, diffusées devant près de 2,5 millions de téléspectateurs, ne seront pas corrigées. `Mélenchon = Le Pen, <http://opiam.fr/category/1-le-pire/melenchon-le-pen/>`__ sauf durant la période de l’entre deux tours !
 
 
 
