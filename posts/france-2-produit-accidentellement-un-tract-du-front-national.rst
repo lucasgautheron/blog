@@ -6,8 +6,9 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /france2-tract-fn/tract.jpg
 
-**(Texte écrit pour `opiam.fr <http://opiam.fr>`_)**
+**( Texte écrit pour opiam.fr )**
 
 .. TEASER_END
 
