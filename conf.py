@@ -1045,7 +1045,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Requires FEED_PLAIN = False. If the preview image is found in the content,
 # it will not be included again. Image will be included as-is, aim to optmize
 # the image source for Feedly, Apple News, Flipboard, and other popular clients.
-# FEED_PREVIEWIMAGE = True
+FEED_PREVIEWIMAGE = True
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
