@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Texte écrit pour opiam.fr
 .. type: text
 .. previewimage: /france2-tract-fn/tract.jpg
 
