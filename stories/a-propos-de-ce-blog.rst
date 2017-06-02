@@ -19,7 +19,7 @@ L'auteur (moi)
 * Adhérent ATTAC et Parti de Gauche, militant de la France Insoumise
 * Écologiste croyant mais non pratiquant
 
-.. html:
+.. raw:: html
 
    <a href="https://physics.stackexchange.com/users/97831/lucas-gautheron">
    <img src="https://physics.stackexchange.com/users/flair/97831.png" width="208" height="58" alt="profile for Lucas Gautheron at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics" title="profile for Lucas Gautheron at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics">
