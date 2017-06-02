@@ -15,11 +15,15 @@ C'est un fourre-tout, cahier de brouillons parlant de sciences et de politique.
 L'auteur (moi)
 ==============
 
-Étudiant en Physique (ENS Paris-Saclay, ex-Cachan). Plus particulièrement intéressé par l'astrophysique et la physique des particules
-Adhérent ATTAC et Parti de Gauche, militant de la France Insoumise
-Écologiste croyant mais non pratiquant
+* Étudiant en Physique (ENS Paris-Saclay, ex-Cachan). Plus particulièrement intéressé par l'astrophysique et la physique des particules
+* Adhérent ATTAC et Parti de Gauche, militant de la France Insoumise
+* Écologiste croyant mais non pratiquant
 
+.. html:
 
+   <a href="https://physics.stackexchange.com/users/97831/lucas-gautheron">
+   <img src="https://physics.stackexchange.com/users/flair/97831.png" width="208" height="58" alt="profile for Lucas Gautheron at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics" title="profile for Lucas Gautheron at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics">
+   </a>
 
 
 `Aussi sur Mediapart <https://blogs.mediapart.fr/lucas-gautheron/blog>`_
