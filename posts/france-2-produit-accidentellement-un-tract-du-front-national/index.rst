@@ -7,6 +7,7 @@
 .. description: Texte écrit pour opiam.fr
 .. type: text
 .. previewimage: /france2-tract-fn/tract.jpg
+.. thumbnail: /france2-tract-fn/tract.jpg
 
 **( Texte écrit pour opiam.fr )**
 
