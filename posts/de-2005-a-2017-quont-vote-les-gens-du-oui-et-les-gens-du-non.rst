@@ -2,7 +2,7 @@
 .. slug: de-2005-a-2017-quont-vote-les-gens-du-oui-et-les-gens-du-non
 .. date: 2017-05-27 12:59:49 UTC+02:00
 .. tags: Présidentielle 2017, TCE, Référendum 2005, mathjax
-.. category: 
+.. category: politique
 .. link: 
 .. description: Il y a déjà 12 ans, les Français étaient amenés à se prononcer sur le référendum pour un traité constitutionnel de l'Union Européenne. Le "non" l'avait remporté avec près de 54 % des voix. Après Maastricht, la "France d'en bas" détenait sa revanche sur la "France d'en haut". En 2017, cette opposition est-elle encore pertinente ? Structure-t-elle toujours politiquement la société ?
 .. type: text

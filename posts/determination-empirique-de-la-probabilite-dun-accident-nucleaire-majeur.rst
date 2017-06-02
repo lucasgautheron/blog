@@ -2,7 +2,7 @@
 .. slug: determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur
 .. date: 2017-05-27 17:11:40 UTC+02:00
 .. tags: mathjax, nucléaire
-.. category: 
+.. category: sciences
 .. link: 
 .. description: 
 .. type: text

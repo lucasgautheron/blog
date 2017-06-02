@@ -1,8 +1,8 @@
 .. title: Combien de français vivent à proximité d'une centrale nucléaire ?
 .. slug: proximite-centrale-nucleaire
 .. date: 2017-03-13 20:17:54 UTC+01:00
-.. tags: mathjax
-.. category: 
+.. tags: mathjax, nucléaire
+.. category: sciences
 .. link: 
 .. description: 
 .. type: text
