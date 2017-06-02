@@ -6,8 +6,8 @@
 .. link: 
 .. description: Texte écrit pour opiam.fr
 .. type: text
-.. previewimage: /france2-tract-fn/tract.jpg
-.. thumbnail: /france2-tract-fn/tract.jpg
+.. previewimage: /images/france2-tract-fn/tract.jpg
+.. thumbnail: /images/france2-tract-fn/tract.jpg
 
 **( Texte écrit pour opiam.fr )**
 
@@ -22,7 +22,7 @@ Ainsi l’émission du 23 avril, dont l’invité était cette fois Jean-Luc Mé
 L’émission se poursuit alors avec un autre témoignage sincère et pas du tout instrumentalisé d’une Calaisienne désemparée. Elle manque d’oublier de mentionner qu’elle était prête à voter Front National ; heureusement, Karim Rissouli le lui fait dire.
 Le meilleur moment de l’émission reste sans doute le comparatif audacieux entre le programme de Le Pen et celui de Mélenchon. Les deux candidats y sont mis dos à dos, et les points communs de leur programme sont listés. On trouve notamment l’augmentation du SMIC et le retraite à soixante ans. Qu’en dit le Front National ? Selon Marine Le Pen, « `Augmenter le SMIC est une mauvaise mesure <http://www.alexis-corbiere.com/index.php/post/2015/11/09/Pour-le-peuple,-contre-le-Front-national>`__ », et d’après l’ex secrétaire national du parti, « `[ils n’ont] jamais défendu la retraite à 60 ans <http://melenchon.fr/2015/12/02/gattaz-pense-trop-a-le-fatigue-de-penser/>`__ ». Dommage que les décodeurs distraits du Monde, les désintoxiqueurs de Libération, les laborieux détecteurs du « Lab » d‘Europe1 et autres décrypteurs du Petit Journal et de Quotidien aient manqué l’erreur d’inattention des journalistes du service public. Heureusement, des journalistes du Monde, quelques jours après la qualification d’Emmanuel Macron et de la candidate de l’extrême droite pour le second tour, ont fini par courageusement décoder un tract du FN, fortement inspiré par l’infographie de France 2 et diffusé par quelques militants anonymes sur Internet. Le tract est censé pointer les mesures partagées par le FN et la France Insoumise :
 
-.. figure:: /france2-tract-fn/tract.jpg
+.. figure:: /images/france2-tract-fn/tract.jpg
    
    En haut, l'infographie produite par France 2. En bas, le tract du front national. Où l'inverse, je ne sais plus.
 
