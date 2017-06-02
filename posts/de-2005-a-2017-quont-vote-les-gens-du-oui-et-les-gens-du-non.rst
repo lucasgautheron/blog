@@ -6,7 +6,8 @@
 .. link: 
 .. description: Il y a déjà 12 ans, les Français étaient amenés à se prononcer sur le référendum pour un traité constitutionnel de l'Union Européenne. Le "non" l'avait remporté avec près de 54 % des voix. Après Maastricht, la "France d'en bas" détenait sa revanche sur la "France d'en haut". En 2017, cette opposition est-elle encore pertinente ? Structure-t-elle toujours politiquement la société ?
 .. type: text
-.. previewimage: /tce-presidentielle/1ertour.png
+.. previewimage: /images/tce-presidentielle/1ertour.png
+.. thumbnail: /images/tce-presidentielle/1ertour.png
 
 **Il y a déjà 12 ans, les Français étaient amenés à se prononcer sur le référendum pour un traité constitutionnel de l'Union Européenne. Le "non" l'avait remporté avec près de 54 % des voix. Après Maastricht, la "France d'en bas" détenait sa revanche sur la "France d'en haut". En 2017, cette opposition est-elle encore pertinente ? Structure-t-elle toujours politiquement la société ?**
 
@@ -28,7 +29,7 @@ Résultats nationaux
 
 Les trajectoires de vote nationales sont données dans le tableau ci-dessous. 
 
-.. figure:: /tce-presidentielle/tableaux.png
+.. figure:: /images/tce-presidentielle/tableaux.png
 
 La corrélation entre vote au référendum et vote à la présidentielle est plus que flagrante. On remarque notamment que :
 
@@ -40,19 +41,19 @@ La corrélation entre vote au référendum et vote à la présidentielle est plu
 
 Le graphe suivant montre ces résultats en nombre de voix et sous forme d'histogrammes pour le premier tour.
 
-.. figure:: /tce-presidentielle/1ertour.png
+.. figure:: /images/tce-presidentielle/1ertour.png
 
    1er tour 2017 et référendum de 2005
 
 Au second tour, Macron écrase Le Pen chez les "oui-istes". Elle est assez largement majoritaire chez les nonistes, mais ceux-ci sont plus divisés. Ceux-ci s'abstiennent beaucoup (20 %). Si l'on omet le vote des nonistes, le score de Macron est de 80 %. Si l'on omet les gens du oui, il n'est que de 46 %.
 
-.. figure:: /tce-presidentielle/2ndtour.png
+.. figure:: /images/tce-presidentielle/2ndtour.png
 
    2nd tour 2017 et référendum de 2005
 
 Bien que ce ne soit pas l'objet principal du billet, vous pouvez voir ci-dessous les reports de voix du premier au second tour, en utilisant la même méthode (pas de sondage donc). Les électeurs de Fillon et Mélenchon se sont massivement reportés vers Macron, malgré l'opposition politique totale entre eux. Le "barrage républicain" a bien fonctionné. Il existe une composante non résiduelle de report vers Le Pen chez les électeurs de Fillon, qui correspond probablement à un vote xénophobe âgé.
 
-.. figure:: /tce-presidentielle/report.png
+.. figure:: /images/tce-presidentielle/report.png
 
    Du 1er tour au 2nd tour
 
@@ -64,25 +65,25 @@ Résultats par départements
 Il est intéressant de se pencher sur les résultats département par département. Dans chacune des cartes suivantes, chaque intervalle correspond à 2 déciles (20 %) des départements.
 
  
-.. figure:: /tce-presidentielle/eurosceptique.png
+.. figure:: /images/tce-presidentielle/eurosceptique.png
 
    Euroscepticisme (pourcentage d'inscrits ayant voté Mélenchon ou Le Pen en 2017, et non en 2005)
 
 Cette carte ressemble très fortement à celle de la pauvreté :
 
-.. figure:: /tce-presidentielle/pauvrete.png
+.. figure:: /images/tce-presidentielle/pauvrete.png
 
    Taux de pauvreté
 
 Il est aussi utile d'étudier la façon dont s'est reporté le non en fonction des départements. La carte ci-dessous illustre le report vers Mélenchon. Il est le plus élevé dans le sud et dans l'ouest.
 
-.. figure:: /tce-presidentielle/versjlm.png
+.. figure:: /images/tce-presidentielle/versjlm.png
 
    Pourcentage des nonistes ayant voté Mélenchon au 1er tour
 
 Ci-dessous, est représenté le report du non vers Le Pen (1er tour). Il est le plus élevé dans le nord, et le nord-est.
 
-.. figure:: /tce-presidentielle/versmlp.png
+.. figure:: /images/tce-presidentielle/versmlp.png
 
    Pourcentage des nonistes ayant voté Le Pen au 1er tour
 
