@@ -1,5 +1,5 @@
 .. title: Rachid Laïreche ne comprend pas la stratégie de la France Insoumise, mais il n'a pas beaucoup cherché
-.. slug: rachid-Laïreche-ne-comprend-pas-la-strategie-de-la-france-insoumise-mais-il-na-pas-beaucoup-cherche
+.. slug: rachid-Laireche-ne-comprend-pas-la-strategie-de-la-france-insoumise-mais-il-na-pas-beaucoup-cherche
 .. date: 2017-06-04 13:28:12 UTC+02:00
 .. tags: OPIAM, médias
 .. category: politique
