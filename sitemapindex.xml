@@ -7,54 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://la-physis.fr/categories/cat_medias.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/cat_politique.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/cat_sciences.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/decodex.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/le-monde.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/mathjax.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/medias.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/nucleaire.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://la-physis.fr/categories/opiam.xml</loc>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/presidentielle-2017.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/referendum-2005.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/tce.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/rss.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/sitemap.xml</loc>
-  <lastmod>2017-06-02T11:48:00Z</lastmod>
+  <lastmod>2017-06-04T12:52:00Z</lastmod>
  </sitemap>
 </sitemapindex>
