@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Dans un article du `22 mai 2017 <http://www.liberation.fr/france/2017/05/22/melenchon-a-paris-ne-votez-pas-pour-l-ennemi-simplement-parce-qu-il-a-une-bonne-mine_1571513>`__ Rachid Laireche écrit pour Libération au sujet de la visite de Jean-Luc Mélenchon dans le XVIIIe arrondissement de Paris.
+Dans un article du `22 mai 2017 <http://www.liberation.fr/france/2017/05/22/melenchon-a-paris-ne-votez-pas-pour-l-ennemi-simplement-parce-qu-il-a-une-bonne-mine_1571513>`__, `Rachid Laireche <https://opiam.fr/category/1-le-pire/1-liberation/3-rachid-laireche/>`__ écrit pour Libération au sujet de la visite de Jean-Luc Mélenchon dans le XVIIIe arrondissement de Paris.
 Il mérite d'être lu, car c'est encore une bel exemple de traitement rigoureux de ce journal autoproclamé "de gauche".
 
 L'article commence par évoque le discours de Mélenchon, qui y est désigné comme le "chef des insoumis" - formule tout à fait neutre et non ironique -, au côté de Paul Vannier, candidat de la France Insoumise dans cette circonscription. Évidemment, il ne s'agit pas de parler du fond du discours de Mélenchon. Le journaliste juge plus opportun d'informer sur la "foule" venue l'entendre et qui se lève "une grosse veine sur le front" et dont "[les] cris sortent de l'estomac". Mais Rachid Laireche ne se contente pas de décrire la meute `éructant <https://opiam.fr/category/1-le-pire/melenchon-vomit-la-democratie/melenchon-gerbeeructe/>`__ sous les `invectives <http://www.acrimed.org/Melenchon-antisemite-De-la-petite-phrase-deformee-au-clash-obsessionnel>`__ du "leader".
