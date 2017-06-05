@@ -14,7 +14,7 @@ Cette fois ci, Jean-Luc Mélenchon donnait une conférence de presse à Paris (`
 Lors de cette conférence de presse, donc, Mélenchon revient sur cette tragédie - la mort de Rémi Fraisse, ou l'injure faite à Bernard Cazeneuve, selon ce que chacun juge être le plus grave. C'est cette conférence qui fait l'objet d'un montage de *Quotidien*. Nous ne reviendrons pas en détail dessus, puisqu'`Antoine Léaument a déjà fait ce fastidieux travail <https://antoineleaument.fr/2017/05/31/montages-malhonnetes-de-quotidien-attaquer-melenchon/>`__ et démontré combien cela était malhonnête. Cependant, résumons la situation brièvement :
 
 * Mélenchon revient spontanément sur l'affaire, et explique pendant plusieurs minutes qu'il accepte de "requalifier d'homicide" ce qu'il avait désigné approximativement comme un assassinat.
-* Azzeddine Ahmed-Chaouch s'invite et se croit tout permis en se positionnant debout devant les journalistes, et ne peut s'empêcher de s'exécuter à la politesse minimale sans sarcasmes. (`voir vidéo <https://youtu.be/rRF0pSJywC0?t=22m42s>`__).
+* Azzeddine Ahmed-Chaouch, se croyant tout permis, se positionne debout devant les journalistes qui sont eux assis, et ne peut s'empêcher de s'exécuter pour se conformer à la politesse minimale sans sarcasme. (`voir vidéo <https://youtu.be/rRF0pSJywC0?t=22m42s>`__).
 * L'employé de *Quotidien* entâme alors son interrogatoire sur cette affaire :
 
   « Si je vous entends bien, vous voulez remettre le fond au coeur de cette campagne. Mais c'est vous qui avez lancé la polémique [...] sur M. Cazeneuve. Est-ce que vous regrettez ? »
@@ -35,7 +35,7 @@ Voilà qu'il nous donnerait presque envie de lui décerner le Pulitzer pour sa p
 
 .. raw:: html
 
-   <div style="position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/56WjT1mqYvs?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+   <div style="margin: 0 auto;width: 640px; position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/56WjT1mqYvs?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 Jugez plutôt :
 
