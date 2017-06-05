@@ -33,7 +33,7 @@ On commence à percevoir le problème, lorsqu'on écoute les leçons de journali
 
 Voilà qu'il nous donnerait presque envie de lui décerner le Pulitzer pour sa pugnacité ! Mais Azzedine Ahmed-Chaouch ne voit pas qu'il n'a pas posé une question. Tout avait été dit sur le sujet. Ce sont des "regrets", des excuses qu'il exigeait. C'est tout ce qu'il pouvait admettre comme "satisfaisant", alors même que Mélenchon avait déjà tout dit, y compris qu'il proposait de changer le mot "assassinat" pour "homicide". Cette scène, on l'a déjà vue, en 2012, lorsque David Pujadas interrogeait Xavier Mathieu au sujet des incidents survenues dans le cadre de la lutte des salariés de Continental.
 
-.. raw::html
+.. raw:: html
    <div style="position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/56WjT1mqYvs?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 Jugez plutôt :
