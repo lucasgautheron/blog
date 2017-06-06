@@ -1,4 +1,4 @@
-.. title: Un journaliste de Libération veut qu'on "bouffe" la charte d'un syndicat de journalistes et qu'on "s'étouffe" avec le code du travail
+.. title: Un journaliste de Libération veut qu'on « bouffe » la charte d'un syndicat de journalistes et qu'on « s'étouffe » avec le code du travail
 .. slug: un-journaliste-de-liberation-veut-quon-bouffe-la-charte-dun-syndicat-de-journalistes-et-quon-setouffe-avec-le-code-du-travail
 .. date: 2017-06-06 18:40:20 UTC+02:00
 .. tags: 
@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Visiblement, Cédric Mathiot n'a pas apprécié qu'on critique son article de la rubrique "Désintox" de *Libération* et s'est livré à un léger pétage de plomb.
+Visiblement, Cédric Mathiot n'a pas apprécié qu'on critique son article de la rubrique « Désintox » de *Libération* et s'est livré à un léger pétage de plomb.
 
 .. TEASER_END
 
