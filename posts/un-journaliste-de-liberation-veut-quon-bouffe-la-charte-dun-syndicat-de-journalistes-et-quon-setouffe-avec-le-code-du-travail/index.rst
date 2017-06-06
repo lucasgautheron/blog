@@ -15,7 +15,7 @@ Le 5 juin 2017, le journaliste s'est en effet fendu d'un papier au titre non-exc
 
   « Jusqu’à 1200 euros, revenus mensuels, ce qui est beaucoup, vous allez vous faire délester de 250 euros dans l’année. Par contre, dès que vous allez en dessus, c’est-à-dire en haut de l’échelle des salaires, la compensation, c’est-à-dire ce qui sera passé, ce que vous payiez autrefois en cotisations, et que vous allez retrouver en salaire, va être que les hauts salaires vont gagner plus, tandis que ce que les bas salaires vont gagner moins. »
 
-Commençons déjà par dire que cet extrait est exact dans le sens où le gain de salaire net sera plus important pour les hauts salaires que pour bas salaires. Le journaliste estime cependant que « Mélenchon n’a visiblement pas tout compris » pour répéter plus loin la même chose.
+Commençons déjà par dire que cet extrait est exact dans le sens où le gain de salaire net sera plus important pour les hauts salaires que pour bas salaires. Le journaliste estime cependant que « Mélenchon n’a visiblement pas tout compris » pour répéter plus loin la même chose. Vient alors la citation qui pose réellement problème :
 
   « Regardez ce qui circule partout, allez lire Les Echos, c’est très bien expliqué : ceux qui gagnent le plus gagneront le plus. Les petites payes, les petites retraites, vont perdre 260 euros dans l’année »
 
