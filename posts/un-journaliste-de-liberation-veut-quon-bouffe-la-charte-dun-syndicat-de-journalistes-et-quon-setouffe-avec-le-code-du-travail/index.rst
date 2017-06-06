@@ -30,7 +30,7 @@ Toujours est-il que Cédric Mathiot n'a pas supporté qu'on les lui fasse remarq
 
 On résume :
 
-  « Vous pouvez bouffer votre feuille » « Et vous pouvez aussi vous étouffer après avec le code du travail [...] Ça me fera des vacances.» « Je préfererai (sic) que vous le mangiez avant [...] Histoire de maximiser les chances d'estouffade »
+  « Vous pouvez bouffer votre feuille » « Et vous pouvez aussi vous étouffer après avec le code du travail [...] Ça me fera des vacances.» « Je préférerai (sic) que vous le mangiez avant [...] Histoire de maximiser les chances d'estouffade »
 
 On appréciera donc la modération du journaliste face aux excès de Mélenchon.
 
