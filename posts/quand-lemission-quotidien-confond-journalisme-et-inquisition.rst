@@ -16,7 +16,7 @@ Cette fois-ci, Jean-Luc Mélenchon donnait une conférence de presse à Paris (`
 Lors de cette conférence de presse, donc, Mélenchon revient sur cette tragédie - la mort de Rémi Fraisse, ou l'injure faite à Bernard Cazeneuve, selon ce que chacun juge être le plus grave. C'est cette conférence qui fait l'objet d'un montage de *Quotidien*. Nous ne reviendrons pas en détail dessus, puisqu'`Antoine Léaument a déjà fait ce fastidieux travail <https://antoineleaument.fr/2017/05/31/montages-malhonnetes-de-quotidien-attaquer-melenchon/>`__ pour faire la démonstration de la malhonnêteté du procédé. Cependant, résumons la situation brièvement :
 
 * Mélenchon revient spontanément sur l'affaire, et explique à cette occasion qu'il accepte de « requalifier d'homicide » ce qu'il avait désigné approximativement comme un assassinat.
-* Azzeddine Ahmed-Chaouch, se croyant tout permis, se positionne debout devant les journalistes qui sont eux assis, et se montre incapable de se rasseoir pour se conformer à la politesse minimale sans sarcasme contre Mélenchon qui le lui demande. (`voir vidéo <https://youtu.be/rRF0pSJywC0?t=22m42s>`__).
+* Azzeddine Ahmed-Chaouch, se croyant tout permis, se positionne debout, devant les journalistes, qui sont eux assis, et se montre incapable de se rasseoir pour se conformer à la politesse minimale sans sarcasme contre Mélenchon qui le lui demande. (`voir vidéo <https://youtu.be/rRF0pSJywC0?t=22m42s>`__).
 * L'employé de *Quotidien* entame alors son interrogatoire sur cette affaire :
 
   « Si je vous entends bien, vous voulez remettre le fond au coeur de cette campagne. Mais c'est vous qui avez lancé la polémique [...] sur M. Cazeneuve. Est-ce que vous regrettez ? »
