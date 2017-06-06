@@ -1,5 +1,5 @@
-.. title: Quand l'émission "Quotidien" confond journalisme et inquisition
-.. slug: quand-lemission-quotidien-confond-journalisme-et-inquisition
+.. title: L'émission "Quotidien" confond journalisme et inquisition
+.. slug: lemission-quotidien-confond-journalisme-et-inquisition
 .. date: 2017-06-05 09:30:34 UTC+02:00
 .. tags: médias, OPIAM
 .. category: politique
@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Les 30 et 31 mai 2017, dans l'émission *Quotidien*, le détenteur de carte de presse Azzeddine Ahmed-Chaouch a confondu le travail de journaliste avec celui de juge. Que cette émission contribue à la propagande anti-Mélenchon n'a rien de surprenant, puisqu'on la doit à Yann Barthès qui l'a calquée sur son « *Petit Journal* » après son départ de Canal+, bien connu pour son `Mélenchon bashing <https://opiam.fr/2013/05/19/la-semaine-melenchon-bashing-du-petit-journal/>`__ et ses `manipulations <https://opiam.fr/2012/06/17/oups-encore-une-manipulation-du-petit-journal/>`__. 
+Les 30 et 31 mai 2017, dans l'émission *Quotidien*, le détenteur de carte de presse Azzeddine Ahmed-Chaouch a confondu le travail de journaliste avec celui de juge. Que cette émission contribue à la propagande anti-Mélenchon n'a rien de surprenant, puisqu'on la doit à Yann Barthès qui l'a calquée sur son « *Petit Journal* » après son départ de Canal+, bien connu pour son `dénigrement systématique de Mélenchon <https://opiam.fr/2013/05/19/la-semaine-melenchon-bashing-du-petit-journal/>`__ et ses `manipulations <https://opiam.fr/2012/06/17/oups-encore-une-manipulation-du-petit-journal/>`__. 
 
 .. TEASER_END
 
@@ -21,11 +21,11 @@ Lors de cette conférence de presse, donc, Mélenchon revient sur cette tragédi
 
   « Si je vous entends bien, vous voulez remettre le fond au coeur de cette campagne. Mais c'est vous qui avez lancé la polémique [...] sur M. Cazeneuve. Est-ce que vous regrettez ? »
 
-* Mélenchon donne une longue réponse à Azzedine Ahmed-Chaouch dont l'essentiel est coupé au montage. Puis il doit répondre à une nouvelle question :
+* Mélenchon donne une longue réponse à Azzeddine Ahmed-Chaouch dont l'essentiel est coupé au montage. Puis il doit répondre à une nouvelle question :
 
   « "Assassinat" , c’est important. [...] C’est vos propos, je veux savoir [...] si vous les regrettez. » 
 
-La démonstration faite du caractère malhonnête du montage par Antoine Léaument n'a semble-t-il pas plus à la chaine. Le lendemain, Azzedine Ahmed-Chaouch balaie les critiques : 
+La démonstration faite du caractère malhonnête du montage par Antoine Léaument n'a semble-t-il pas plus à la chaine. Le lendemain, Azzeddine Ahmed-Chaouch balaie les critiques : 
 
  « Oui, on fait des montages [...] C'est même le coeur du métier de journaliste ».
 
@@ -33,7 +33,7 @@ On commence à percevoir le problème, lorsqu'on écoute les leçons de journali
 
  « Mélenchon s'en prend beaucoup à ceux qui posent des questions qui dérangent ». « Un bon journaliste est jugé par sa capacité à ne pas lâcher le morceau quand la réponse n'est pas satisfaisante ». 
 
-Voilà qu'il nous donnerait presque envie de lui décerner le Pulitzer pour sa pugnacité ! Mais Azzedine Ahmed-Chaouch ne voit pas qu'il n'a pas posé une question. Tout avait été dit sur le sujet. Ce sont des « regrets », des excuses qu'il exigeait. C'est tout ce qu'il pouvait admettre comme « satisfaisant », alors même que Mélenchon avait déjà tout dit, y compris qu'il proposait de changer le mot « assassinat » pour « homicide ». Cette scène en rappelle étrangement une autre, lorsqu'en 2012, David Pujadas interrogeait Xavier Mathieu au sujet des incidents survenues dans le cadre de la lutte des salariés de Continental :
+Voilà qu'il nous donnerait presque envie de lui décerner le Pulitzer pour sa pugnacité ! Mais Azzeddine Ahmed-Chaouch ne voit pas qu'il n'a pas posé une question. Tout avait été dit sur le sujet. Ce sont des « regrets », des excuses qu'il exigeait. C'est tout ce qu'il pouvait admettre comme « satisfaisant », alors même que Mélenchon avait déjà tout dit, y compris qu'il proposait de changer le mot « assassinat » pour « homicide ». Cette scène en rappelle étrangement une autre, lorsqu'en 2012, David Pujadas interrogeait Xavier Mathieu au sujet des incidents survenues dans le cadre de la lutte des salariés de Continental :
 
 La ressemblance en effrapante, Jugez plutôt :
 
@@ -43,7 +43,7 @@ La ressemblance en effrapante, Jugez plutôt :
 
    <div style="margin: 2% auto;width:480px;height:360px; position:relative;"><iframe src="https://www.youtube.com/embed/56WjT1mqYvs?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-Comme Pujadas alors, Azzedine Ahmed-Chaouch confond le travail de journaliste et celui de juge. Dans les deux cas, la question n'admet aucune réponse "satisfaisante" qui ne soit pas des regrets. Peu importe : il y a faute, il y a un coupable, et il doit faire acte de repentance. Pour l'inquisiteur de *Quotidien* et ses montages malhonnêtes, chercher à faire de l'audience justifie-t-il les moyens ? On ne connaitra pas l'avis des intéressés : ils n'ont pas donné suite à la requête d'Antoine Léaument de pouvoir exercer son droit de réponse.
+Comme Pujadas alors, Azzeddine Ahmed-Chaouch confond le travail de journaliste et celui de juge. Dans les deux cas, la question n'admet aucune réponse "satisfaisante" qui ne soit pas des regrets. Peu importe : il y a faute, il y a un coupable, et il doit faire acte de repentance. Pour l'inquisiteur de *Quotidien* et ses montages malhonnêtes, chercher l'audience et la confrontation justifie-t-il les moyens que sont la caricature et l'injure ? On ne connaitra pas l'avis des intéressés : ils n'ont pas donné suite à la requête d'Antoine Léaument de pouvoir exercer son droit de réponse.
 
 
 
