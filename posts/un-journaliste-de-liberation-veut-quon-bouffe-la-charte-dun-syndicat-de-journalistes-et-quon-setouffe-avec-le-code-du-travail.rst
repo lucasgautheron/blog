@@ -34,7 +34,7 @@ On résume :
 
   « Vous pouvez bouffer votre feuille » « Et vous pouvez aussi vous étouffer après avec le code du travail [...] Ça me fera des vacances.» « Je préférerai (sic) que vous le mangiez avant [...] Histoire de maximiser les chances d'estouffade »
 
-On appréciera donc la modération du journaliste face aux excès de Mélenchon. Tout cela donne un certaine saveur à ce tweet du même journaliste :
+On appréciera donc la modération du journaliste face aux excès de Mélenchon. Tout cela donne un certaine saveur à un autre de ses tweets :
 
 .. figure:: /images/libe-desintox/jlm.png
 
