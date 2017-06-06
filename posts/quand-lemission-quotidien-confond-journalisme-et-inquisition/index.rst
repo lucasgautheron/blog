@@ -29,21 +29,21 @@ La démonstration faite du caractère malhonnête du montage par Antoine Léaume
 
  « Oui, on fait des montages [...] C'est même le coeur du métier de journaliste ».
 
-On commence à percevoir le problème, lorsqu'on écoute les leçons de journalisme de ce professionnel du divertissement, qui estime que le centre de son métier n'est pas sa fonction républicaine mais le formatage de l'"information" et ses techniques. Problème `mis en lumière astucieusement par Pierre Carles <https://www.youtube.com/watch?v=eZf3sMKrJJY>`__ il y a déjà 27 ans pour la télé - à laquelle il n'est pas resté longtemps -, dans un sujet sur la plus grande école de journalisme française (CFJ). Mais ce n'est pas tout :
+On commence à percevoir le problème, lorsqu'on écoute les leçons de journalisme de ce professionnel du `divertissement <http://www.acrimed.org/Le-Petit-Journal-divertissement-ou-decheterie>`__, qui estime que le centre de son métier n'est pas sa fonction républicaine mais les techniques de formatage de l'"information". Problème `mis en lumière astucieusement par Pierre Carles <https://www.youtube.com/watch?v=eZf3sMKrJJY>`__ il y a déjà 27 ans pour la télé - à laquelle il n'est pas resté longtemps -, dans un sujet sur la plus grande école de journalisme française (CFJ). Mais ce n'est pas tout :
 
  « Mélenchon s'en prend beaucoup à ceux qui posent des questions qui dérangent ». « Un bon journaliste est jugé par sa capacité à ne pas lâcher le morceau quand la réponse n'est pas satisfaisante ». 
 
 Voilà qu'il nous donnerait presque envie de lui décerner le Pulitzer pour sa pugnacité ! Mais Azzedine Ahmed-Chaouch ne voit pas qu'il n'a pas posé une question. Tout avait été dit sur le sujet. Ce sont des « regrets », des excuses qu'il exigeait. C'est tout ce qu'il pouvait admettre comme « satisfaisant », alors même que Mélenchon avait déjà tout dit, y compris qu'il proposait de changer le mot « assassinat » pour « homicide ». Cette scène en rappelle étrangement une autre, lorsqu'en 2012, David Pujadas interrogeait Xavier Mathieu au sujet des incidents survenues dans le cadre de la lutte des salariés de Continental :
 
+La ressemblance en effrapante, Jugez plutôt :
+
+  « Est-ce que ça ne va pas trop loin ? Est-ce que vous regrettez ces violences ? [...] Je vous pose la question. [...] Pour vous la fin justifie les moyens ? ».
+
 .. raw:: html
 
    <div style="margin: 2% auto;width:480px;height:360px; position:relative;"><iframe src="https://www.youtube.com/embed/56WjT1mqYvs?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-Jugez plutôt :
-
-  « Est-ce que ça ne va pas trop loin ? Est-ce que vous regrettez ces violences ? [...] Je vous pose la question. [...] Pour vous la fin justifie les moyens ? ».
-
-Comme Pujadas alors, Azzedine Ahmed-Chaouch confond le travail de journaliste et celui de juge. Dans les deux cas, la question n'admet aucune réponse "satisfaisante" qui ne soit pas des regrets. Peu importe : il y a faute, il y a un coupable, et il doit faire acte de repentance. Pour l'inquisiteur de *Quotidien* et ses montages malhonnêtes, chercher à faire de l'audience justifie-t-il les moyens ? On ne connaitra pas l'avis des intéressés : ils n'ont pas donné suite à la demande d'Antoine Léaument de pouvoir exercer son droit de réponse.
+Comme Pujadas alors, Azzedine Ahmed-Chaouch confond le travail de journaliste et celui de juge. Dans les deux cas, la question n'admet aucune réponse "satisfaisante" qui ne soit pas des regrets. Peu importe : il y a faute, il y a un coupable, et il doit faire acte de repentance. Pour l'inquisiteur de *Quotidien* et ses montages malhonnêtes, chercher à faire de l'audience justifie-t-il les moyens ? On ne connaitra pas l'avis des intéressés : ils n'ont pas donné suite à la requête d'Antoine Léaument de pouvoir exercer son droit de réponse.
 
 
 
