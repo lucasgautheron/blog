@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Les 30 et 31 mai 2017, dans l'émission *Quotidien*, le détenteur de carte de presse Azzeddine Ahmed-Chaouch a confondu le travail de journaliste avec celui de juge. Que cette émission contribue à la propagande anti-Mélenchon n'a rien de surprenant, puisqu'on la doit à Yann Barthès qui l'a calquée sur son « *Petit Journal* » après son départ de Canal+, bien connu pour son `dénigrement systématique de Mélenchon <https://opiam.fr/2013/05/19/la-semaine-melenchon-bashing-du-petit-journal/>`__ et ses `manipulations <https://opiam.fr/2012/06/17/oups-encore-une-manipulation-du-petit-journal/>`__. 
+Les 30 et 31 mai 2017, dans l'émission *Quotidien*, Azzeddine Ahmed-Chaouch, `toujours titulaire d'une carte de presse <http://www.arretsurimages.net/breves/2012-06-20/Petit-Journal-six-cartes-de-presse-refusees-Nouvel-Obs-id14069>`__, a confondu le travail de journaliste avec celui de juge. Que cette émission contribue à la propagande anti-Mélenchon n'a rien de surprenant, puisqu'on la doit à Yann Barthès qui l'a calquée sur son « *Petit Journal* » après son départ de Canal+, bien connu pour son `dénigrement systématique de Mélenchon <https://opiam.fr/2013/05/19/la-semaine-melenchon-bashing-du-petit-journal/>`__ et ses `manipulations <https://opiam.fr/2012/06/17/oups-encore-une-manipulation-du-petit-journal/>`__. 
 
 .. TEASER_END
 
