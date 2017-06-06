@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Visiblement, Cédric Mathiot n'a pas apprécié qu'on critique son article de la rubrique "Désintox" de *Libération*. 
+Visiblement, Cédric Mathiot n'a pas apprécié qu'on critique son article de la rubrique "Désintox" de *Libération* et s'est livré à un léger pétage de plomb.
 
 .. TEASER_END
 
@@ -28,4 +28,9 @@ Toujours est-il que Cédric Mathiot n'a pas supporté qu'on lui fasse remarquer 
 
 .. figure:: /images/libe-desintox/libe2.png
 
+On résume :
+
+  « Vous pouvez bouffer votre feuille » « Et vous pouvez aussi vous étouffer après avec le code du travail [...] Ça me fera des vacances.» « Je préfererai (sic) que vous le mangiez avant [...] Histoire de maximiser les chances d'estouffade »
+
+On appréciera donc la modération du journaliste face aux excès de Mélenchon.
 
