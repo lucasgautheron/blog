@@ -29,7 +29,7 @@ La démonstration faite du caractère malhonnête du montage par Antoine Léaume
 
  « Oui, on fait des montages [...] C'est même le coeur du métier de journaliste ».
 
-On commence à percevoir le problème, lorsqu'on écoute les leçons de journalisme de ce professionnel du `divertissement <http://www.acrimed.org/Le-Petit-Journal-divertissement-ou-decheterie>`__, qui estime que le centre de son métier n'est pas sa fonction républicaine mais les techniques de formatage de l'"information". Problème `mis en lumière astucieusement par Pierre Carles <https://www.youtube.com/watch?v=eZf3sMKrJJY>`__ il y a déjà 27 ans pour la télé - à laquelle il n'est pas resté longtemps -, dans un sujet sur la plus grande école de journalisme française (CFJ). Mais ce n'est pas tout :
+On commence à percevoir le problème, lorsqu'on écoute les leçons de journalisme de ce professionnel du `divertissement <http://www.acrimed.org/Le-Petit-Journal-divertissement-ou-decheterie>`__, qui estime que le centre de son métier n'est pas sa fonction républicaine mais les techniques de formatage de l'"information". Problème `mis en lumière astucieusement par Pierre Carles <https://www.youtube.com/watch?v=eZf3sMKrJJY>`__ il y a déjà vingt-sept ans pour la télé - à laquelle il n'est pas resté longtemps -, dans un sujet sur la plus grande école de journalisme française (CFJ). Mais ce n'est pas tout :
 
  « Mélenchon s'en prend beaucoup à ceux qui posent des questions qui dérangent ». « Un bon journaliste est jugé par sa capacité à ne pas lâcher le morceau quand la réponse n'est pas satisfaisante ». 
 
