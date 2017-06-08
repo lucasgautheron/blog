@@ -19,7 +19,7 @@ Et ce n'est pas tout :
 
  « du 26 mai au 1er juin, **Emmanuel Macron** demeure stable avec **28.3% de contenus médias négatifs**, tandis que **Jean-Luc Mélenchon subit un taux qui grimpe à 65,1%**. »
 
-Pour l'OPIAM, tout cela n'a rien d'une révélation, mais cela pourrait en être une pour les journalistes de Libération, `honneur la profession <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__, qui jugent que notre travail relève du « procès d'intention » et de la « parano ». À moins que les chiffres soient eux-aussi atteints de trouble paranoïaque ?
+Pour l'OPIAM, tout cela n'a rien d'une révélation, mais cela pourrait en être une pour les journalistes de Libération, `fact-checkeurs auto fact-checkés <https://opiam.fr/2014/09/29/liberation-veut-fact-checker-les-journalistes-et-pire/>`__ del l'`honneur la profession <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__, qui jugent que notre travail relève du « procès d'intention » (`c'est vrai que confondre "intox" et "erreur" ne relève pas du procès d'intention <http://opiam.fr/2014/04/08/la-haine-flagrante-de-liberation-contre-melenchon/>`__) et de la « parano ». À moins que les chiffres soient eux-aussi atteints de trouble paranoïaque ?
 
 .. figure:: /images/guenole/parano.png
 
