@@ -7,9 +7,15 @@
 .. description: 
 .. type: text
 
-Le premier tour des élections législatives est imminent. Dans ce contexte, on attend du service public qu'il offre à son audience une couverture de la campagne qui soit respectueuse du pluralisme, condition fondamentale de l'exercice démocratique. En particulier, les débats entre candidats à la députation organisés par la chaine France 3 dans la plupart des circonscriptions devraient au moins donner la parole aux candidats des forces majeures. Si l'on peut comprendre que tous ne soient pas invités, leur nombre pouvant être assez élevé, on peut légitimement espérer que la première force de gauche du pays à la sortie de l'élection présidentielle soit représentée. Plusieurs rédactions de France Télévision en ont pourtant décidé autrement, et les exemples sont nombreux : 
+Le premier tour des élections législatives est imminent. Dans ce contexte, on attend du service public qu'il offre à son audience une couverture de la campagne qui soit respectueuse du pluralisme, condition fondamentale de l'exercice démocratique. En particulier, les débats entre candidats à la députation organisés par la chaine France 3 dans la plupart des circonscriptions devraient au moins donner la parole aux candidats des forces majeures. 
 
-Dans la deuxième circonscription de Corrèze, où Jean-Luc Mélenchon est arrivé second au premier tour de la présidentielle, la candidate de la France Insoumise n'était pas invitée au débat, auquel participaient les candidats de En Marche, de LR, du FN et du PS.
+.. TEASER_END
+
+Si l'on peut comprendre que tous ne soient pas invités, leur nombre pouvant être assez élevé, on peut légitimement espérer que la première force de gauche du pays à la sortie de l'élection présidentielle soit représentée. Plusieurs rédactions de France Télévision en ont pourtant décidé autrement, et les exemples sont nombreux : 
+
+Dans la dizième circonscription de la Gironde, où Mélenchon est arrivé troisième au premier tour de la présidentielle, et largement en tête de la gauche avec 12 points d'avance sur Benoit Hamon. Étaient invités à un débat par France 3 Aquitaine : le candidat LR, la candidate FN, et le candidat du PS, malgré le très mauvais score de Benoit Hamon dans cette circonscription. Interrogée sur la raison de la non-invitation de la France Insoumise au débat, la rédaction a répondu qu'elle n'avait "`que quatre chaises sur le plateau <https://www.youtube.com/watch?v=MGVU5e6DS64>`__". Le service public peut en effet débourser `100 000 euros pour refaire le bureau du directeur de Radio France <http://www.lexpress.fr/actualite/medias/apres-le-bureau-a-100-000-euros-les-sieges-en-cuir-de-mathieu-gallet_1663173.html>`__, mais ne peut pas se payer une chaise chez IKEA.
+
+Dans la deuxième circonscription de Corrèze, où Jean-Luc Mélenchon est arrivé second au premier tour, la candidate de la France Insoumise n'était pas invitée au débat, auquel participaient les candidats de En Marche, de LR, du FN et du PS. Un manque de micros peut-être ?
 
 Même situation dans la deuxième circonscription des Deux-Sèvres : là aussi, la France Insoumise est arrivée en deuxième position. Cette fois aussi, les seuls candidats invités étaient exclusivement ceux de LREM, LR, FN et le PS. À une différence près : la candidat "socialiste" Delphine Batho se réclamant de la "majorité présidentielle", tous les intervenants étaient de droite. Le candidat de la France Insoumise, Yannick Maillou, affirme avoir été "balladé" par la rédaction, pour se voir finalement répondre "`vous n'êtes pas invité <https://www.facebook.com/photo.php?fbid=10213806482855408&set=a.3506571662138.167294.1207192492&type=3&theater>`__".
 
@@ -22,10 +28,7 @@ Autre cas fort de symbole, le cas de la onzième circonscription du Pas-de-Calai
 * Anne Roquet (LREM, 15 % à la présidentielle)
 * Marine Tondelier (EELV, pas de candidat à la présidentielle)
 
-La rédaction de France 3 présente ce débat comme celui des "principaux candidats de la circonscription". Au vu des rapports de force à la présidentielle, on peut apprécier la qualité du jugement qui conduit à considérer la France Insoumise, première force de gauche, comme secondaire. Manque de bol pour la chaîne : un sondage publié hier donne Jean-Pierre Carpentier à 1 point du second tour avec 13,5 % des suffrages, loin devant Hervé Poly (4 %) et Marine Tondelier (2,5 %). Incroyable !  
+La rédaction de France 3 présente ce débat comme celui des "principaux candidats de la circonscription". Au vu des rapports de force à la présidentielle, on peut apprécier la qualité du jugement qui conduit à considérer la France Insoumise, première force de gauche, comme secondaire. Manque de bol pour la chaîne : un sondage publié hier donne Jean-Pierre Carpentier à 1 point du second tour avec 13,5 % des suffrages, loin devant Hervé Poly (4 %) et Marine Tondelier (2,5 %). Incroyable ! On ne s'en serait pas doutés. Contraint de se justifier, le clairvoyant service politique de la rédaction locale n'hésite pas à déformer la protestation de la FI, qui selon eux les "reproche de ne pas les avoir invités au profit du Parti Communiste". Non, il vous est reproché de ne pas les avoir considérés comme une force "importante" au même titre que le PCF ! On attend toujours les protestations des journalistes et notamment ceux de la presse `"de gauche" et pourfendeuse d'"injustices" <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__.
 
-
-
-.. TEASER_END
 
 
