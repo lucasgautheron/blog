@@ -23,7 +23,7 @@ Cependant, il se pourrait que jusqu'à présent, nous ayons été chanceux, ou m
 
 Si on suppose que les centrales nucléaires françaises sont plus fiables, et qu'on restreint l'étude à l'historique des réacteurs du pays, alors la probabilité d'un accident majeur en France est nulle puisqu'il n'y en a eu aucun. Cependant, la borne supérieure avec un taux de confiance de 95 % est de 93 % ce qui est une très mauvaise limite (on voudrait qu'elle tende vers 0). Cela peut surprendre, mais cette contrainte est très lâche du fait que le nombre d'années-réacteurs accumulées est bas par rapport au nombre à venir d'ici 2050.
 
-L'estimation empirique souffre donc de limitations statistiques intrinsèques, du fait de la rareté des événements. Mais quoi qu'il en soit, elle prédit des risques d'accident considérables. Une probabilité aussi basse qu'un pourcent serait inacceptable pour la plupart des gens.
+L'estimation empirique souffre donc de limitations statistiques intrinsèques, du fait de la faiblesse du temps d'observation accumulé. Mais quoi qu'il en soit, elle prédit des risques d'accident considérables. Une probabilité aussi basse qu'un pourcent serait inacceptable pour la plupart des gens.
 
 Il n'y donc plus qu'à espérer que l'expérience acquise après chaque accident a permis de réduire considérablement le risque que d'autres se reproduisent par la suite.
 
