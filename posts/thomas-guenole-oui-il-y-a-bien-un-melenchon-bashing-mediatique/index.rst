@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Thomas Guénolé publie aujourd'hui dans *Marianne*, à 4 jours du premier tour des élections législatives, une tribune intitulée Oui, il y a bien un "Mélenchon-bashing" médiatique. L'article complet est accessible gratuitement `sur le site de l'hebdomadaire <https://www.marianne.net/debattons/tribunes/oui-il-y-bien-un-melenchon-bashing-mediatique>`__. 
+Thomas Guénolé publie aujourd'hui dans *Marianne*, à 4 jours du premier tour des élections législatives, une tribune intitulée « Oui, il y a bien un "Mélenchon-bashing" médiatique ». L'article complet est accessible gratuitement `sur le site de l'hebdomadaire <https://www.marianne.net/debattons/tribunes/oui-il-y-bien-un-melenchon-bashing-mediatique>`__. 
 
 .. TEASER_END
 
@@ -18,6 +18,11 @@ Pour appuyer sa thèse, le politologue se base sur une étude quantitative de la
 Et ce n'est pas tout :
 
  « du 26 mai au 1er juin, **Emmanuel Macron** demeure stable avec **28.3% de contenus médias négatifs**, tandis que **Jean-Luc Mélenchon subit un taux qui grimpe à 65,1%**. »
+
+Pour l'OPIAM, tout cela n'a rien d'une révélation, mais cela pourrait en être une pour les journalistes de Libération, `honneur la profession <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__, qui jugent que notre travail relève du « procès d'intention » et de la « parano ». À moins que les chiffres soient eux-aussi atteints de trouble paranoïaque ?
+
+.. figure:: /images/guenole/parano.png
+
 
 L'article montre également que la négativité des commentaires au sujet de Jean-Luc Mélenchon augmente systématiquement à l'approche des scrutins, confirmant ainsi le rôle politique des médias. Ce n'est d'ailleurs pas le cas qu'en France : toute figure jugée trop à gauche est une cible du Parti Médiatique. Ainsi, `Paul Rimbert écrit à propos de Jérémy Corbyn, leader du parti travailliste au Royaume-Uni, <https://www.monde-diplomatique.fr/2016/09/RIMBERT/56204>`__, dans *Le Monde Diplomatique* :
 
