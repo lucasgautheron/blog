@@ -7,7 +7,11 @@
 .. description: 
 .. type: text
 
-Thomas Guénolé publie aujourd'hui dans *Marianne*, à 4 jours du premier tour des élections législatives, une tribune intitulée Oui, il y a bien un "Mélenchon-bashing" médiatique. L'article complet est accessible gratuitement `sur le site de l'hebdomadaire https://www.marianne.net/debattons/tribunes/oui-il-y-bien-un-melenchon-bashing-mediatique>`__. Pour appuyer sa thèse, le politologue se base sur une étude quantitative de la tonalité des médias, en comparant le taux de contenu négatif sur Jean-Luc Mélenchon et sur Emmanuel Macron. En particulier il avance que :
+Thomas Guénolé publie aujourd'hui dans *Marianne*, à 4 jours du premier tour des élections législatives, une tribune intitulée Oui, il y a bien un "Mélenchon-bashing" médiatique. L'article complet est accessible gratuitement `sur le site de l'hebdomadaire <https://www.marianne.net/debattons/tribunes/oui-il-y-bien-un-melenchon-bashing-mediatique>`__. 
+
+.. TEASER_END
+
+Pour appuyer sa thèse, le politologue se base sur une étude quantitative de la tonalité des médias, en comparant le taux de contenu négatif sur Jean-Luc Mélenchon et sur Emmanuel Macron. En particulier il avance que :
 
   « Il apparaît ainsi que durant le mois de mai 2017, **40.1% des contenus médias consacrés à Jean-Luc Mélenchon et à la France insoumise étaient à tonalité négative**. À titre de comparaison, sur la même période, **seulement 24.8% de ceux consacrés à Emmanuel Macron et à En Marche l’étaient**. »
 
