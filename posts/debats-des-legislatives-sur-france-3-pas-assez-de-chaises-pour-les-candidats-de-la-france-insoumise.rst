@@ -6,6 +6,8 @@
 .. link: 
 .. description: 
 .. type: text
+.. preview: /images/france3/censure.jpeg
+.. thumbnail: /images/france3/censure.jpeg
 
 Le premier tour des élections législatives est imminent. Dans ce contexte, on attend du service public qu'il offre à son audience une couverture de la campagne qui soit respectueuse du pluralisme, condition fondamentale de l'exercice démocratique. En particulier, les débats entre candidats à la députation organisés par la chaine France 3 dans la plupart des circonscriptions devraient au moins donner la parole aux candidats des forces majeures. 
 
@@ -30,5 +32,7 @@ Autre cas fort de symbole, le cas de la onzième circonscription du Pas-de-Calai
 
 La rédaction de France 3 présente ce débat comme celui des "principaux candidats de la circonscription". Au vu des rapports de force à la présidentielle, on peut apprécier la qualité du jugement qui conduit à considérer la France Insoumise, première force de gauche, comme secondaire. Manque de bol pour la chaîne : un sondage publié hier donne Jean-Pierre Carpentier à 1 point du second tour avec 13,5 % des suffrages, loin devant Hervé Poly (4 %) et Marine Tondelier (2,5 %). Incroyable ! On ne s'en serait pas doutés. `Contraint de se justifier <http://france3-regions.francetvinfo.fr/hauts-de-france/nord-pas-calais/legislatives-nord-pas-calais-mise-au-point-debats-organises-ce-mercredi-1268855.html>`__, le clairvoyant service politique de la rédaction locale n'hésite pas à déformer la protestation de la FI, qui selon eux les "reproche de ne pas les avoir invités au profit du Parti Communiste". Non, il vous est reproché de ne pas les avoir considérés comme une force "importante" au même titre que le PCF ! On attend toujours les protestations des journalistes et notamment ceux de la presse `"de gauche" et pourfendeuse d'"injustices" <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__.
 
+.. figure:: /images/france3/censure.jpeg
 
+   Jean-Pierre Carpentier devant les locaux de France 3 où se tenait le débat auquel il n'a pas été invité.
 
