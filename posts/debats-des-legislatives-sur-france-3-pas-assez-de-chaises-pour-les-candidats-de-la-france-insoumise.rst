@@ -1,4 +1,4 @@
-.. title: Débats des législatives sur France 3 : "pas assez de chaises" pour les candidats de la France Insoumise
+.. title: Débats des législatives sur France 3 : "pas assez de chaises" pour inviter les candidats de la France Insoumise
 .. slug: debats-des-legislatives-sur-france-3-pas-assez-de-chaises-pour-les-candidats-de-la-france-insoumise
 .. date: 2017-06-08 12:29:41 UTC+02:00
 .. tags: 
