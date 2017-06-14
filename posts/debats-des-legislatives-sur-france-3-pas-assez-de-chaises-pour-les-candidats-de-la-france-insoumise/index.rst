@@ -27,8 +27,8 @@ Autre cas fort de symbole, le cas de la onzième circonscription du Pas-de-Calai
 * Philippe Kemel (sortant, PS, 5 % à la présidentielle) 
 * Anne Roquet (LREM, 15 % à la présidentielle)
 * Alexandrine Pintus (LR-UDI, 8 % à la présidentielle)
-* Hervé Poly (PCF, pas de candidat à la présidentielle)
-* Marine Tondelier (EELV, pas de candidat à la présidentielle)
+* **Hervé Poly (PCF, pas de candidat à la présidentielle)**
+* **Marine Tondelier (EELV, pas de candidat à la présidentielle)**
 
 La rédaction de France 3 présente ce débat comme celui des "principaux candidats de la circonscription". Au vu des rapports de force à la présidentielle, on peut apprécier la qualité du jugement qui conduit à considérer la France Insoumise, première force de gauche, comme secondaire. Manque de bol pour la chaîne : un sondage publié hier donne Jean-Pierre Carpentier à 1 point du second tour avec 13,5 % des suffrages, loin devant Hervé Poly (4 %) et Marine Tondelier (2,5 %). Incroyable ! On ne s'en serait pas doutés. `Contraint de se justifier <http://france3-regions.francetvinfo.fr/hauts-de-france/nord-pas-calais/legislatives-nord-pas-calais-mise-au-point-debats-organises-ce-mercredi-1268855.html>`__, le clairvoyant service politique de la rédaction locale n'hésite pas à déformer la protestation de la FI, qui selon eux les "reproche de ne pas les avoir invités au profit du Parti Communiste". Non, il vous est reproché de ne pas les avoir considérés comme une force "importante" au même titre que le PCF ! On attend toujours les protestations des journalistes et notamment ceux de la presse `"de gauche" et pourfendeuse d'"injustices" <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires/>`__.
 
