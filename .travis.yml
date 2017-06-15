@@ -12,6 +12,7 @@ python:
 install:
  - pip install Nikola
  - pip install "Nikola[extras]"
+ - nikola plugin -i sidebar
 script:
  - nikola build
 after_success:
