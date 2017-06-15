@@ -1,7 +1,7 @@
 .. title: Emmanuel Macron et la révolution à l'envers
 .. slug: macron-1er
 .. date: 2017-06-14 18:59:17 UTC+02:00
-.. tags: 
+.. tags: draft 
 .. category: politique
 .. link: 
 .. description: 
