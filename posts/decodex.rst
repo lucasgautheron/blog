@@ -1,7 +1,7 @@
 .. title: Un mois de Décodex
 .. slug: un-mois-de-decodex
 .. date: 2017-02-10 01:15:21 UTC+01:00
-.. tags: Le Monde, Decodex
+.. tags: draft, Le Monde, Decodex
 .. category: medias
 .. link: 
 .. description: 

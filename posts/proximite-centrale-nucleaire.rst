@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-**Faire le choix du nucléaire, c'est aussi accepter le risque d'un accident dont les conséquences pourraient être désastreuses. Il convient alors de quantifier l'ampleur de ce risque. Par exemple, on peut calculer la population résidant à proximité d'une centrale nucléaire. On trouve ainsi qu'en métropole, près de deux tiers des français vivent à moins de 100 km d'un réacteur.**
+Faire le choix du nucléaire, c'est aussi accepter le risque d'un accident dont les conséquences pourraient être désastreuses. Il convient alors de quantifier l'ampleur de ce risque. Par exemple, on peut calculer la population résidant à proximité d'une centrale nucléaire. On trouve ainsi qu'en métropole, près de deux tiers des français vivent à moins de 100 km d'un réacteur.
 
 .. TEASER_END
 

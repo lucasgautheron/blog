@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-**Dans un précédent article, je proposais une estimation du nombre de personnes vivant à proximité d'une centrale nucléaire, afin d'évaluer la population concernée par un risque d'accident. Aujourd'hui, je vous propose une estimation empirique du risque d'accident "majeur" nucléaire.**
+Dans un précédent article, je proposais une estimation du nombre de personnes vivant à proximité d'une centrale nucléaire, afin d'évaluer la population concernée par un risque d'accident. Aujourd'hui, je vous propose une estimation empirique du risque d'accident "majeur" nucléaire.
 
  .. TEASER_END
 
