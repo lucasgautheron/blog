@@ -1,4 +1,4 @@
-.. title: Emmanuel Macron et la révolution à l'envers
+.. title: Emmanuel Macron ou la révolution à l'envers
 .. slug: macron-1er
 .. date: 2017-06-14 18:59:17 UTC+02:00
 .. tags: draft
@@ -46,7 +46,9 @@ Bref, Macron a été porté au second tour par une minorité de français qui vo
 
    Une de *Libération* pour son édition du week-end du 6 au 7 mai 2017. 
 
-En attendant, "En Marche" se dirige tout droit vers une écrasante majorité à l'Assemblée Nationale. À l'heure de l'entre-deux-tours où j'écris ces lignes, les estimations de nos très chers instituts de sondage [#]_ prédisent plus de 415 sièges [#]_, alors que l'abstention, à 51 %, n'avait jamais été aussi élevée au premier tour des élections législatives sous la cinquième République. Et si l'on compte le nombre de Sénateurs d'ores-et-déjà Macron-compatibles, celui-ci devrait disposer facilement des trois cinquièmes de parlementaires nécessaires pour faire passer les réformes constitutionnelles qui lui plairont. 
+En attendant, "En Marche" se dirige tout droit vers une écrasante majorité à l'Assemblée Nationale. À l'heure de l'entre-deux-tours où j'écris ces lignes, les estimations de nos très chers instituts de sondage [#]_ prédisent plus de 415 sièges [#]_, alors que l'abstention, à 51 %, n'avait jamais été aussi élevée au premier tour des élections législatives sous la cinquième République. Une analyse statistique montre également que 30 % des électeurs de Fillon et Macron se sont abstenus alors que c'est le cas de 55 % de l'électorat de Mélenchon et Le Pen, largement démobilisé cette fois. Et c'est normal : ce sont principalement les jeunes ou les classes populaires, qui les ont porté si haut à la présidentielle, qui s'abstiennent le plus. Sans compter l'effet autoréalisateur des sondages qui promettaient dès le 7 mai une vague "En Marche". À quoi bon voter dans ces conditions ? 
+
+Au final, si l'on compte le nombre de Sénateurs d'ores-et-déjà Macron-compatibles, celui-ci devrait disposer facilement des trois cinquièmes de parlementaires nécessaires pour faire passer les réformes constitutionnelles qui lui plairont. 
 
 
 .. [#] http://www.acrimed.org/Les-bacchanales-de-la-vertu-retour-sur-l-entre
