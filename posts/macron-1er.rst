@@ -1,7 +1,7 @@
 .. title: Emmanuel Macron ou la révolution à l'envers
 .. slug: macron-1er
 .. date: 2017-06-14 18:59:17 UTC+02:00
-.. tags: draft
+.. tags: 
 .. category: politique
 .. link: 
 .. description: 
@@ -50,8 +50,7 @@ En attendant, "En Marche" se dirige tout droit vers une écrasante majorité à 
 
 Au final, si l'on compte le nombre de Sénateurs d'ores-et-déjà Macron-compatibles, celui-ci devrait disposer facilement des trois cinquièmes de parlementaires nécessaires pour faire passer les réformes constitutionnelles qui lui plairont. Ainsi sont promis les plein-pouvoirs au Roi-Soleil, qui, avec l'appui du Parti Médiatique, a réuni miraculeusement les vieux briscards des neiges d'antan avec les jeunes de la dernière averse aux dents longues, la droite décomplexée et droite complexée, la France qui va bien avec celle qui n'a aucun problème. Une petite minorité qui s'arroge, en un tour de force, toute la puissance que peuvent lui conférer les pouvoirs exécutif, législatif, et médiatique.
 
-
-Il faut dire que tout ce petit monde en avait sa claque. Le Brexit, d'abord. Quel culot ! Cela les avait bien remontés. On se souvient des micro-trottoirs dès le lendemain du vote, où l'on se ruait sur quelques énergumènes disant leurs regrets d'avoir osé voter pour la sortie de l'Union Européenne [#]_ - toujours ce besoin d'injonction à la repentance d'une petite caste qui décrète qui a raison ou tort. Et puis Trump, alors qu'on croyait jusqu'au bout assurée la victoire de Clinton, candidate idéale de pour la troupe. L'ennemi semblait incontrôlable, indomptable, comme en 2005. Quel ennemi ? Le "populisme", c'est-à-dire, dans le langage des poudrés, le peuple lui-même, imprévisible et déraisonnable. Et c'est ainsi que l'on a basculé franchement - même si on était déjà pas loin du précipice - dans le post-politique [#]_, ou, disons-le franchement, le post-démocratique. Pour le traité constitutionnel, ils avaient trouvé la parade : on refait un nouveau traité avec l'essentiel de ce qu'on veut faire passer, et on arrête de s'embarrasser de l'avis des gens. Le problème, c'est que parfois, il y a des élections, et donc, il faut à nouveau faire de la "pédagogie". 
+Il faut dire que tout ce petit monde en avait sa claque. Le Brexit, d'abord. Quel culot ! Cela les avait bien remontés. On se souvient des micro-trottoirs dès le lendemain du vote, où l'on se ruait sur quelques expiateurs disant leurs regrets d'avoir osé voter pour la sortie de l'UE [#]_ - toujours ce besoin d'injonction à la repentance d'une petite caste qui ne cache pas sa réprobation de toute pensée dissonante. Et puis Trump, alors qu'on croyait jusqu'au bout assurée la victoire de Clinton, candidate idéale de pour la troupe. L'ennemi semblait incontrôlable, indomptable, comme en 2005. Mais quel ennemi ? Le "populisme", bien sûr, c'est-à-dire, dans le langage des poudrés, le peuple lui-même, imprévisible et déraisonnable. Et c'est ainsi que l'on a basculé nettement - même si on était déjà pas loin du précipice - dans le post-politique [#]_, ou, disons-le franchement, le post-démocratique. Pour le traité constitutionnel, ils avaient trouvé la parade : on refait un nouveau traité avec l'essentiel de ce qu'on veut faire passer, et on arrête de s'embarrasser de l'avis des gens. Le problème, c'est que parfois, il y a des élections, et donc, il faut à nouveau faire de la "pédagogie". Pour ça, heureusement, on peut toujours compter sur les désintoxicateurs de Libération - qui surveillent les méchants populistes qui, eux, nous mentent [#]_ - et les décodeurs du Monde qui démêlent le néolibéral du faux [#]_.
 
 
 .. [#] http://www.acrimed.org/Les-bacchanales-de-la-vertu-retour-sur-l-entre
@@ -66,3 +65,5 @@ Il faut dire que tout ce petit monde en avait sa claque. Le Brexit, d'abord. Que
 .. [#] http://www.francetvinfo.fr/elections/legislatives/legislatives-la-republique-en-marche-arrive-largement-en-tete-du-premier-tour-devant-les-republicains-et-le-fn-le-ps-lamine-selon-notre-estimation-ipsos-sopra-steria_2229529.html
 .. [#] http://www.acrimed.org/Le-meilleur-du-pire-de-la-couverture-mediatique
 .. [#] http://blog.mondediplo.net/2016-11-22-Politique-post-verite-ou-journalisme-post
+.. [#] https://opiam.fr/2014/04/08/la-haine-flagrante-de-liberation-contre-melenchon/
+.. [#] http://blog.mondediplo.net/2017-02-22-Charlot-ministre-de-la-verite
