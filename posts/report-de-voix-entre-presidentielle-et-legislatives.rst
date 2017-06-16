@@ -17,26 +17,29 @@ Dans un `billet précédent </posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et
    :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS", "AUTRE", "ABSTENTION"
    :widths: 40, 15, 15, 15, 15, 15, 15, 15
 
-   MACRON,35%,8%,3%,3%,6%,15%,30%
-   LE PEN,7%,6%,20%,2%,2%,9%,54%
-   FILLON,19%,22%,4%,4%,5%,16%,31%
-   MELENCHON,6%,3%,4%,18%,3%,13%,54%
-   AUTRE,6%,4%,8%,5%,4%,14%,59%
-   ABSTENTION,7%,5%,3%,3%,3%,6%,75%
+   MACRON,40%,4%,3%,3%,4%,15%,30%
+   LE PEN,4%,5%,23%,3%,3%,7%,55%
+   FILLON,19%,29%,3%,3%,3%,17%,26%
+   MELENCHON,5%,3%,3%,16%,4%,12%,56%
+   AUTRE,10%,5%,6%,8%,7%,18%,46%
+   ABSTENTION,3%,2%,2%,2%,2%,5%,84%
 
 .. csv-table:: Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives. Suffrages exprimés seulement (abstention exclue).
-   :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS", "AUTRE", "ABSTENTION"
+   :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS", "AUTRE"
    :widths: 40, 15, 15, 15, 15, 15, 15, 15
 
-   MACRON,50%,11%,4%,4%,8%,21%
-   LE PEN,15%,13%,43%,5%,5%,19%
-   FILLON,28%,31%,5%,6%,7%,23%
-   MELENCHON,12%,7%,9%,38%,6%,28%
-   AUTRE,16%,9%,19%,13%,9%,33%
-   ABSTENTION,26%,18%,10%,10%,10%,25%
-
+   MACRON,58%,6%,4%,5%,6%,22%
+   LE PEN,9%,11%,52%,7%,6%,16%
+   FILLON,25%,39%,4%,4%,4%,23%
+   MELENCHON,12%,6%,8%,37%,10%,28%
+   AUTRE,19%,10%,10%,14%,13%,34%
+   ABSTENTION,18%,15%,12%,13%,13%,29%
 
 .. figure:: /images/legislatives/tout.png
+
+   Report de voix (normalisés) en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
+
+.. figure:: /images/legislatives/tout_normalise.png
 
    Report de voix (normalisés) en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
 
