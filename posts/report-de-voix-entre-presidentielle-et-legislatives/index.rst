@@ -11,6 +11,8 @@
 
 Dans un `billet précédent </posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et-les-gens-du-non/>`__, je publiais les estimations de trajectoires de vote entre le référendum de 2005 et le premier tour de la Présidentielle de 2017 obtenues par "inférence écologique". J'ai appliqué la même méthode au report du premier tour de la présidentielle au premier des législatives. Pour plus de détails sur la méthode, je vous renvoie vers l'article en question. En attendant, voici les résultats - en gardant en tête que la marge d'erreur est de plusieurs points :
 
+.. TEASER_END
+
 .. csv-table:: Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
    :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS", "AUTRE", "ABSTENTION"
    :widths: 40, 15, 15, 15, 15, 15, 15, 15
