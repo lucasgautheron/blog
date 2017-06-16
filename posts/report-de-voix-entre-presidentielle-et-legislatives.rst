@@ -6,6 +6,8 @@
 .. link: 
 .. description: 
 .. type: text
+.. preview: /images/legislatives/tout.png
+.. thumbnail: /images/legislatives/tout.png
 
 Dans un `billet précédent </posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et-les-gens-du-non/>`__, je publiais les estimations de trajectoires de vote entre le référendum de 2005 et le premier tour de la Présidentielle de 2017 obtenues par "inférence écologique". J'ai appliqué la même méthode au report du premier tour de la présidentielle au premier des législatives. Voici les résultats :
 
