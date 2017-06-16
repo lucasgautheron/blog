@@ -6,6 +6,8 @@
 .. link: 
 .. description: 
 .. type: text
+.. preview: /images/macron-1er/roi.jpg
+.. thumbnail: /images/macron-1er/roi.jpg
 
 On a élu un roi
 ===============
