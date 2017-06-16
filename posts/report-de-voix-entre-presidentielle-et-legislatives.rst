@@ -26,7 +26,7 @@ Dans un `billet précédent </posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et
 
 .. csv-table:: Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives. Suffrages exprimés seulement (abstention exclue).
    :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS", "AUTRE"
-   :widths: 40, 15, 15, 15, 15, 15, 15, 15
+   :widths: 40, 15, 15, 15, 15, 15, 15
 
    MACRON,58%,6%,4%,5%,6%,22%
    LE PEN,9%,11%,52%,7%,6%,16%
