@@ -28,7 +28,7 @@ Problème : Mélenchon a certes bien prononcé l'expression "crevards socialiste
 * Ce sont les propos de Mélenchon qui créent de la violence dans la société, et non pas la misère, la violence policière, la répression, la propagande médiatique perpétuelle, comme on aurait pu le croire sottement.
 * Les militants de gauche sont "très cons", agissent en milice et donc traduisent en violence physique les propos de leur "gourou"
 
-Au final, un suspect a bien été appréhendé. Ce n'est pas, comme RMC le suggère, un militant de la France Insoumise, mais... le maire de droite de Champignolles, faisant partie des élus ayant parrainés la candidature d'Henri Guaino à l'élection présidentielle. On ne pouvait pas plus viser à côté... À moins que la seule cible du Parti Médiatique soit bien Jean-Luc Mélenchon !
+Au final, un suspect a bien été appréhendé et placé en garde à vue. Ce n'est pas, comme RMC le suggère, un militant de la France Insoumise, mais... le maire de droite de Champignolles, faisant partie des élus ayant parrainé la candidature d'Henri Guaino à l'élection présidentielle. On ne pouvait pas plus viser à côté... À moins que la seule cible du Parti Médiatique soit bien Jean-Luc Mélenchon !
 
 Pour revoir l'extrait en question :
 
