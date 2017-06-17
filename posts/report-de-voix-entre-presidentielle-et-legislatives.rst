@@ -1,7 +1,7 @@
 .. title: Report de voix entre Présidentielle et législatives
 .. slug: report-de-voix-entre-presidentielle-et-legislatives
 .. date: 2017-06-16 09:25:43 UTC+02:00
-.. tags: législatives, présidentielle
+.. tags: législatives 2017, présidentielle 2017
 .. category: politique
 .. link: 
 .. description: 
