@@ -6,6 +6,7 @@
 .. link: 
 .. description: Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives à Paris, est agressée dans un marché du cinquième arrondissement alors qu'elle tractait. L'agresseur s'enfuit aussitôt : on ne connait donc pas son identité alors que l'information circule déjà allègrement dans les médias. Mais en l'absence de suspect, le Parti Médiatique avait déjà un coupable tout désigné : Jean-Luc Mélenchon. Celui-ci, en pleine campagne à Marseille, à près de 700 km du lieu de l'incident, était en effet un danger potentiel pour l'ex candidate à la primaire de la droite.
 .. type: text
+.. previewimage: /images/nkm-jlm/opiam.jpg
 
 Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives à Paris, est agressée dans un marché du cinquième arrondissement alors qu'elle tractait. L'agresseur s'enfuit aussitôt : on ne connait donc pas son identité alors que l'information circule déjà allègrement dans les médias. Mais en l'absence de suspect, le Parti Médiatique avait déjà un coupable tout désigné : Jean-Luc Mélenchon. Celui-ci, en pleine campagne à Marseille, à près de 700 km du lieu de l'incident, était en effet un danger potentiel pour l'ex candidate à la primaire de la droite.
 
