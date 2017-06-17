@@ -3,6 +3,11 @@ cache:
     apt: true
     pip: true
 
+addons:
+  apt:
+    packages:
+      - language-pack-fr
+
 before_install:
  - pip install --upgrade pip wheel
 language: python
