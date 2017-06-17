@@ -11,7 +11,7 @@ Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives
 
 .. TEASER_END
 
-Cela n'a pas déstabilisé Alain Marschall et Olivier Truchot, animateurs des Grandes Gueules sur RMC, qui très sûrs d'eux-mêmes, ont accusé Mélenchon d'être responsable. Bien sûr, il s'agit d'une telle ineptie qu'il vaut mieux ne pas la prononcer soit même au risque de se ridiculiser totalement. Donc, alors qu'il interrogeait à ce sujet Jean-Philippe Daviaud, chargé de la vie associative et soutien de Myriam El Khomri, Alain Marschall a commencé par essayer de lui faire dire ce qu'il voulait, technique du "témoin", du "micro-trottoir" ou encore du "on", bien connue dans le milieu journalistique. Voilà à quoi ressemblait ce grand moment de radio :
+Cela n'a pas déstabilisé Alain Marschall et Olivier Truchot, animateurs des Grandes Gueules sur RMC, qui très sûrs d'eux-mêmes, ont accusé Mélenchon d'être responsable. Bien sûr, il s'agit d'une telle ineptie qu'il vaut mieux ne pas la prononcer soit même au risque de se ridiculiser totalement. Donc, alors qu'il interrogeait à ce sujet Jean-Philippe Daviaud, chargé de la vie associative et soutien de Myriam El Khomri, Alain Marschall a commencé par essayer de lui faire dire ce qu'il voulait, technique du "témoin", du "micro-trottoir" ou encore du "on", bien connue dans le milieu journalistique. Voilà à quoi ressemblait ce grand moment de radio [#]_ :
 
   "**Qui** l'a exacerbé selon-vous ce climat de tension en ce moment Jean-Philippe Daviaud ?"
 
