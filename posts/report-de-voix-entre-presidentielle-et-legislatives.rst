@@ -1,8 +1,8 @@
 .. title: Report de voix entre Présidentielle et législatives
 .. slug: report-de-voix-entre-presidentielle-et-legislatives
 .. date: 2017-06-16 09:25:43 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: législatives, présidentielle
+.. category: politique
 .. link: 
 .. description: 
 .. type: text
@@ -37,7 +37,7 @@ Dans un `billet précédent </posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et
 
 .. figure:: /images/legislatives/tout.png
 
-   Report de voix (normalisés) en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
+   Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
 
 .. figure:: /images/legislatives/tout_normalise.png
 
@@ -54,4 +54,33 @@ Il me semble que les principaux enseignements tirés de ces résultats sont les 
 
 * Il n'y a pas une forte volonté de donner une majorité à Macron, sauf chez les électeurs de Fillon.
 * Le report vers l'abstention est énorme, sauf chez les électeurs de Macron et Fillon. Autrement dit, le score élevé de la droite "républicaine" est du à une faible participation de la gauche et des électeurs du Front National, démobilisés depuis la Présidentielle.
+
+
+Annexe
+======
+
+Voici, en annexe, les résultats en fusionnant PS, PRG, DVG et EELV :
+
+.. csv-table:: Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives.
+   :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS+EELV+PRG+DVG", "AUTRE", "ABSTENTION"
+   :widths: 40, 15, 15, 15, 15, 20, 15, 15
+
+   MACRON,37%,4%,3%,3%,8%,11%,33%
+   LE PEN,4%,5%,23%,3%,4%,6%,54%
+   FILLON,20%,28%,3%,3%,5%,15%,26%
+   MELENCHON,5%,3%,3%,16%,9%,8%,56%
+   AUTRE,11%,5%,6%,8%,14%,11%,45%
+   ABSTENTION,4%,3%,2%,2%,4%,4%,83%
+
+.. csv-table:: Report de voix en % entre le premier tour de l'élection présidentielle et le premier tour des élections législatives. Suffrages exprimés seulement (abstention exclue).
+   :header: "Présidentielle", "REM", "LR", "FN", "FI", "PS+EELV+PRG+DVG", "AUTRE"
+   :widths: 40, 15, 15, 15, 15, 20, 15
+
+   MACRON,56%,6%,4%,5%,12%,17%
+   LE PEN,10%,11%,50%,7%,8%,14%
+   FILLON,27%,38%,5%,4%,7%,20%
+   MELENCHON,12%,6%,8%,36%,20%,18%
+   AUTRE,21%,10%,10%,14%,25%,20%
+   ABSTENTION,20%,15%,11%,12%,21%,20%
+
 
