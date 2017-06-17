@@ -1,13 +1,15 @@
 .. title: NKM agressée à Paris : la faute de Mélenchon pour RMC
 .. slug: nkm-agressee-a-paris-la-faute-de-melenchon-pour-RMC
 .. date: 2017-06-17 17:23:51 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: médias, OPIAM
+.. category: politique
 .. link: 
-.. description: 
+.. description: Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives à Paris, est agressée dans un marché du cinquième arrondissement alors qu'elle tractait. L'agresseur s'enfuit aussitôt : on ne connait donc pas son identité alors que l'information circule déjà allègrement dans les médias. Mais en l'absence de suspect, le Parti Médiatique avait déjà un coupable tout désigné : Jean-Luc Mélenchon. Celui-ci, en pleine campagne à Marseille, à près de 700 km du lieu de l'incident, était en effet un danger potentiel pour l'ex candidate à la primaire de la droite.
 .. type: text
 
 Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives à Paris, est agressée dans un marché du cinquième arrondissement alors qu'elle tractait. L'agresseur s'enfuit aussitôt : on ne connait donc pas son identité alors que l'information circule déjà allègrement dans les médias. Mais en l'absence de suspect, le Parti Médiatique avait déjà un coupable tout désigné : Jean-Luc Mélenchon. Celui-ci, en pleine campagne à Marseille, à près de 700 km du lieu de l'incident, était en effet un danger potentiel pour l'ex candidate à la primaire de la droite.
+
+.. TEASER_END
 
 Cela n'a pas déstabilisé Alain Marschall et Olivier Truchot, animateurs des Grandes Gueules sur RMC, qui très sûrs d'eux-mêmes, ont accusé Mélenchon d'être responsable. Bien sûr, il s'agit d'une telle ineptie qu'il vaut mieux ne pas la prononcer soit même au risque de se ridiculiser totalement. Donc, alors qu'il interrogeait à ce sujet Jean-Philippe Daviaud, chargé de la vie associative et soutien de Myriam El Khomri, Alain Marschall a commencé par essayer de lui faire dire ce qu'il voulait, technique du "témoin", du "micro-trottoir" ou encore du "on", bien connue dans le milieu journalistique. Voilà à quoi ressemblait ce grand moment de radio :
 
@@ -26,7 +28,7 @@ Problème : Mélenchon a certes bien prononcé l'expression "crevards socialiste
 * Ce sont les propos de Mélenchon qui créent de la violence dans la société, et non pas la misère, la violence policière, la répression, la propagande médiatique perpétuelle, comme on aurait pu le croire sottement.
 * Les militants de gauche sont "très cons", agissent en milice et donc traduisent en violence physique les propos de leur "gourou"
 
-Au final, un suspect a bien été appréhendé. Ce n'est pas, comme RMC le suggère, un militant de la France Insoumise, mais... le maire de droite de Champignolles, faisant partie des élus ayant parrainés la candidature d'Henri Guaino à l'élection présidentielle. On ne pouvait pas plus viser à côté... À moins que la seule cible du Parti Médiatique soit bien Jean-Luc Mélenchon !
+Au final, un suspect a bien été appréhendé et placé en garde à vue. Ce n'est pas, comme RMC le suggère, un militant de la France Insoumise, mais... le maire de droite de Champignolles, faisant partie des élus ayant parrainé la candidature d'Henri Guaino à l'élection présidentielle. On ne pouvait pas plus viser à côté... À moins que la seule cible du Parti Médiatique soit bien Jean-Luc Mélenchon !
 
 Pour revoir l'extrait en question :
 
