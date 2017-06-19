@@ -13,7 +13,7 @@ J'ai récemment participé à l'émission politique du dimanche sur C8. L'invit�
 .. raw:: html
 
    <blockquote class="twitter-tweet" data-lang="fr"><p lang="und" dir="ltr">😬 <a href="https://twitter.com/hashtag/Quotidien?src=hash">#Quotidien</a> <a href="https://t.co/YnZAqC8rZn">pic.twitter.com/YnZAqC8rZn</a></p>&mdash; Quotidien (@Qofficiel) <a href="https://twitter.com/Qofficiel/status/871788488441700353">5 juin 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Je suis content que mon message soit passé. Le FN, parce qu'il n'est uni que par son projet ethnique pour la France qui repousse à juste titre, est une machine à faire gagner ceux qu'il prétend combattre. À mon avis, c'est ça, une façon efficace de s'attaquer à ce parti. Plutôt qu'un concert anti-FN place de la République à l'entre-deux-tours dans une ville où Macron a fait 90 % au second tour...
 
