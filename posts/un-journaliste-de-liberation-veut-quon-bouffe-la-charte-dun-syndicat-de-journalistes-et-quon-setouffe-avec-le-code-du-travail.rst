@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. preview: /images/libe-desintox/libe2.png
+.. previewimage: /images/libe-desintox/libe2.png
 .. thumbnail: /images/libe-desintox/libe2.png
 
 Visiblement, Cédric Mathiot n'a pas apprécié qu'on critique son article de la rubrique « Désintox » de *Libération* et s'est livré à un léger pétage de plomb.
