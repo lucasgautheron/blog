@@ -135,7 +135,8 @@ NAVIGATION_LINKS = {
         ("/stories/a-propos-de-ce-blog/", "A propos"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/rss.xml", "Flux RSS"),
+        ("/stories/s-abonner/", "S'abonner"),
     ),
 }
 
