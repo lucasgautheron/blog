@@ -13,6 +13,8 @@ Bonjour à tous,
 En 1917 débutait la Cosmologie moderne. Pour ses 100 ans, j'aimerais organiser la sortie du site au sujet de son histoire et sur lequel je travaille depuis longtemps.
 C'est un gros travail de bibliographie, de modélisation, de calculs, etc. Et il n'est pas terminé. Cependant, j'aimerais déjà commencer à consulter des personnes susceptibles de m'aider dans sa relecture.
 
+.. TEASER_END
+
 **Voici le site** : `https://cosmology.education/ <https://cosmology.education/>`__.
 
 Vous pouvez trouver l'avancement de la relecture ici : `https://cosmology.education/graph.html <https://cosmology.education/graph.html>`__.
