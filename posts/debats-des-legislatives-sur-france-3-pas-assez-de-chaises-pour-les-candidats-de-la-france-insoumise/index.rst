@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. preview: /images/france3/censure.jpeg
+.. previewimage: /images/france3/censure.jpeg
 .. thumbnail: /images/france3/censure.jpeg
 
 Le premier tour des élections législatives est imminent. Dans ce contexte, on attend du service public qu'il offre à son audience une couverture de la campagne qui soit respectueuse du pluralisme, condition fondamentale de l'exercice démocratique. En particulier, les débats entre candidats à la députation organisés par la chaine France 3 dans la plupart des circonscriptions devraient au moins donner la parole aux candidats des forces majeures. 

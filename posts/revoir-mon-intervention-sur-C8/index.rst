@@ -8,7 +8,11 @@
 .. type: text
 .. previewimage: /images/c8/horrib.jpg
 
-J'ai récemment participé à l'émission politique du dimanche sur C8. L'invité principal était Florian Philippot. Le concept est assez étrange, pour le moins, puisque j'étais invité à débattre avec deux jeunes militants dans une voiture. Pas très écolo donc. Il s'agissait d'un militant du PS et d'un militant LR. À la fin, j'ai pu poser une question à l'adresse de Florian Philippot, commençant par "À quoi servez-vous ?". Cela a permis à Laurence Ferrarri de se faire un bon "buzz" puisque l'extrait où elle résume ma question à été retweeté plus de 14 000 fois :
+J'ai récemment participé à l'émission politique du dimanche sur C8. L'invité principal était Florian Philippot. Le concept est assez étrange, pour le moins, puisque j'étais invité à débattre avec deux jeunes militants dans une voiture. Pas très écolo donc. Il s'agissait d'un militant du PS et d'un militant LR. À la fin, j'ai pu poser une question à l'adresse de Florian Philippot, commençant par "À quoi servez-vous ?".
+
+.. TEASER_END
+
+Cela a permis à Laurence Ferrarri de se faire un bon "buzz" puisque l'extrait où elle résume ma question à été retweeté plus de 14 000 fois :
 
 .. raw:: html
 
