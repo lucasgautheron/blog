@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/laireche/libetorchon.jpg
 
 Décidément, rien ne va plus pour Rachid Laïreche. On savait déjà qu'il avait `divorcé de la pensée <https://opiam.fr/2016/02/23/rllib/>`__. Maintenant, il semblerait que même sa haine de Jean-Luc Mélenchon ne soit plus une source d'inspiration suffisante.
 
@@ -24,6 +25,8 @@ Cette formule est une habitude pour le journaliste qui l'emploie systématiqueme
   Cette semaine, **le chef des Insoumis** s’est confié, dans un long entretien, au magazine Society, où il qualifie François Hollande de «pauvre type», développe sa stratégie et son rapport à la violence [`4 <http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/06/09/jean-luc-melenchon-le-cout-de-l-insoumission_1575805>`__]
 
   Arrivé en tête dans la 4e circonscription des Bouches-du-Rhône, **le chef des «insoumis»** termine sa longue campagne près de la Canebière. [...] **Le chef des insoumis** ne se pose pas en candidat des promesses. [`5 <http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/06/16/melenchon-a-marseille-sortez-de-chez-vous-bon-sang_1577434>`__]
+
+(Ici, il y a des guillemets pour bien insister au cas où certains n'auraient pas compris la marque ironique : le journaliste doit bien s'adapter à son lectorat)
 
   Le hasard n’existe pas : **le chef des insoumis a débuté sa tournée** dans le XVIIIe arrondissement [...] [`6 <http://www.liberation.fr/france/2017/05/22/melenchon-a-paris-ne-votez-pas-pour-l-ennemi-simplement-parce-qu-il-a-une-bonne-mine_1571513>`__]
 
