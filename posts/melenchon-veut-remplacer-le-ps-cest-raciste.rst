@@ -11,9 +11,9 @@ Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment 
 
 .. TEASER_END
 
-  (L'animateur) « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
+  L'animateur : « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
 
-  (Georges-Marc Benamou) : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
+  Georges-Marc Benamou : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
 
 .. raw:: html
   
