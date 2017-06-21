@@ -8,7 +8,7 @@
 .. type: text
 .. previewimage: /images/benamou/jlm.jpg
 
-Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ».
+Les auditeurs de *FranceTV Info* ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ».
 
 .. TEASER_END
 
@@ -26,7 +26,7 @@ Voici l'extrait en question - attention, ça part très loin :
      <p>Votre navigateur ne peut pas lire cet extrait audio. Vous pouvez cependant le <a href="/benamou/extrait.mp3">télécharger ici</a>.</p>
    </audio>
 
-Donc, vouloir remplacer un concurrent politique, pour reprendre l'avantage dans une gauche dévastée après qu'il ait été responsable d'un quinquennat honteux, c'est raciste. Bon, on ne va pas se mentir, c'est une interprétation plutôt exotique. Mais elle prend encore plus de saveur quand on connait le contexte, qui est la candidature de Jean-Luc Mélenchon dans la quatrième circonscription de Marseille. FranceTV Info, comme beaucoup d'autres médias, l'`avaient accusé de "parachutage" <http://www.francetvinfo.fr/politique/melenchon/legislatives-jean-luc-melenchon-parachute-a-marseille_2184663.html>`__ et de s'attaquer au parti socialiste - Patrick Mennucci (PS) étant considéré comme propriétaire de cette circonscription - plutôt qu'au Front National. Réponse de Mélenchon :
+Donc, vouloir remplacer un concurrent politique, pour reprendre l'avantage dans une gauche dévastée par lui et le quinquennat honteux dont il est comptable, c'est raciste. Bon, on ne va pas se mentir, c'est une interprétation plutôt exotique. Mais elle prend encore plus de saveur quand on connait le contexte de la citation originale, qui est la candidature de Jean-Luc Mélenchon dans la quatrième circonscription de Marseille. FranceTV Info, comme beaucoup d'autres médias, l'`avaient accusé de "parachutage" <http://www.francetvinfo.fr/politique/melenchon/legislatives-jean-luc-melenchon-parachute-a-marseille_2184663.html>`__ et de s'attaquer au parti socialiste - Patrick Mennucci (PS) étant considéré comme propriétaire de cette circonscription - plutôt qu'au Front National. Réponse de Mélenchon :
 
   « **Je ne veux pas affaiblir le PS, je veux le remplacer** ! Nous allons tourner la page des gens qui nous ont trahis pendant cinq ans. **Les circonscriptions n'appartiennent à personne si ce n'est aux électeurs** »
 
