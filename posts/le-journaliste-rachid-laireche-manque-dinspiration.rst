@@ -29,4 +29,4 @@ Cette formule est une habitude pour le journaliste qui l'emploie systématiqueme
 
 On notera aussi l'usage très subtil du mot "tournée" pour désigner ses déplacements successifs, pour réduire ses discours `à des "spectacles" ou des "shows" <https://opiam.fr/category/1-le-pire/vocabulaire-de-journalistes/melenchon-show/>`__.
 
-Bref, Rachid Laïreche nous a habitué à mieux dans `le pire <http://opiam.fr/category/1-le-pire/1-liberation/3-rachid-laireche/>`__. On lui souhaite donc de bonnes vacances, et qu'il soit plus inspiré à son retour !
+Bref, Rachid Laïreche nous a habitué à mieux dans `le pire <http://opiam.fr/category/1-le-pire/1-liberation/3-rachid-laireche/>`__. On lui souhaite donc de bonnes vacances, et qu'il soit plus inspiré à son retour ! En attendant, nous "insoumis" lui rappelons que contrairement à lui, nous ne recevons jamais d'ordre, et nous avons le dernier mot sur la publication de nos articles !
