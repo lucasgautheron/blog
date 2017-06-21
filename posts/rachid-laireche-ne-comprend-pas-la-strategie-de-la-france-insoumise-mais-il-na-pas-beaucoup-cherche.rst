@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/laireche-comprend-pas/libetorchon.jpg
 
 Dans un article du `22 mai 2017 <http://www.liberation.fr/france/2017/05/22/melenchon-a-paris-ne-votez-pas-pour-l-ennemi-simplement-parce-qu-il-a-une-bonne-mine_1571513>`__, en pleines élections législatives, `Rachid Laïreche <https://opiam.fr/category/1-le-pire/1-liberation/3-rachid-Laïreche/>`__ écrit pour *Libération* au sujet de la visite de Jean-Luc Mélenchon dans le XVIIIe arrondissement de Paris.
 Il mérite d'être lu, car c'est encore une bel exemple de traitement rigoureux de ce journal `autoproclamé "de gauche" <https://opiam.fr/2014/04/28/a-liberation-zentils-zournalistes-contre-mechants-actionnaires>`__.
