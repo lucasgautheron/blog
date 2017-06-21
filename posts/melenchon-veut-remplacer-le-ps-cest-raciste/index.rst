@@ -8,14 +8,15 @@
 .. type: text
 .. previewimage: /images/benamou/jlm.jpg
 
-Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ». Extrait (attention, ça part très loin).
+Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ».
 
 .. TEASER_END
 
+Voici l'extrait en question - attention, ça part très loin :
 
-  L'animateur : « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
+  *L'animateur* : « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
 
-  Georges-Marc Benamou : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
+  *Georges-Marc Benamou* : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
 
 .. raw:: html
   
@@ -35,4 +36,4 @@ Rappelons quand même, pour conclure, que pour ceux-là, `c'est le discours au P
 
 .. figure:: /images/benamou/jlm.jpg
 
-   Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes.
+   Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes. Photo Stéphane Burlot.
