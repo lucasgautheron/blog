@@ -36,4 +36,4 @@ Rappelons quand même, pour conclure, que pour ceux-là, `c'est le discours au P
 
 .. figure:: /images/benamou/jlm.jpg
 
-   Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes. Photo Stéphane Burlot.
+   Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes. Photograĥie : Stéphane Burlot.
