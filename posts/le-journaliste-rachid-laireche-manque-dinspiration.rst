@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/laireche/libetorchon.jpg
 
 Décidément, rien ne va plus pour Rachid Laïreche. On savait déjà qu'il avait `divorcé de la pensée <https://opiam.fr/2016/02/23/rllib/>`__. Maintenant, il semblerait que même sa haine de Jean-Luc Mélenchon ne soit plus une source d'inspiration suffisante.
 
