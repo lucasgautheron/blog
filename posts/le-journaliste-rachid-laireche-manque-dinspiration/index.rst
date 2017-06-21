@@ -12,7 +12,7 @@ Décidément, rien ne va plus pour Rachid Laïreche. On savait déjà qu'il avai
 
 .. TEASER_END
 
-En effet, alors que le journaliste de Libération est coutumier des articles à charge ou malhonnêtes contre Jean-Luc Mélenchon, son dernier papier est très décevant. Il `n'y compare pas Mélenchon à l'extrême droite <http://opiam.fr/2016/02/23/rllib/>`__. Il ne le montre pas comme une rock-star vociférant devant une meute. Il demeure relativement neutre. Vraisemblablement, il est en panne d'idées. Alors, pour ne pas "servir la soupe", il recycle une vieille formule sarcastique qu'il a l'habitude d'utiliser pour désigner Mélenchon : "le chef des insoumis". Bien sûr, l'objectif est d'insinuer que les insoumis sont soumis à Mélenchon et usurpent leur nom. Voyez plutôt :
+En effet, alors que le journaliste de *Libération* est coutumier des articles à charge ou malhonnêtes contre Jean-Luc Mélenchon, son dernier papier est très décevant. Il `n'y compare pas Mélenchon à l'extrême droite <http://opiam.fr/2016/02/23/rllib/>`__. Il ne le montre pas comme une rock-star vociférant devant une meute. Il demeure relativement neutre. Vraisemblablement, il est en panne d'idées. Alors, pour ne pas "servir la soupe", il recycle une vieille formule sarcastique qu'il a l'habitude d'utiliser pour désigner Mélenchon : "le chef des insoumis". Bien sûr, l'objectif est d'insinuer que les insoumis sont soumis à Mélenchon et usurpent leur nom. Voyez plutôt :
 
   **Le chef des Insoumis** est de bonne humeur. [...] Un peu plus loin, **le chef des Insoumis** explique que chaque député a son caractère. [`1 <http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/06/20/le-ticket-pour-discuter-avec-nous-c-est-de-voter-contre-la-confiance-au-gouvernement_1578330>`__]
 
