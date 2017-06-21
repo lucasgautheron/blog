@@ -7,13 +7,13 @@
 .. description: 
 .. type: text
 
-Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme "journaliste à France Info" sur le site du média, mais surtout "commis de Lagardère" et "scribe de Sarkozy" pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir "Remplacer le Parti Socialiste". Extraits (attention, ça part très loin) : 
+Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ». Extraits (attention, ça part très loin) : 
 
 .. TEASER_END
 
-  *L'animateur* : « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
+  (L'animateur) « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
 
-  *Georges-Marc Benamou* : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
+  (Georges-Marc Benamou) : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
 
 .. raw:: html
   
@@ -27,4 +27,4 @@ Donc, vouloir remplacer un concurrent politique, pour reprendre l'avantage dans 
 
   « **Je ne veux pas affaiblir le PS, je veux le remplacer** ! Nous allons tourner la page des gens qui nous ont trahis pendant cinq ans. **Les circonscriptions n'appartiennent à personne si ce n'est aux électeurs** »
 
-Quand une militante socialiste à Marseille dit  « `Mélenchon, rentre chez toi. On est chez nous ! <https://www.mediapart.fr/journal/france/080617/marseille-melenchon-chamboule-tout?onglet=full>`__ », il n'y aucun relent chauvin ou xénophobe. Quand les médias parlent de parachutage pour un député de la Nation, quand ils parlent de "`fief <http://www.francetvinfo.fr/elections/franceinfo-en-campagne-dans-le-fief-de-francois-hollande-a-tulle-la-tentation-macron_2223377.html>`__", c'est parfaitement non démagogue et non xénophobe. Idem quand ils `parlent comme le FN <https://opiam.fr/2013/04/22/des-journalistes-et-des-solferiniens-qui-disent-comme-le-pen/>`__. Par contre, si Mélenchon ose se présenter dans une circonscription où il a le malheur de ne pas être né, pour y remplacer le PS, c'est "raciste". Mais il ne faut pas attendre des journalistes beaucoup plus de perspicacité, car c'est le problème des imbéciles heureux qui sont nés quelque-part : ce sont des imbéciles.
+Quand une militante socialiste à Marseille dit  « `Mélenchon, rentre chez toi. On est chez nous ! <https://www.mediapart.fr/journal/france/080617/marseille-melenchon-chamboule-tout?onglet=full>`__ », il n'y aucun relent chauvin ou xénophobe. Quand les médias parlent de parachutage pour un député de la Nation, quand ils parlent de « `fief <http://www.francetvinfo.fr/elections/franceinfo-en-campagne-dans-le-fief-de-francois-hollande-a-tulle-la-tentation-macron_2223377.html>`__ », c'est parfaitement non démagogue et non xénophobe. Idem quand ils `parlent comme le FN <https://opiam.fr/2013/04/22/des-journalistes-et-des-solferiniens-qui-disent-comme-le-pen/>`__. Par contre, si Mélenchon ose se présenter dans une circonscription où il a le malheur de ne pas être né, pour y remplacer le PS, c'est « raciste ». Mais il ne faut pas attendre de ces journalistes beaucoup plus de perspicacité, car c'est bien le problème des imbéciles heureux qui sont nés quelque-part : ils sont des imbéciles.
