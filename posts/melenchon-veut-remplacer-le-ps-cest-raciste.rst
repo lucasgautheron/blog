@@ -6,8 +6,9 @@
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/benamou/jlm.jpg
 
-Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ». Extraits (attention, ça part très loin) : 
+Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour `ACRIMED <http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy>`__. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ». Extraits - attention, ça part très loin : 
 
 .. TEASER_END
 
@@ -30,3 +31,7 @@ Donc, vouloir remplacer un concurrent politique, pour reprendre l'avantage dans 
 Quand une militante socialiste à Marseille dit  « `Mélenchon, rentre chez toi. On est chez nous ! <https://www.mediapart.fr/journal/france/080617/marseille-melenchon-chamboule-tout?onglet=full>`__ », il n'y aucun relent chauvin ou xénophobe. Quand les médias parlent de parachutage pour un député de la Nation, quand ils parlent de « `fief <http://www.francetvinfo.fr/elections/franceinfo-en-campagne-dans-le-fief-de-francois-hollande-a-tulle-la-tentation-macron_2223377.html>`__ », c'est parfaitement non démagogue et non xénophobe. Idem quand ils `parlent comme le FN <https://opiam.fr/2013/04/22/des-journalistes-et-des-solferiniens-qui-disent-comme-le-pen/>`__. Par contre, si Mélenchon ose se présenter dans une circonscription où il a le malheur de ne pas être né, pour y remplacer le PS, c'est « raciste ».
 
 Rappelons quand même, pour conclure, que pour ceux-là, `c'est le discours au Prado en 2012 « sur les vertus du métissage » du raciste Mélenchon « qui avait signé l'arrêt de sa progression » <http://www.rtl.fr/actu/politique/jean-luc-melenchon-ce-qu-il-faut-retenir-du-meeting-a-marseille-7788041909>`__.  Finalement, il existe peut être bien une race nuisible : celle des journalistes heureux qui sont nés quelque part.
+
+.. figure: /images/benamou/jlm.jpg
+
+   Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes.
