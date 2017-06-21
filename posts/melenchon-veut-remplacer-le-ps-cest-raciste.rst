@@ -12,6 +12,7 @@ Les auditeurs de FranceTV Info ont eu le droit hier (20 juin) a un grand moment 
 
 .. TEASER_END
 
+
   L'animateur : « Remplacer le PS comme avait dit Jean-Luc Mélenchon - numériquement on voit que ça n'a pas été le cas - mais est-ce que dans les esprits c'est le cas selon-vous ? »
 
   Georges-Marc Benamou : « Cette **expression assez effrayante**, d'ailleurs, est **tirée d'un fantasme raciste enfin, on parle de grand remplacement** (*protestations exaspérées de Raquel Garrido*) non mais y a quand même de la sémantique, c'est pas un mot par hasard [...], il veut tuer la parti socialiste, donc ça va être une lutte à mort »
@@ -32,6 +33,6 @@ Quand une militante socialiste à Marseille dit  « `Mélenchon, rentre chez toi
 
 Rappelons quand même, pour conclure, que pour ceux-là, `c'est le discours au Prado en 2012 « sur les vertus du métissage » du raciste Mélenchon « qui avait signé l'arrêt de sa progression » <http://www.rtl.fr/actu/politique/jean-luc-melenchon-ce-qu-il-faut-retenir-du-meeting-a-marseille-7788041909>`__.  Finalement, il existe peut être bien une race nuisible : celle des journalistes heureux qui sont nés quelque part.
 
-.. figure: /images/benamou/jlm.jpg
+.. figure:: /images/benamou/jlm.jpg
 
    Jean-Luc Mélenchon, le 9 avril 2017 à Marseille, lors de son discours pour la Paix, devant 70 000 personnes.
