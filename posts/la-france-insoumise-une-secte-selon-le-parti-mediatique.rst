@@ -1,7 +1,7 @@
 .. title: La France Insoumise, une secte selon le cercle clos du Parti Médiatique
 .. slug: la-france-insoumise-une-secte-selon-le-parti-mediatique
 .. date: 2017-06-22 11:11:33 UTC+02:00
-.. tags: médias, OPIAM
+.. tags: médias, OPIAM, draft
 .. category: politique
 .. link: 
 .. description: 
