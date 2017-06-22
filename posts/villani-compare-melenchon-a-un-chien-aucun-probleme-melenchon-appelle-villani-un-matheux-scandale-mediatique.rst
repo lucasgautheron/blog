@@ -17,7 +17,7 @@ Voici le contenu de sa violente charge, quelques secondes parmi 15 minutes de pr
 
 Pour résumer, Mélenchon estime que la sociologie des députés En Marche est susceptible de les amener à une approche peu sociale du code du travail et que c'est en particulier le cas du libéral Villani, en lui réfutant au passage le recours à une hypothétique forme d'autoritarisme scientifique. Mais, les articles ont plu dans la presse - et en particulier dans la presse en ligne - pour voler au secours de Villani, "attaqué" par Mélenchon (selon *L'Opinion*, le *JDD* et *VSD*).
 
-Alors, quel est le problème ? Le mot "Matheux" ? Cédric Villani se désigne lui même `comme tel sur son blog </images/villani/blog.jpg>`__. La presse, elle, use et abuse de ce qualificatif populaire pour faire référence à lui :
+Alors, quel est le problème ? Le mot "Matheux" ? Cédric Villani se désigne lui même `comme tel sur son blog </images/villani/blog.jpg>`__. Mais surtout, la presse, elle, use et abuse de ce qualificatif populaire pour faire référence à lui, sans que personne n'y ait vu le moindre problème jusqu'à présent :
 
   "Cédric Villani, matheux pédagogue" (`*La Nouvelle République* <http://www.lanouvellerepublique.fr/France-Monde/Actualite/24-Heures/n/Contenus/Articles/2015/04/01/Cedric-Villani-matheux-pedagogue-2278950>`__)
 
