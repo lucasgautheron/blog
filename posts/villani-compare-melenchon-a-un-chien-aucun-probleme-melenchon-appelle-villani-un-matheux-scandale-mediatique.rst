@@ -7,13 +7,17 @@
 .. description: 
 .. type: text
 
-Les plus sourds d'entre-vous auront entendu parler de la "polémique" entre Jean-Luc Mélenchon et Cédric Villani, le chercheur en Mathématiques, récipiendaire d'une médialle Fields et politiquement très libéral - il est un habitué des rencontres économiques d'Aix-En-Provence organisées par le très à droite *Cercle des économistes*. Pour être précis, disons que plutôt qu'une polémique, il s'agit d'une nouvelle cabale médiatique contre Mélenchon qui, horreur, a osé s'"en prendre" - selon les termes du *Figaro*, de *Paris Match* et *Télé Loisirs* qui réduisent la politique à une affaire de conflits personnels - à l'illustrissime Villani. Voici le contenu de sa violente charge, quelques secondes parmi 15 minutes de propos, qui lui valut les foudres du Parti Médiatique :
+Les plus sourds d'entre-vous auront entendu parler de la "polémique" entre Jean-Luc Mélenchon et Cédric Villani, le chercheur en Mathématiques, récipiendaire d'une médialle Fields et politiquement très libéral - il est un habitué des rencontres économiques d'Aix-En-Provence organisées par le très à droite *Cercle des économistes*. Pour être précis, disons que plutôt qu'une polémique, il s'agit d'une nouvelle cabale médiatique contre Mélenchon qui, horreur, a osé s'"en prendre" - selon les termes du *Figaro*, de *Paris Match* et *Télé Loisirs* qui réduisent la politique à une affaire de conflits personnels - à l'illustrissime Villani.
+
+.. TEASER_END
+
+Voici le contenu de sa violente charge, quelques secondes parmi 15 minutes de propos, qui lui valut les foudres du Parti Médiatique :
 
   « Moi je pense que les plus grosses surprises vont pas venir de la minorité. ELles vont venir de la chose majoritaire. Parce qu'il y en a quand même qui sont au courant de rien, donch quand on va leur expliquer. Non mais **y a des braves gens là-dedans**, y a beaucoup de DRH qui ont souvent une conscience sociale assez faible - **pas toujours hein** - mais y a des **chercheurs**, des **intellectuels** - **j'ai vu le matheux là**, je vais lui expliquer ce que c'est qu'un contrat de travail il va tomber par terre, parce qu'il le sait pas, il le sait pas tout simplement, il sait pas ce qu'il y a dedans, **il sait pas que la journée de 8 heures c'est 100 ans de luttes, le gars il croit que ça a toujours été comme ça.** »
 
-  Pour résumer, Mélenchon estime que la sociologie des députés En Marche est susceptible de les amener à une approche peu sociale du code du travail et que c'est en particulier le cas du libéral Villani, en lui réfutant au passage le recours à une hypothétique forme d'autoritarisme scientifique. Mais, les articles ont plu dans la presse - et en particulier dans la presse en ligne - pour voler au secours de Villani, "attaqué" par Mélenchon (selon *L'Opinion*, le *JDD* et *VSD*).
+Pour résumer, Mélenchon estime que la sociologie des députés En Marche est susceptible de les amener à une approche peu sociale du code du travail et que c'est en particulier le cas du libéral Villani, en lui réfutant au passage le recours à une hypothétique forme d'autoritarisme scientifique. Mais, les articles ont plu dans la presse - et en particulier dans la presse en ligne - pour voler au secours de Villani, "attaqué" par Mélenchon (selon *L'Opinion*, le *JDD* et *VSD*).
 
-  Alors, quel est le problème ? Le mot "Matheux" ? Cédric Villani se désigne lui même `comme tel sur son blog </images/villani/blog.jpg>`__. La presse, elle, use et abuse de ce qualificatif populaire pour faire référence à lui :
+Alors, quel est le problème ? Le mot "Matheux" ? Cédric Villani se désigne lui même `comme tel sur son blog </images/villani/blog.jpg>`__. La presse, elle, use et abuse de ce qualificatif populaire pour faire référence à lui :
 
   "Cédric Villani, matheux pédagogue" (`*La Nouvelle République* <http://www.lanouvellerepublique.fr/France-Monde/Actualite/24-Heures/n/Contenus/Articles/2015/04/01/Cedric-Villani-matheux-pedagogue-2278950>`__)
 
