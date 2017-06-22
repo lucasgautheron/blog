@@ -44,7 +44,7 @@ Par le plus grand hasard, heureusement, le lendemain, Cédric Villani est l'invi
    </video>
    </div>
 
-Là, l'insulte est claire : Mélenchon aboie, c'est donc un chien, un vulgaire animal. Mais, à notre connaissance, la presse ne s'en est pas émue. Même France Inter, qui a cité le passage dans un tweet, n'a pas fait mention du mot "aboyer".
+Là, l'insulte est claire : Mélenchon aboie, c'est donc un chien, un vulgaire animal. Mais, à notre connaissance, la presse ne s'en est pas émue. Même France Inter, qui a cité le passage dans un tweet, n'a pas fait mention du mot "aboyer". Peut être parce que les médias `ont l'habitude d'employer eux-mêmes ce genre de comparaisons à son encontre <http://opiam.fr/2013/12/14/un-journaliste-eructe-et-gerbe-sur-melenchon/>`__ ?
  
 En revanche, les réactions contre Mélenchon ont été nombreuses. Les articles ont en effet plu dans la presse - et en particulier dans la presse en ligne - pour voler au secours de Villani, "attaqué" par Mélenchon (selon *L'Opinion*, le *JDD* et *VSD*). Étudions une réaction en particulier, dans le journal "Les Échos". L'article, signé par Daniel Fortin, s'intitule "Le Mathématicien et le populiste". Ça commence bien. Le voici :
 
