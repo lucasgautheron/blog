@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Les plus sourds d'entre-vous auront entendu parler de la "polémique" entre Jean-Luc Mélenchon et Cédric Villani, le chercheur en Mathématiques, récipiendaire d'une médialle Fields et politiquement très libéral - il est un habitué des rencontres économiques d'Aix-En-Provence organisées par le très à droite *Cercle des économistes*. Pour être précis, disons que plutôt qu'une polémique, il s'agit d'une nouvelle cabale médiatique contre Mélenchon qui, horreur, a osé s'"en prendre" - selon les termes du *Figaro*, de *Paris Match* et *Télé Loisirs* qui réduisent la politique à une affaire de conflits personnels - à l'illustrissime Villani.
+Les plus sourds d'entre vous auront entendu parler de la "polémique" entre Jean-Luc Mélenchon et Cédric Villani, le chercheur en Mathématiques, récipiendaire d'une médaille Fields et politiquement très libéral - il est un habitué des rencontres économiques d'Aix-En-Provence organisées par le très à droite *Cercle des économistes*. Pour être précis, disons que plutôt qu'une polémique, il s'agit d'une nouvelle cabale médiatique contre Mélenchon qui, horreur, a osé s'"en prendre" - selon les termes du *Figaro*, de *Paris Match* et *Télé Loisirs* qui réduisent la politique à une affaire de conflits personnels - à l'illustrissime Villani.
 
 .. TEASER_END
 
