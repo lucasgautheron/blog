@@ -9,6 +9,8 @@
 
 J'avais calculé le taux de compatibilité des programmes des 11 candidats à la Présidentielle à partir d'un `comparateur <http://www.lemonde.fr/programmes/>`__ mis au point par Le Monde. Les journalistes y ont comparé les propositions de chaque candidat sur plus de 80 questions, et les ont regroupées lorsqu'elles étaient jugées suffisament similaires. Il suffit alors de calculer, par exemple, le pourcentage de solutions partagées pour chaque paire de candidat. Cette façon de procéder, bien sûr, est limitée, mais l'avantage est qu'elle est peu biaisée puisque les calculs ont été effectués séparément des choix arbitraires de la rédaction du Monde. Au final, le résultat est le suivant :
 
+.. TEASER_END
+
 .. raw:: html
 
    <table class="table" style="min-width: 800px; width: 80%;">
