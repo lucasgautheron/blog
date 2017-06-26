@@ -1,8 +1,8 @@
 .. title: Psychiatrisation de Mélenchon : une méthode récurrente dans la presse
 .. slug: psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse
 .. date: 2017-06-25 20:17:00 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: médias, OPIAM
+.. category: politique
 .. link: 
 .. description: 
 .. type: text
