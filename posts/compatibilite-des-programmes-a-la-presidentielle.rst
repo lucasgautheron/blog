@@ -1,8 +1,8 @@
 .. title: Compatibilité des programmes à la Présidentielle
 .. slug: compatibilite-des-programmes-a-la-presidentielle
 .. date: 2017-06-26 10:38:52 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: présidentielle 2017
+.. category: politique
 .. link: 
 .. description: 
 .. type: text
