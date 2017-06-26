@@ -12,7 +12,7 @@ Il était fréquent, en URSS, que les opinions politiques dissidentes soient jug
 
 .. TEASER_END
 
-Il y a plus de cinq ans, l'`OPIAM <https://opiam.fr>`__ soulevait déjà plusieurs cas de psychanalyse de Mélenchon, donc. Pour le journaliste Stéphane Alliès, Mélenchon est agressif envers sa corporation `car il serait lui même un journaliste raté <https://opiam.fr/2012/08/04/un-journaliste-a-encore-psychanalyse-melenchon/>`__. Il n'aurait pas « dépassé le stade anal-sadique » dans Marianne, et serait un « névrosé » dans le même journal, qui n'hésite pas à faire appel à des psychanalystes pour « expliquer » sa façon de s'exprimer.
+Il y a plus de cinq ans, l'`OPIAM <https://opiam.fr>`__ soulevait déjà plusieurs cas de psychanalyse de Mélenchon, donc. Pour le journaliste Stéphane Alliès, Mélenchon est agressif envers sa corporation `car il serait lui même un journaliste raté <https://opiam.fr/2012/08/04/un-journaliste-a-encore-psychanalyse-melenchon/>`__. Il n'aurait pas « dépassé le stade anal-sadique » dans *Marianne*, et serait un « névrosé » dans le même journal, qui n'hésite pas à faire appel à des psychanalystes pour « expliquer » sa façon de s'exprimer.
 
 Cette pratique douteuse de la presse n'a pas dis-continué : en 2013, *BFM TV* réalisait une interview stupéfiante de Anna Cabana, alors reporter chez *Le Point*, et présentée comme un « décryptage du comportement » de Mélenchon :
 
