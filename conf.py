@@ -697,7 +697,7 @@ GITHUB_COMMIT_SOURCE = True
 # The format is a dictionary of {source: relative destination}.
 
 IMAGE_FOLDERS = {'images': 'images'}
-IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_THUMBNAIL_SIZE = 200
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
