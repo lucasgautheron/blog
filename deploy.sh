@@ -24,6 +24,4 @@ git fetch origin
 git fetch origin master
 git checkout master
 
-./build.sh
-
 nikola github_deploy
