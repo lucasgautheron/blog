@@ -21,7 +21,7 @@ install:
  - pip install "Nikola[extras]"
 
 script:
- - ./build.sh
+ - ./build.sh && nikola build
 
 after_success:
  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
