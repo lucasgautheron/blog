@@ -791,10 +791,11 @@ IMAGE_THUMBNAIL_SIZE = 200
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/assets/icon-16.png", "16x16"),
+    ("icon", "/assets/icon-32.png", "32x32"),
+    ("icon", "/assets/icon-48.png", "48x48")
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 INDEX_TEASERS = True
