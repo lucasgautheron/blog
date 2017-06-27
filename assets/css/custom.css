@@ -21,8 +21,23 @@ article div > p {
   text-align: justify;
 }
 
+article.h-entry {
+  clear: both;
+}
+
 article .footnote-reference {
   font-size: 1em;
+}
+
+article .thumbnail-summary {
+  width: 230px;
+  margin: 0.5em auto;
+  padding: 0;
+  float: left;
+}
+
+article .thumbnail-summary img {
+  max-width: 200px;
 }
 
 .wide {
