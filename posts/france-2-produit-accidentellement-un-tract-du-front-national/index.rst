@@ -4,7 +4,7 @@
 .. tags: OPIAM, médias
 .. category: politique
 .. link: 
-.. description: Texte écrit pour opiam.fr
+.. description: Le service public, au service de qui ? Le visionnage de l’ « Émission Politique » au cours de cette campagne électorale autorise en effet à s’interroger.
 .. type: text
 .. previewimage: /images/france2-tract-fn/tract.jpg
 .. thumbnail: /images/france2-tract-fn/tract.jpg
