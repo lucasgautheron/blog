@@ -8,7 +8,7 @@
 .. type: text
 .. previewimage: /images/populisme/mouffe.jpg
 
-La France Insoumise est régulièrement est régulièrement dénoncée dans les médias et par ses adversaires politiques comme faisant partie "des populismes". Critique de la critique.
+La France Insoumise est régulièrement désignée péjorativement dans les médias et par ses adversaires politiques comme "populiste", au même titre que Donald Trump, Beppe Grillo, Marine Le Pen... Si le populisme est assumé, l'assimilation à des mouvements aussi radicalement opposés à la France Insoumise que le Front National révèle une certaine confusion voire un certain mépris dans l'analyse. Critique de la critique.
 
 Balayons les commentaires récurrents
 ====================================
