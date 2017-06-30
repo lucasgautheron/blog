@@ -68,7 +68,7 @@ Mais surtout, on voit bien comment les "tendances populistes" sont désignées c
 
 Autre exemple, qui peut aussi paraître anecdotique, mais à mon avis lourd de sens. En janvier 2017, suite à la victoire de Trump à l'élection présidentielle américaine, *C polémique* (*France 5*) avait consacré une émission à l'événement intitulée "Le peuple a-t-il toujours raison ?". Vraisemblablement, on part du principe qu'il a eu tort en élisant Trump. Mais si le peuple n'a pas raison, qui a raison ? On voit bien que la question implique que si ce n'est pas le peuple, ce doit être autre chose, une minorité - peut-être les "experts" - qui de fait obtiendraient un statut particulier et une supériorité sur le peuple.
 
-Il me semblent que ces exemples de la teneur réprobative du populisme dans le discours médiatique révélent bien ce dont il s'agit en réalité : le mépris du peuple, qui se trompe, qui a besoin d'être guidé, dirigé, et donc, d'une oligarchie. Finalement, il n'y a pas plus populistes que les anti-populisme !
+Il me semblent que ces exemples de réprobation du populisme dans le discours médiatique révélent bien ce dont il s'agit en réalité : le mépris du peuple, qui se trompe, qui a besoin d'être guidé, dirigé, et donc, d'une oligarchie. Finalement, il n'y a pas plus populistes que les anti-populisme !
 
 .. [#] Il est vrai que la France Insoumise met en avant dans son discours "l'intérêt général humain", au-delà des contradictions internes (luttes de classes). La raison est simple : c'est la base de sa pensée humaniste et universaliste.
 
