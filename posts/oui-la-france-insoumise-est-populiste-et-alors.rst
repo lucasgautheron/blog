@@ -1,11 +1,12 @@
 .. title: Oui, la France Insoumise est populiste. Et alors ?
 .. slug: oui-la-france-insoumise-est-populiste-et-alors
 .. date: 2017-06-29 14:23:28 UTC+02:00
-.. tags: draft
+.. tags: france insoumise
 .. category: politique
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/populisme/mouffe.jpg
 
 La France Insoumise est régulièrement est régulièrement dénoncée dans les médias et par ses adversaires politiques comme faisant partie "des populismes". Critique de la critique.
 
@@ -43,9 +44,33 @@ Tout dépend évidement de ce qu'on appelle les "élites". Si "élites" désigne
 Derrière la critique, le mépris du "peuple"
 ===========================================
 
-D'où vient la critique du populisme ? Souvent associée à la fois au Brexit et à l'élection de Trump, le populisme est devenu un fourre-tout pour désigner toute contestation d'un certain ordre. La "montée des populismes" est devenu une expression courante dans le médias, associée parfois à une "menace pour les démocraties <http://www.leparisien.fr/flash-actualite-monde/la-montee-des-populismes-menace-les-democraties-previent-human-rights-watch-12-01-2017-6559392.php>`__", parfois à un `risque pour l'Union Européenne <http://www.lefigaro.fr/conjoncture/2017/04/26/20002-20170426ARTFIG00201-l-ue-lance-son-offensive-contre-la-montee-des-populismes.php>`__. En réalité, comme je vais essayer de le démontrer, la critique du populisme est en fait une validation de la réalité de la thèse sur laquelle il repose.
+D'où vient la critique du populisme ? Souvent associée à la fois au Brexit et à l'élection de Trump, le populisme est devenu un fourre-tout pour désigner toute contestation d'un certain ordre. La "montée des populismes" est devenu une expression courante dans le médias, associée parfois à une "menace pour les démocraties <http://www.leparisien.fr/flash-actualite-monde/la-montee-des-populismes-menace-les-democraties-previent-human-rights-watch-12-01-2017-6559392.php>`__", parfois à un `risque pour l'Union Européenne <http://www.lefigaro.fr/conjoncture/2017/04/26/20002-20170426ARTFIG00201-l-ue-lance-son-offensive-contre-la-montee-des-populismes.php>`__. En réalité, comme je vais essayer de le démontrer à partir d'un exemple, la critique du populisme est en fait une validation de la réalité de la thèse sur laquelle il repose.
 
-Dans un article publié le 12 juillet 2016, la rédactrice en chef du *Guardian*, Katharine Viner, publiait un article intitulé "How technology disrupted the truth", c'est-à-dire en français "Comment la technologie a perturbé la vérité". Dans cet article, elle désigne la victoire du Brexit comme l'avènement de ce qu'elle appelle la "politique post-vérité", c'est-à-dire une façon de faire de la politique au mépris de la "vérité". Un coupable est désigné : ce sont les réseaux sociaux. Ceux-ci permettent en effet de s'affranchir des médias traditionnels, et donc de dépasser leur verticalité qui découle de la scission entre ceux qui produisent le contenu et ceux qui le consultent. Les réseaux sociaux sont dépourvus de filtre : ce sont les mêmes qui produisent et qui consultent. Pour la journaliste, ceci a pour conséquence qu'"il n'y a plus de consensus sur ce qu'est la vérité". C'est la perte de consensus sur les faits, ce qui est vrai et ce qui est faux, du fait de la rupture de cette verticalité, qui constituerait un problème politique majeur. L'ampleur du phénomène est alors justifiée par les conséquences qui lui sont attribuées, dont le "Brexit", que les britanniques auraient choisi sur la base d'éléments farfelus. Cette thèse est largement répandue : 
-  
+Dans un article publié le 12 juillet 2016, la rédactrice en chef du *Guardian*, Katharine Viner, publiait un article intitulé "How technology disrupted the truth", c'est-à-dire en français "Comment la technologie a perturbé la vérité". Dans cet article, elle désigne la victoire du Brexit comme l'avènement de ce qu'elle appelle la "politique post-vérité", c'est-à-dire une façon de faire de la politique au mépris de la "vérité". Un coupable parmi d'autres est désigné : ce sont les réseaux sociaux. Ceux-ci permettent en effet de s'affranchir des médias traditionnels, et donc de dépasser leur verticalité qui découle de la scission entre ceux qui produisent le contenu et ceux qui le consultent. Les réseaux sociaux sont dépourvus de filtre : ce sont les mêmes qui produisent et qui consultent. Pour la journaliste, cette transformation, couplée à l'affaiblissement de la presse en général, ceci a pour conséquence qu'"il n'y a plus de consensus sur ce qu'est la vérité". C'est la perte de consensus sur les faits, ce qui est vrai et ce qui est faux, du fait de la rupture de cette verticalité, qui constituerait un problème politique majeur. L'ampleur du phénomène est alors justifiée par les conséquences qui lui sont attribuées, dont le "Brexit", que les britanniques auraient choisi sur la base d'éléments farfelus. Ces options sont ainsi qualifiées de "populistes". Extraits :
+
+  [...] without the flow of information gained through extensive research, and without the stimulation of arguments based on an expertise that doesn’t come cheap, public communication loses its discursive vitality. **The public media would then cease to resist populist tendencies**, and could no longer fulfil the function it should in the context of a democratic constitutional state.
+
+On résume :
+
+* Le peuple se réapproprie les moyens de production et de diffusion de l'information.
+* Cela contribue à l'affaiblissement des médias traditionnels et de leur autorité supérieure.
+* Par conséquent, cela brise le consensus sur ce qui relève du vrai et du faux.
+* Finalement, les choix politiques de la population en sont affectés.
+
+Cet argumentaire, donc, montre bien qu'il existe une hiérarchie entre "le peuple" et une classe supérieur (la corporation journaliste dans le cas présent) qui est gêné dans son rôle de figure d'autorité et sa mission de guide notamment par l'importance croissante des réseaux sociaux plus horizontaux [#]_ dont le contenu lui échappe.
+
+La thèse est douteuse : on pourrait opposer que ce n'est pas l'absence de consensus sur ce qui relève de la vérité qui amène à des décisions politiques douteuses, mais surtout l'absence de *disensus* politique dans la sphère médiatique qui empêche d'envisager d'autre alternative au néolibéralisme que les options d'extrême droite.
+Mais surtout, on voit bien comment les "tendances populistes" sont désignées comme un phénomène naturel en résistance avec les efforts d'une minorité (celle qui détient les médias) pour les contenir. 
+
+Autre exemple, qui peut aussi paraître anecdotique, mais à mon avis lourd de sens. En janvier 2017, suite à la victoire de Trump à l'élection présidentielle américaine, *C polémique* (*France 5*) avait consacré une émission à l'événement intitulée "Le peuple a-t-il toujours raison ?". Vraisemblablement, on part du principe qu'il a eu tort en élisant Trump. Mais si le peuple n'a pas raison, qui a raison ? On voit bien que la question implique que si ce n'est pas le peuple, ce doit être autre chose, une minorité - peut-être les "experts" - qui de fait obtiendraient un statut particulier et une supériorité sur le peuple.
+
+Il me semblent que ces exemples de la teneur réprobative du populisme dans le discours médiatique révélent bien ce dont il s'agit en réalité : le mépris du peuple, qui se trompe, qui a besoin d'être guidé, dirigé, et donc, d'une oligarchie. Finalement, il n'y a pas plus populistes que les anti-populisme !
 
 .. [#] Il est vrai que la France Insoumise met en avant dans son discours "l'intérêt général humain", au-delà des contradictions internes (luttes de classes). La raison est simple : c'est la base de sa pensée humaniste et universaliste.
+
+.. [#] L'horizontalité des réseaux sociaux est limitée, il existe toujours une hiérarchie entre ceux qui produisent le contenu et ceux qui le possèdent (qui détiennent les bases de données). Ce n'est pas pertinent ici.
+
+.. figure:: /images/populisme/mouffe.jpg
+
+   Jean-Luc Mélenchon au côté de Chantal Mouffe, philosophe et théoricienne du populisme de gauche, lors de la manifestation pour la 6ème République du 18 mars 2017.
+  
