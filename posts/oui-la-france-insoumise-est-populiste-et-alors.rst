@@ -37,6 +37,8 @@ La stratégie de la France Insoumise est tout le contraire de la division. C'est
 
 Au sein de la population, la stratégie populiste revendiquée de la France Insoumise n'a pas divisé. Son électorat à la Présidentielle est assez transverse parmi les catégories socio-professionnelles, malgré quelques excès chez les chômeurs par exemple. Une des rares variables déterminantes est l'âge. Sinon, il semble que cette stratégie pourtant clivante n'a pas isolé des catégories de la population. Aucun autre candidat au premier tour ne peut se targuer d'une telle transversalité.
 
+Enfin, le populisme de gauche, s'il est la seule alternative populaire au populisme xénophobe de droite, est alors le meilleur moyen de contrer l'extrême droite en polarisant le débat politique autour d'un autre axe que la question culturelle et ethnique.
+
   *Le populisme, c'est le mépris des élites*
 
 Tout dépend évidement de ce qu'on appelle les "élites". Si "élites" désigne une fraction de la population cultivée, qualifiée, à la pointe dans son domaine technique ou intellectuel, alors il n'y a aucune connexion *a priori* avec l'oligarchie. De ce point de vue, les "élites" sont mêmes célébrées par la famille politique dans laquelle s'inscrit la France Insoumise, très attachée au progrès humain, aux exploits techniques, à la recherche...
