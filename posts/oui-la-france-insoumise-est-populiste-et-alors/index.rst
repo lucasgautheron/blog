@@ -58,17 +58,17 @@ On résume :
 
 * Le peuple se réapproprie les moyens de production et de diffusion de l'information.
 * Cela contribue à l'affaiblissement des médias traditionnels et de leur autorité supérieure.
-* Par conséquent, cela brise le consensus sur ce qui relève du vrai et du faux.
+* Par conséquent, cela brise le consensus sur ce qui relève du vrai et du faux : il faut cette verticalité et cette indépendance pour créer du commun.
 * Finalement, les choix politiques de la population en sont affectés.
 
-Cet argumentaire, donc, montre bien qu'il existe une hiérarchie entre "le peuple" et une classe supérieure (la corporation journaliste dans le cas présent) qui est gêné dans son rôle de figure d'autorité et sa mission de guide notamment par l'importance croissante des réseaux sociaux plus horizontaux [#]_ dont le contenu lui échappe.
+Cet argumentaire, donc, montre bien qu'il existe une hiérarchie entre "le peuple" et une classe supérieure (la corporation journaliste dans le cas présent) qui est gênée dans son rôle de figure d'autorité et sa mission de guide notamment par l'importance croissante des réseaux sociaux plus horizontaux [#]_ dont le contenu lui échappe.
 
-La thèse est douteuse : on pourrait opposer que ce n'est pas l'absence de consensus sur ce qui relève de la vérité qui amène à des décisions politiques douteuses, mais surtout l'absence de *disensus* politique dans la sphère médiatique qui empêche d'envisager d'autre alternative au néolibéralisme que les options d'extrême droite.
-Mais surtout, on voit bien comment les "tendances populistes" sont désignées comme un phénomène naturel en résistance avec les efforts d'une minorité (celle qui détient les médias) pour les contenir. 
+La thèse est douteuse : on pourrait opposer que ce n'est pas l'absence de consensus sur ce qui relève de la vérité qui amène à des décisions politiques regrettables, mais surtout l'absence de *disensus* politique dans la sphère médiatique qui empêche d'envisager d'autre alternative au néolibéralisme que les options d'extrême droite.
+Mais surtout, on voit bien comment les "tendances populistes" sont désignées comme un phénomène naturel en résistance avec les efforts d'une minorité (celle qui détient les médias) pour les contrer. 
 
 Autre exemple, qui peut aussi paraître anecdotique, mais à mon avis lourd de sens. En janvier 2017, suite à la victoire de Trump à l'élection présidentielle américaine, *C polémique* (*France 5*) avait consacré une émission à l'événement intitulée "Le peuple a-t-il toujours raison ?". Vraisemblablement, on part du principe qu'il a eu tort en élisant Trump. Mais si le peuple n'a pas raison, qui a raison ? On voit bien que la question implique que si ce n'est pas le peuple, ce doit être autre chose, une minorité - peut-être les "experts" - qui de fait obtiendraient un statut particulier et une supériorité sur le peuple.
 
-Il me semblent que ces exemples de réprobation du populisme dans le discours médiatique révélent bien ce dont il s'agit en réalité : le mépris du peuple, qui se trompe, qui a besoin d'être guidé, dirigé, et donc, d'une oligarchie. Finalement, il n'y a pas plus populistes que les anti-populisme !
+Il me semble que ces exemples de réprobation du populisme dans le discours médiatique révèlent bien ce dont il s'agit en réalité : le mépris du peuple, qui se trompe, qui a besoin d'être guidé, dirigé, et donc, d'une oligarchie. Finalement, il n'y a pas plus populistes que les anti-populisme !
 
 .. [#] Il est vrai que la France Insoumise met en avant dans son discours "l'intérêt général humain", au-delà des contradictions internes (luttes de classes). La raison est simple : c'est la base de sa pensée humaniste et universaliste.
 
