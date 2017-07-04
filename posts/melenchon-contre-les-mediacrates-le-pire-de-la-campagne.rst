@@ -69,7 +69,7 @@ Mélenchon doit s'expliquer sur l'ALBA, dénoncer le Vénézuela et s'excuser au
 
 .. raw:: html
 
-   <div style="position:relative;margin: 0 auto;height:480px;width:640px;padding-bottom:75.0%;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
+   <div style="position:relative;margin: 0 auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
 
 Mélenchon doit appeler à voter Macron
 =====================================
