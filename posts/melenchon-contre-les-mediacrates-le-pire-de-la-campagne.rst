@@ -1,11 +1,12 @@
 .. title: Mélenchon contre les médiacrates : le pire de la campagne (1/2)
 .. slug: melenchon-contre-les-mediacrates-le-pire-de-la-campagne
-.. date: 2017-07-02 11:23:30 UTC+02:00
+.. date: 2017-07-11 11:23:30 UTC+02:00
 .. tags: médias, OPIAM
 .. category: politique
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/lepire/jlm_vs_lenglet.png
 
 Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à se ridiculiser et se discréditer complètement. Les campagnes présidentielle et législatives n'y ont pas échappé : c'est l'occasion d'en faire le bilan et de revenir sur le pire de cette campagne.
 
