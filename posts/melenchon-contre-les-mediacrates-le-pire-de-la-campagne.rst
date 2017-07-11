@@ -22,10 +22,12 @@ Le summum de cet épisode fut atteint lors d'une séquence surréaliste le 27 no
 
    <div style="position:relative;margin: 2em auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+
+ 
   Daniel Cohn-Bendit : "Jean-Luc, Jean-Luc. Si tu te présentes à la primaire tu peux la gagner"
   
   Jean-Luc Mélenchon : "Est-ce que vous pouvez m'appeler par mon nom et pas par mon prénom. Nous ne sommes pas amis, vous le savez, ne jouons pas la comédie"
-
+ 
   DCB : "**Vas te faire voir**"
 
   JLM : "Appelez moi par mon nom s'il vous plait"
@@ -94,6 +96,8 @@ Si Hamon s'était désisté, peut-être aurait-on eu un candidat de gauche au se
 
 Mélenchon doit s'expliquer sur l'ALBA, dénoncer le Vénézuela et s'excuser auprès des journalistes
 =================================================================================================
+
+À partir de la semaine du 18 mars, date du rassemblement pour la sixième république, Mélenchon remonte dans les sondages. Début avril, il atteint le niveau de Fillon, et approche les 20 % d'intentions de vote. Jusqu'alors simplement méprisé par le Parti Médiatique, il devient dangereux, en tant que prétendant sérieux au second tour. On observe alors un déchaînement tout à fait spectaculaire des médias, unis pour enrayer son ascension, assez similaire à ce qu'on a pu observer lors de la campagne du référendum de 2005, quand le "non" avait dépassé le "oui" pour la première fois dans les sondages.
 
 .. raw:: html
 
