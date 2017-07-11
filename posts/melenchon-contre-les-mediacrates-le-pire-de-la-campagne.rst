@@ -20,7 +20,7 @@ Le summum de cet épisode fut atteint lors d'une séquence surréaliste le 27 no
 
 .. raw:: html
 
-   <div style="position:relative;margin: 0 auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+   <div style="position:relative;margin: 2em auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
   Daniel Cohn-Bendit : "Jean-Luc, Jean-Luc. Si tu te présentes à la primaire tu peux la gagner"
   
@@ -97,7 +97,7 @@ Mélenchon doit s'expliquer sur l'ALBA, dénoncer le Vénézuela et s'excuser au
 
 .. raw:: html
 
-   <div style="position:relative;margin: 0 auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
+   <div style="position:relative;margin: 2em auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
 
 Mélenchon doit appeler à voter Macron
 =====================================
