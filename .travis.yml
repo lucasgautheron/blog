@@ -27,4 +27,4 @@ script:
 
 after_success:
 #- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && firebase deploy --token "${FIREBASE_TOKEN}"
- - firebase deploy --token "${FIREBASE_TOKEN}"
+ - firebase deploy --non-interactive --token "${FIREBASE_TOKEN}"
