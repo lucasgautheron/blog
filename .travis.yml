@@ -21,7 +21,7 @@ python:
 install:
  - pip install Nikola
  - pip install "Nikola[extras]"
- - npm install -g firebase-tools@3.5.0
+ - npm install -g firebase-tools
 
 script:
  - ./build.sh && nikola build
