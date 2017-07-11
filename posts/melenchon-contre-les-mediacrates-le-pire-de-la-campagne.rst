@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à devenir complètement ridicules. Les campagnes présidentielle et législatives n'y ont pas échappé : retour sur le pire de la campagne.
+Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à se ridiculiser et se discréditer complètement. Les campagnes présidentielle et législatives n'y ont pas échappé : retour sur le pire de la campagne.
 
 .. TEASER_END
 
@@ -109,5 +109,22 @@ Acrimed a consacré `plusieurs articles <http://www.acrimed.org/Les-editocrates-
 
 Mélenchon doit appeler à voter Macron
 =====================================
+
+Le soir du premier tour, Jean-Luc Mélenchon a fait quelque chose de terrible et d'impardonnable pour le Parti Médiatique : il n'a pas exhorté ses électeurs à voter au second tour pour leur candidat, Emmanuel Macron. Certes, cela était un engagement de longue date, de ne pas appeler à voter pour un candidat au second tour si celui de la France Insoumise était éliminé. Certes, les porte-paroles du mouvement et Mélenchon lui-même ont bien répété "pas une voix pour le Front National". Certes, appeler à voter Macron n'aurait sûrement eu aucun effet, et de toute façon la victoire lui était acquise. Mais le Parti Médiatique aurait aimé voir Mélenchon abjurer, et son refus de lui accorder ce plaisir malsain lui a été insupportable. Petit florilège de réactions bien gratinées comme il faut :
+
+  Le périlleux « ni-ni » de M. Mélenchon [...] Le candidat de La France insoumise a confirmé, vendredi, qu’il ne donnerait pas de consigne de vote pour le second tour de l’élection présidentielle. (*Le Monde*, alors même qu'il y a bien consigne - ne pas voter pour le FN - et donc pas de ni-ni. C'est donc simplement diffamatoire.)
+
+  « En refusant de choisir entre Macron et Le Pen, Mélenchon est devenu l’idole de la droite identitaire tout en étant salué par le FN. » (*Challenges*)
+
+Thomas Legrand nous met en garde :
+
+  "[Cette] attitude peut faciliter la jonction impossible, devenue envisageable, entre les deux ‘non’ du référendum de 2005.".
+
+Pour Sylvain Courage, rédacteur en chef à l'Obs, Mélenchon "révèle ainsi la nature antidémocratique de son projet" - car ne pas tordre le bras des électeurs est anti démocratique, c'est bien connu - et il n'a pas de "couilles" - car l'éditorialiste, qui n'accueillie aucune contradiction dans son journal, est très courageux.
+
+Pour Pierre Bénichou à *On n'est pas couché*, Mélenchon est même "un ennemi de la démocratie". Il est appuyé par Yann Moix qui le qualifie de "petit dictateur de carton-pâte". Pour Vanessa Burgraff, bien connue pour ses éclairs de génie, "il n'a même pas reconnu tout de suite les résultats" - alors qu'il a bien dit qu'il *attendait* lesdits résultats, avant de s'exprimer sur la base d'estimations qui s'étaient trompées de deux points en 2012.
+
+La haine des médiacrates n'a d'égale que leur paresse intellectuelle : aussi, ceux-ci sont incapables de comprendre que pour détourner les classes populaires du Front National, la stratégie qui consiste à en faire l'ennemi du "système" en érigeant contre lui des barrages républicains n'est peut-être pas la meilleure. Le comble du ridicule fut ainsi atteint avec le concert antifasciste "contre le Front National" organisé Place de la République, en plein coeur de Paris, où le score de Macron atteindra 90 % au second tour. Voilà le genre de spectacle absurde qu'attend le Parti Médiatique alors même que le reste du temps, c'est lui qui déroule le tapis rouge aux portes-paroles du Front National et à leurs idées, quitte à laisser dire dans leurs pages que Marine Le Pen est `"le seul recours à gauche" <http://opiam.fr/2014/09/02/le-pen-seul-recours-a-gauche-selon-le-nouvel-observateur/>`__ (*Le Nouvel Observateur*).
+  
 
 .. [#] Le spread fait référence ici à l'écart de taux entre les obligations à 10 ans en France et en Allemagne
