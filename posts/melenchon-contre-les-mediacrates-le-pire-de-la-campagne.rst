@@ -2,7 +2,7 @@
 .. slug: melenchon-contre-les-mediacrates-le-pire-de-la-campagne
 .. date: 2017-07-02 11:23:30 UTC+02:00
 .. tags: draft
-.. category: 
+.. category: politique
 .. link: 
 .. description: 
 .. type: text
@@ -124,7 +124,7 @@ Pour Sylvain Courage, rédacteur en chef à l'Obs, Mélenchon "révèle ainsi la
 
 Pour Pierre Bénichou à *On n'est pas couché*, Mélenchon est même "un ennemi de la démocratie". Il est appuyé par Yann Moix qui le qualifie de "petit dictateur de carton-pâte". Pour Vanessa Burgraff, bien connue pour ses éclairs de génie, "il n'a même pas reconnu tout de suite les résultats" - alors qu'il a bien dit qu'il *attendait* lesdits résultats, avant de s'exprimer sur la base d'estimations qui s'étaient trompées de deux points en 2012.
 
-La haine des médiacrates n'a d'égale que leur paresse intellectuelle : aussi, ceux-ci sont incapables de comprendre que pour détourner les classes populaires du Front National, la stratégie qui consiste à en faire l'ennemi du "système" en érigeant contre lui des barrages républicains n'est peut-être pas la meilleure. Le comble du ridicule fut ainsi atteint avec le concert antifasciste "contre le Front National" organisé Place de la République, en plein coeur de Paris, où le score de Macron atteindra 90 % au second tour. Voilà le genre de spectacle absurde qu'attend le Parti Médiatique alors même que le reste du temps, c'est lui qui déroule le tapis rouge aux portes-paroles du Front National et à leurs idées, quitte à laisser dire dans leurs pages que Marine Le Pen est `"le seul recours à gauche" <http://opiam.fr/2014/09/02/le-pen-seul-recours-a-gauche-selon-le-nouvel-observateur/>`__ (*Le Nouvel Observateur*).
+La haine des médiacrates n'a d'égale que leur paresse intellectuelle : aussi, ceux-ci sont incapables de comprendre que pour détourner les classes populaires du Front National, la stratégie qui consiste à en faire l'ennemi du "système" en érigeant contre lui des barrages républicains n'est peut-être pas la meilleure. Le comble du ridicule fut ainsi atteint avec le concert antifasciste "contre le Front National" organisé Place de la République, en plein coeur de Paris, où le score de Macron atteindra 90 % au second tour. Voilà le genre de spectacle absurde qu'attend le Parti Médiatique alors même que le reste du temps, c'est lui qui déroule le tapis rouge aux portes-paroles du Front National et à leurs idées, quitte à laisser dire dans leurs pages que Marine Le Pen est `"le seul recours à gauche" <http://opiam.fr/2014/09/02/le-pen-seul-recours-a-gauche-selon-le-nouvel-observateur/>`__ (*Le Nouvel Observateur*). Ou à produire des infographies qui deviennent plus tard `des tracts du Fonr National <https://la-physis.fr/posts/france-2-produit-accidentellement-un-tract-du-front-national/>`__ (*France 2*).
   
 
 .. [#] Le spread fait référence ici à l'écart de taux entre les obligations à 10 ans en France et en Allemagne
