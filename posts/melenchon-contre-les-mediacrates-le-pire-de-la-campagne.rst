@@ -18,7 +18,9 @@ Le premier épisode de la comédie, et peut-être l'un des meilleurs, est celui 
 
 Le summum de cet épisode fut atteint lors d'une séquence surréaliste le 27 novembre 2016, alors que Jean-Luc Mélenchon était interviewé sur France 2 pour réagir à la conclusion de la primaire "de la droite et du centre". Daniel Cohen-Bendit était l'invité de Laurent Delahousse - on ne voit pas trop pourquoi mais peu importe. Celui-ci en profite donc pour interpeller Mélenchon en ces termes bienveillants :
 
-  <div style="position:relative;margin: 0 auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+.. raw:: html
+
+   <div style="position:relative;margin: 0 auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
   Daniel Cohn-Bendit : "Jean-Luc, Jean-Luc. Si tu te présentes à la primaire tu peux la gagner"
   
