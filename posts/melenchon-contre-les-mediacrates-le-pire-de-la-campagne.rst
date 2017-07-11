@@ -67,7 +67,7 @@ Peut-on faire plus ridicule ? Le matin même, Patrick Cohen, sur la radio "de ga
      <p>Votre navigateur ne peut pas lire cet extrait audio. Vous pouvez cependant le <a href="/lepire/auditeurs.mp3">télécharger ici</a>.</p>
    </audio>
 
-Le 11 mars, sur On n'est pas couché, Laurent Ruquier a également ajouté sa pierre à l'édifice en demandant en boucle à Mélenchon "pourquoi il ne dépassait pas les 11 %". Peut-être parce qu'il doit passer son temps à justifier sa candidature au lieu d'aborder les sujets de fond ?
+Le 11 mars, sur On n'est pas couché, Laurent Ruquier a également ajouté sa pierre à l'édifice en demandant en boucle à Mélenchon "pourquoi il ne dépassait pas les 11 %". Peut-être parce qu'il doit passer son temps à justifier sa candidature au lieu d'aborder les sujets de fond ? Extraits :
 
 .. raw:: html
 
