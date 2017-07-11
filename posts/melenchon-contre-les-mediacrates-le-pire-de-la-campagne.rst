@@ -20,9 +20,9 @@ Le summum de cet épisode fut atteint lors d'une séquence surréaliste le 27 no
 
 .. raw:: html
 
-   <div style="position:relative;margin: 2em auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+   <div style="position:relative;margin: 2em auto;height:360px;width:480px;"><iframe src="https://www.youtube.com/embed/oLjetIZVF6M?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-
+Transcription écrite :
  
   Daniel Cohn-Bendit : "Jean-Luc, Jean-Luc. Si tu te présentes à la primaire tu peux la gagner"
   
@@ -105,7 +105,7 @@ Acrimed a consacré `plusieurs articles <http://www.acrimed.org/Les-editocrates-
 
 .. raw:: html
 
-   <div style="position:relative;margin: 2em auto;height:480px;width:640px;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
+   <div style="position:relative;margin: 2em auto;height:360px;width:480px;"><iframe src="https://www.youtube.com/embed/YxSvnCdgbHU?ecver=2" width="480" height="360" frameborder="0" style="position:absolute;left:0" allowfullscreen></iframe></div>
 
 Mélenchon doit appeler à voter Macron
 =====================================
@@ -120,7 +120,7 @@ Thomas Legrand nous met en garde :
 
   "[Cette] attitude peut faciliter la jonction impossible, devenue envisageable, entre les deux ‘non’ du référendum de 2005.".
 
-Pour Sylvain Courage, rédacteur en chef à l'Obs, Mélenchon "révèle ainsi la nature antidémocratique de son projet" - car ne pas tordre le bras des électeurs est anti démocratique, c'est bien connu - et il n'a pas de "couilles" - car l'éditorialiste, qui n'accueillie aucune contradiction dans son journal, est très courageux.
+Pour Sylvain Courage, rédacteur en chef à l'Obs, Mélenchon "révèle ainsi la nature antidémocratique de son projet" - car ne pas tordre le bras des électeurs est anti-démocratique, c'est bien connu - et il n'a pas de "couilles".
 
 Pour Pierre Bénichou à *On n'est pas couché*, Mélenchon est même "un ennemi de la démocratie". Il est appuyé par Yann Moix qui le qualifie de "petit dictateur de carton-pâte". Pour Vanessa Burgraff, bien connue pour ses éclairs de génie, "il n'a même pas reconnu tout de suite les résultats" - alors qu'il a bien dit qu'il *attendait* lesdits résultats, avant de s'exprimer sur la base d'estimations qui s'étaient trompées de deux points en 2012.
 
