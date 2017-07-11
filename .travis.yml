@@ -8,15 +8,16 @@ addons:
     packages:
       - language-pack-fr
       - imagemagick
-      - python3
-      - python-pip
 
 before_install:
  - pip install --upgrade pip wheel
-language: node_js
+language: python
 
 python:
  - '3.4'
+
+node_js:
+  - "6.9"
 
 install:
  - pip install Nikola
