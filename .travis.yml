@@ -9,7 +9,7 @@ addons:
       - language-pack-fr
       - imagemagick
       - python3
-      - python3-pip
+      - python-pip
 
 before_install:
  - pip install --upgrade pip wheel
