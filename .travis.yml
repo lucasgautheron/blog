@@ -9,8 +9,8 @@ python:
 
 before_install:
   - sudo apt-get -y install language-pack-fr imagemagick python-pip python-dev
-  - sudo pip3 install -U setuptools
-  - sudo pip3 install -U virtualenvwrapper
+  - sudo pip install -U setuptools
+  - sudo pip install -U virtualenvwrapper
   - python -V
   - pip -V
 
