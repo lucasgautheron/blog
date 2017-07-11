@@ -2,26 +2,10 @@
 
 set -o errexit -o nounset
 
-if [ "$TRAVIS_BRANCH" != "master" ]
-then
-  echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!"
-  exit 0
-fi
+#if [ "$TRAVIS_BRANCH" != "master" ]
+#then
+#  echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!"
+#  exit 0
+#fi
 
-rev=$(git rev-parse --short HEAD)
-
-mkdir deploy
-cd deploy
-
-echo $GH_TOKEN | cut -c1-5
-
-git init
-git config user.name "Lucas Gautheron"
-git config user.email "lucas.gautheron@gmail.com"
-
-git remote add origin "https://$GH_TOKEN@github.com/lucasgautheron/blog.git"
-git fetch origin
-git fetch origin master
-git checkout master
-
-nikola github_deploy
+firebase deploy --token "${FIREBASE_TOKEN}"

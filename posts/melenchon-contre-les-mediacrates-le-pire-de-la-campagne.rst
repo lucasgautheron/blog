@@ -61,11 +61,11 @@ Peut-on faire plus ridicule ? Le matin même, Patrick Cohen, sur la radio "de ga
      <p>Votre navigateur ne peut pas lire cet extrait audio. Vous pouvez cependant le <a href="/lepire/auditeurs.mp3">télécharger ici</a>.</p>
    </audio>
 
-On sait ce qu'il adviendra : Mélenchon finira par récolter 19,6 % des suffrages exprimés au premier tour, et Benoît Hamon seulement 6,4 %. S'il s'était désisté, peut-être aurait-on eu un candidat de gauche au second tour. Patrick Cohen sera obligé, pour la forme, de poser la question de sa responsabilité au candidat du PS. Mais sans bien sûr cacher son mépris pour Jean-Luc Mélenchon : 
+Le 11 mars, sur On n'est pas couché, Laurent Ruquier a également ajouté sa pierre à l'édifice en demandant en boucle à Mélenchon "pourquoi il ne dépassait pas les 11 %". S'il était 
 
 .. raw:: html
 
-   <div style="width: 100%; margin: 0 auto;">
+   <div style="width: 640px; margin: 0 auto;">
    <video width="640" height="480" controls="controls">
      <source src="/lepire/mepris_cohen.mp4" type="video/mp4" />
      <source src="/lepire/mepris_cohen.webm" type="video/webm" />
@@ -74,7 +74,20 @@ On sait ce qu'il adviendra : Mélenchon finira par récolter 19,6 % des suffrage
    </div>
 
 
-`Dans un tweet depuis supprimé <http://www.valeursactuelles.com/politique/aux-inrocks-vote-massivement-hamon-mais-surtout-pas-droite-81189>`__, Christophe Conte révélait qu'un sondage interne donnait 46 % des voix à et 24 % à Mélenchon parmi la rédaction des inrockuptibles, donc un ratio d'environ 2 là ou le ratio national est inférieur à 0,4. On comprend ainsi la frustration de cette presse "de gôche" humiliée par Mélenchon.
+`Dans un tweet depuis supprimé <http://www.valeursactuelles.com/politique/aux-inrocks-vote-massivement-hamon-mais-surtout-pas-droite-81189>`__, le chroniqueur Christophe Conte révélait qu'un sondage interne effectué parmi la rédaction des inrockuptibles donnait 46 % des voix à Hamon et 24 % à Mélenchon, donc un ratio Hamon/Mélenchon d'environ 2 là ou le ratio national est de 0,3. C'est bien sûr leur droit, mais on comprend ainsi mieux comment une certaine presse "de gauche" a fini par être désavouée et abandonnée par un électorat avec lequel elle n'est manifestement plus en phase.
+
+On sait ce qu'il adviendra : Mélenchon finira par récolter 19,6 % des suffrages exprimés au premier tour, et Benoît Hamon seulement 6,4 %. S'il s'était désisté, peut-être aurait-on eu un candidat de gauche au second tour. Patrick Cohen sera obligé, pour la forme, de poser la question de sa responsabilité au candidat du PS. Mais sans bien sûr cacher son mépris pour Jean-Luc Mélenchon : 
+
+.. raw:: html
+
+   <div style="width: 640px; margin: 0 auto;">
+   <video width="640" height="480" controls="controls">
+     <source src="/lepire/mepris_cohen.mp4" type="video/mp4" />
+     <source src="/lepire/mepris_cohen.webm" type="video/webm" />
+     <p>Votre navigateur ne peut pas lire cet extrait vidéo. Vous pouvez cependant le <a href="/lepire/mepris_cohen.mp4">télécharger ici</a>.</p>
+   </video>
+   </div>
+
 
 Mélenchon doit s'expliquer sur l'ALBA, dénoncer le Vénézuela et s'excuser auprès des journalistes
 =================================================================================================
