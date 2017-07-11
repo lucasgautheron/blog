@@ -71,7 +71,7 @@ Le 11 mars, sur On n'est pas couché, Laurent Ruquier a également ajouté sa pi
 
 .. raw:: html
 
-   <div style="width: 640px; margin: 0 auto;">
+   <div style="width: 480px; margin: 0 auto;">
    <video width="480" height="360" controls="controls">
      <source src="/lepire/onpc1.mp4" type="video/mp4" />
      <!--<source src="/lepire/onpc1.webm" type="video/webm" />-->
@@ -85,7 +85,7 @@ Si Hamon s'était désisté, peut-être aurait-on eu un candidat de gauche au se
 
 .. raw:: html
 
-   <div style="width: 640px; margin: 0 auto;">
+   <div style="width: 480px; margin: 0 auto;">
    <video width="480" height="360" controls="controls">
      <source src="/lepire/mepris_cohen.mp4" type="video/mp4" />
      <source src="/lepire/mepris_cohen.webm" type="video/webm" />
