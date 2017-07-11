@@ -6,7 +6,8 @@ python:
  - '3.4'
 
 before_install:
-  - sudo apt-get -y install language-pack-fr imagemagick python3 python3-setuptools
+  - sudo apt-get upadte
+  - sudo apt-get -y install language-pack-fr imagemagick python3 python3-dev python3-setuptools
   - sudo pip3 install -U setuptools
   - sudo pip3 install -U virtualenvwrapper
   - python3 -V
