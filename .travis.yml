@@ -1,27 +1,30 @@
-sudo: true
+sudo: false
 dist: trusty
+language: python
+cache:
+    apt: true
+    pip: true
 
-language: node_js
+addons:
+  apt:
+    packages:
+      - language-pack-fr
+      - imagemagick
+
+before_install:
+ - pip install --upgrade pip wheel
 
 python:
  - '3.4'
 
-before_install:
-  - sudo apt-get update
-  - sudo apt-get -y install language-pack-fr imagemagick python3 python3-dev python3-setuptools python3-pip
-  - sudo pip3 install -U setuptools
-  - sudo pip3 install -U virtualenvwrapper
-  - python3 -V
-  - pip3 -V
-
 install:
- - sudo pip3 install Nikola
- - sudo pip3 install "Nikola[extras]"
+ - pip install Nikola
+ - pip install "Nikola[extras]"
  - npm install -g firebase-tools
 
 script:
  - ./build.sh
 
 after_success:
+#- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
  - bash deploy.sh
-# - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh3
