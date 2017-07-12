@@ -21,6 +21,24 @@ Ce n'est pas le seul reproche qui est fait à Mélenchon sur sa candidature. On 
 
 .. figure:: /images/lepire/jubilation.jpeg
 
+Mélenchon est un gourou et la France Insoumise une secte
+========================================================
+
+Mélenchon est un bon orateur, et ses talents tribunitiens sont appréciés à gauche, puisqu'il sait dire en public la colère, l'indignation et les revendications de ses sympathisants. Ceci, bien sûr, est insupportable pour la presse et plus particulièrement celle "de gauche". Ainsi, *Libération* publiait déjà en 2012 à propos de lui qu'"il suscite à la gauche de la gauche un authentique **culte de la personnalité**". C'est bien pratique : cela permet d'insulter simultanément Mélenchon et ses électeurs réduits au rang de "groupies". Cette rhétorique a franchi un cap durant la campagne des législatives. Cette fois, l'accusation s'étend à la France Insoumise, comparée à une "secte" dirigé par le tyran Mélenchon, "chef des insoumis" pour Rachid Laïreche (*Libération*) qui reprendra cette expression dont l'ironie ne vous aura pas échappée une dizaine de fois en un mois de campagne.
+
+Le 26 mai, Ariane Chemin publie dans *Le Monde Magazine* un papier abject intitulé "Qui est vraiment Jean-Luc Mélenchon ?". Bon, en toute franchise, on ne s'attendait pas à un article dithyrambique. Mais, dans celui-ci, l'auteure arrive quand même à nous surprendre en repoussant toutes les limites de l'indécence. Ça commence avec une affirmation non sourcée (et donc immanquablement `fausse <https://twitter.com/SoChik75/status/869205851835441152>`__ pour ne rien gâcher) pour expliquer que Mélenchon est mégalomaniaque, ses partisans assez stupides pour penser qu'il aurait pu gagner et aussi pour se payer un petit point Chavez au passage :
+
+  Ils y croyaient tant qu’**une « chaîne du président », interactive, était à l’étude**. Le nouveau chef de l’État, Jean-Luc Mélenchon, 65 ans, s’y serait exprimé une fois par semaine, **comme le président du Venezuela, Hugo Chavez, le dimanche à 11 heures dans « Aló Présidente »**, mais aussi Evo Morales en Bolivie ou Rafael Correa en Équateur.
+ 
+Jusque là, pas grand-chose de nouveau me direz-vous. Mais voilà, la "journaliste" trouve pertinent d'évoquer la cérémonie funéraire dédiée à François Delapierre en ces termes :
+
+  Le rituel a été calé à l’hôpital par Jean-Luc Mélenchon et le défunt. Cette marche en rang est riche de sens : transmission, solidarité. **Pour certains dans la foule**, elle signe aussi au grand jour un « **groupe sectaire** » – « **tous les codes pour maintenir un clan homogène et très radicalisé** », suggère **un membre de l’assistance** d’alors, **aujourd’hui encore un peu glacé**.
+
+Expliquons à la "journaliste" que toutes les cultures du monde, religieuses ou non, observent des rituels funéraires, et que c'est même le cas chez certains animaux. Mais, tout est bon pour taper sur les membres du Parti de Gauche. Y compris les commentaires en "off" d'une personne qui les avait probablement faits à des fins politiques - un peu comme Ariane Chemin, en fait.
+
+Bien sûr, le "service public" et sa station de gôche *France Inter* se sont régalés de l'article. Hélène Jouan juge alors opportun d'en citer les passages reproduits ci-dessus dans sa revue de presse, alors même que l'actualité est dense en cette campagne électorale.
+
+https://pbs.twimg.com/media/DA74M88XcAMIvid.jpg
 
 Déroulède internationale
 
