@@ -8,7 +8,7 @@
 .. type: text
 .. previewimage: /images/lepire/melenchon_media.jpg
 
-(Suite de la `première partie </posts/melenchon-contre-les-mediacrates-le-pire-de-la-campagne>`__). Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à se ridiculiser et se discréditer complètement. Les campagnes présidentielle et législatives n'y ont pas échappé : c'est l'occasion d'en faire le bilan et de revenir sur le pire de cette campagne.
+(Suite de la `première partie </posts/melenchon-contre-les-mediacrates-le-pire-de-la-campagne>`__). Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à se ridiculiser et se discréditer complètement. Les élections présidentielle et législatives n'y ont pas échappé : c'est l'occasion d'en faire le bilan et de revenir sur le pire de cette campagne.
 
 .. TEASER_END
 
