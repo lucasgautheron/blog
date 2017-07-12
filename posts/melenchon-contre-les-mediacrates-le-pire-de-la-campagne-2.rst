@@ -38,6 +38,9 @@ Expliquons à la "journaliste" que toutes les cultures du monde, religieuses ou 
 
 Bien sûr, le "service public" et sa station de gôche *France Inter* se sont régalés de l'article. Hélène Jouan juge alors opportun d'en citer les passages reproduits ci-dessus dans sa revue de presse, alors même que l'actualité est dense en cette campagne électorale.
 
+Mélenchon et Cazeneuve : apothéose et bouquet final
+===================================================
+
 https://pbs.twimg.com/media/DA74M88XcAMIvid.jpg
 
 Déroulède internationale
