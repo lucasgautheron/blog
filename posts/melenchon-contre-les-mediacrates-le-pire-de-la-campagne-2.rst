@@ -41,8 +41,25 @@ Bien sûr, le "service public" et sa station de gôche *France Inter* se sont r�
 Mélenchon et Cazeneuve : apothéose et bouquet final
 ===================================================
 
-https://pbs.twimg.com/media/DA74M88XcAMIvid.jpg
+En pleine campagne,  Bernard Cazeneuve accuse Jean-Luc Mélenchon d'`avoir "refusé de prendre position contre l'extrême-droite" <https://twitter.com/BCazeneuve/status/867128534963286017>`__. Bien évidement, c'est faux : « zéro voix pour le FN », avait-il martelé, mais ce n'est pas les désintoxicateurs de Libération, les décodeurs du Monde ou les décrypteurs du Lab qui allaient corriger, `alors que leurs confrères propageaient les mêmes sornettes <http://abonnes.lemonde.fr/idees/article/2017/04/29/le-perilleux-ni-ni-de-m-melenchon_5119941_3232.html>`__. Agacé, Mélenchon ajoute alors rapidement, au milieu d'un discours de plus d'une heure, et alors même qu'il en a donné une douzaine en quelques jours de campagne éreintants, que l'ex premier ministre était « celui qui s'est occupé de l'assassinat de Rémi Fraisse ». En effet, Bernard Cazeneuve s'est bien occupé du dossier de l'homicide, étant ministre de l'intérieur à l'époque. Il le revendique d'ailleurs avec fierté : "Ce ne sont pas les attentats qui m'ont fait gagner le respect de mes hommes, mais bien Sivens". Pourtant, les journalistes volent au secours de Cazeneuve (ou plutôt, à l'assaut de porte-parole des insoumis) : « Mélenchon est-il devenu fou ? » sur *RTL* ; « Mélenchon : l'excès de trop ? » sur *LCI*. Reconnaître que le terme d'"assassinat" était mal calibré et requalifier d'homicide n'aura pas suffi : la meute des chiens de garde a trouvé là un os qu'elle n'est pas près de lâcher.
+Ainsi, Jean-François Kahn n'hésite pas à comparer Mélenchon à "Jacques Doriot", un collaborationniste fasciste. Bruno Roger-Petit, dans *Challenges*, publie `un article absolument fantastique, une merveille du genre <https://www.challenges.fr/elections-legislatives-2017/melenchon-vs-cazeneuve-le-grand-tournant-sectaire-de-la-france-insoumise_476564>`__. Citations :
 
-Déroulède internationale
+Jean-Luc Mélenchon accuse Bernard Cazeneuve d'avoir une part de responsabilité dans la mort de Rémi Fraisse, à Sivens, en 2014. Cette polémique révèle le **tournant gauchiste** de la France insoumise, bien loin de la campagne hugolienne de la présidentielle.
+
+  Le formidable intellectuel de la campagne présidentielle, hugolien et jaurésien, réincarnation de la figure de l'Instituteur de la IIIe République, s'est mué en **tribun identitaire et sectaire** pour les élections législatives. **Déroulède gauchiste nationaliste et populiste**, Mélenchon ne sème plus le grain qui lève en mai et se récolte à l'été, mais la colère qui prospère sur le désespoir et ne produit que de la haine.
+
+(On rappelle au passage que Déroulède, militant de la droite nationaliste, a participé à la répression meurtrière de la Commune, quand Mélenchon la célèbre régulièrement et chante souvent l'Internationale)
+
+  En attendant, le **cas Mélenchon est préoccupant**. Il dit que le leader de la France insoumise est entrée dans une logique politique **sectaire**, décidé à rompre toute attache avec les partis républicains modérés. Il dit aussi le processus d'**extrême-gauchisation** d'une partie de la société politique française.
+
+  Retour de l'agitateur de foules haineuses, grand manipulateur de passions tristes, **entre Déroulède et Chavez**.
+
+  Mélenchon et sa VIe République, sa constituante, sa France insoumise, son attachement à l’alliance bolivarienne, **la secte de ses militants**, c’est la promesse de la mort de la gauche au pouvoir pour des décennies.
+
+  Le prix à payer du splendide **isolement politique** prôné par Mélenchon. Ici apparaît la vérité politique de l'homme et ce qu'il emporte avec lui. **La réalité du Déroulède gauchiste Mélenchon, c’est la vanité**.
+
+Il est en effet beaucoup plus confortable pour ces éditorialistes militants d'injurier de façon outrancière Jean-Luc Mélenchon que d'enquêter en détail sur les conditions de la mort de Rémi Fraisse. Qui l'a vraiment fait, `à part Reporterre <https://reporterre.net/Mort-de-Remi-Fraisse-les-responsables-sont-a-Matignon-et-place-Beauvau>`__ ? Les journalistes étaient plus nombreux pour faire le SAV de la politique autoritaire du gouvernement Valls...
+
+La propagande déchaînée du Parti Médiatique aura-t-elle eu un effet sur les élections ? Difficile d'y répondre. En tout cas, elle aura sans doute contribué à mieux dévoiler la teneur politique du rôle de la presse, son militantisme, et aura sûrement aggravé la défiance envers elle - en 2014, `près de 80 % des Français disaient ne pas avoir confiance en les médias <https://www.scribd.com/fullscreen/201131539?access_key=key-1t3mqeo13t7ygr0cp930&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll>`__ ! Cela nous conforte dans l'idée que la stratégie de la France Insoumise de contournement des médias officiels est la bonne.
 
 
