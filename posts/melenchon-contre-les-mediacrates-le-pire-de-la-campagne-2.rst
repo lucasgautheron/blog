@@ -1,7 +1,7 @@
 .. title: Mélenchon contre les médiacrates : le pire de la campagne (2/2)
 .. slug: melenchon-contre-les-mediacrates-le-pire-de-la-campagne-2
 .. date: 2017-07-11 12:23:30 UTC+02:00
-.. tags: médias, OPIAM, draft
+.. tags: médias, OPIAM
 .. category: politique
 .. link: 
 .. description: 
@@ -60,6 +60,6 @@ Jean-Luc Mélenchon accuse Bernard Cazeneuve d'avoir une part de responsabilité
 
 Il est en effet beaucoup plus confortable pour ces éditorialistes militants d'injurier de façon outrancière Jean-Luc Mélenchon que d'enquêter en détail sur les conditions de la mort de Rémi Fraisse. Qui l'a vraiment fait, `à part Reporterre <https://reporterre.net/Mort-de-Remi-Fraisse-les-responsables-sont-a-Matignon-et-place-Beauvau>`__ ? Les journalistes étaient plus nombreux pour faire le SAV de la politique autoritaire du gouvernement Valls...
 
-La propagande déchaînée du Parti Médiatique aura-t-elle eu un effet sur les élections ? Difficile d'y répondre. En tout cas, elle aura sans doute contribué à mieux dévoiler la teneur politique du rôle de la presse, son militantisme, et aura sûrement aggravé la défiance envers elle - en 2014, `près de 80 % des Français disaient ne pas avoir confiance en les médias <https://www.scribd.com/fullscreen/201131539?access_key=key-1t3mqeo13t7ygr0cp930&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll>`__ ! Cela nous conforte dans l'idée que la stratégie de la France Insoumise de contournement des médias officiels est la bonne.
+La propagande déchaînée du Parti Médiatique aura-t-elle eu un effet sur les élections ? Difficile de répondre. En tout cas, elle aura sans doute contribué à mieux dévoiler la teneur politique du rôle de la presse, son militantisme, et aura sûrement aggravé la défiance envers elle - en 2014, `près de 80 % des Français disaient ne pas avoir confiance en les médias <https://www.scribd.com/fullscreen/201131539?access_key=key-1t3mqeo13t7ygr0cp930&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll>`__ ! Cela nous conforte dans l'idée que la stratégie de la France Insoumise de contournement des médias officiels est la bonne.
 
 
