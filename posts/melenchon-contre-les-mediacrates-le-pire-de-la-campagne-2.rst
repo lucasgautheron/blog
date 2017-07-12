@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. previewimage: /images/lepire/jlm_vs_lenglet.png
+.. previewimage: /images/lepire/melenchon_media.jpg
 
 (Suite de la `première partie </posts/melenchon-contre-les-mediacrates-le-pire-de-la-campagne>`__). Lorsque l'enjeu est trop grand, comme lors du référendum de 2005, les médiacrates perdent tout sens de la mesure. Ils s'adonnent alors à un bourrage de crâne éhonté et décomplexé, quitte à se ridiculiser et se discréditer complètement. Les campagnes présidentielle et législatives n'y ont pas échappé : c'est l'occasion d'en faire le bilan et de revenir sur le pire de cette campagne.
 
@@ -62,4 +62,4 @@ Il est en effet beaucoup plus confortable pour ces éditorialistes militants d'i
 
 La propagande déchaînée du Parti Médiatique aura-t-elle eu un effet sur les élections ? Difficile de répondre. En tout cas, elle aura sans doute contribué à mieux dévoiler la teneur politique du rôle de la presse, son militantisme, et aura sûrement aggravé la défiance envers elle - en 2014, `près de 80 % des Français disaient ne pas avoir confiance en les médias <https://www.scribd.com/fullscreen/201131539?access_key=key-1t3mqeo13t7ygr0cp930&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll>`__ ! Cela nous conforte dans l'idée que la stratégie de la France Insoumise de contournement des médias officiels est la bonne.
 
-
+*Illustration de FabLab*
