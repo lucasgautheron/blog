@@ -1,4 +1,4 @@
-.. title: Nouveau numéro de victimisation dans *Libération*
+.. title: Nouveau numéro de victimisation dans Libération
 .. slug: nouveau-numero-de-victimisation-dans-liberation
 .. date: 2017-07-17 16:20:13 UTC+02:00
 .. tags: médias, OPIAM
