@@ -22,7 +22,7 @@ En effet, les journalistes de *Libération* - sans doute infaillibles et donc ex
 
   « La rédaction, **face à des actionnaires sans scrupule** qui se moquent de l’histoire et de la place de Libé dans le paysage médiatique, a su réagir et interpeller ses lecteurs. Alors qu’elle dispose de peu de moyens, elle travaille à un projet alternatif. **Oui, véritablement, l’équipe de Libé est pour l’heure l’honneur de la profession**. »
 
-L'« honneur de la profession » contre « les actionnaires sans scrupule » : non, assurément, aucune victimisation ici.
+L'« honneur de la profession » contre « les actionnaires sans scrupule » ? non, assurément, aucune victimisation ici ! C'est d'autant plus cocasse que ces journalistes essaient ainsi de nous faire oublier qu'ils ne sont pas *victimes* du pouvoir, mais qu'ils *sont* le pouvoir [#]_, et qu'ils ne sont pas *soumis* à la censure, mais qu'ils sont *eux-mêmes* censeurs en tant qu'ils sélectionnent arbitrairement, selon leur bon vouloir, parmi ce qu'ils recueillent.
 
 Le journal autoproclamé « de gauche » [#]_ nous a rejoué ce numéro les 15 et 16 juillet 2017, avec à sa une un dossier de cinq pages titré : « Faut-il brûler les journalistes ? » et sous-titré « Pourquoi tant de haine ? ».
 
@@ -64,6 +64,7 @@ On note, d'abord, le dénigrement de toute prise de position critique du journal
 .. [#] http://www.liberation.fr/france/2016/03/28/c-est-l-histoire-d-un-tweet_1442491
 .. [#] http://www.liberation.fr/france/2016/03/28/les-limites-d-un-candidat-bis-repetita_1442484
 .. [#] http://www.liberation.fr/ecrans/2014/04/27/la-societe-doit-se-saisir-de-la-question-des-medias_1005760
+.. [#] Pas un « quatrième pouvoir » pour autant, qui serait miraculeusement indépendant des autres, bien évidement.
 .. [#] http://www.liberation.fr/ecrans/2014/04/03/votre-rituel-d-accueil-est-tres-pestilentiel_992988
 .. [#] ACRIMED (ACtion CRItique MÉDias) est une association de critique des médias. Fondée en réaction au traitement médiatique du mouvement social de 1996, elle regroupe entre autres des journalistes et des universitaires.
 .. [#] « Les banlieues », dans le langage journalistique, est une expression qui immanquablement, en tentant d'englober des réalités diverses et des milieux hétéroclites, ne finit par désigner qu'un imaginaire médiatique fantasmé.
