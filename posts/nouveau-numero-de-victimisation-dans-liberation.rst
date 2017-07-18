@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. previewimage: /images/une.jpg
+.. previewimage: /images/victimisation/une.jpg
 
 Dans le journal *Libération*, qui a déjà successivement assimilé Mélenchon à Hitler et à un purificateur ethnique [#]_ , on a pu lire les choses suivantes :
 
@@ -53,7 +53,7 @@ La seule analyse proposée par *Libération* est celle d'Arnaud Mercier, cherche
 
 On note, d'abord, le dénigrement de toute prise de position critique du journalisme, forcément manipulatrice et électoraliste, donc nulle et non avenue. Façon pratique de discréditer un discours sans même avoir à répondre à son contenu argumentaire. Puis, bien sûr, l'assimilation Mélenchon-Le Pen qui « ont pris les médias pour cible », en oubliant au passage l'éventualité selon laquelle ce pourrait aussi être l'inverse, à savoir que certains médias auraient ciblé Jean-Luc Mélenchon, surtout dans les dernières semaines précédent le premier tour, comme en 2012 [#]_... Et enfin, bien sûr, l'accusation groupée de « les politiques » et leur « violence verbale inouïe ». Car les médias ne tolèrent pas que l'on mette des mots durs sur une réalité difficile, faites de conflits et de rapports de force. Tout en diffusant largement des fictions très violentes sans y voir aucun problème.
 
-.. figure:: /images/une.jpg
+.. figure:: /images/victimisation/une.jpg
 
    La une de *Libération*
 
