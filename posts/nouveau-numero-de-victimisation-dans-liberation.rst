@@ -28,6 +28,10 @@ L'« honneur de la profession » contre « les actionnaires sans scrupule » ? n
 
 Le journal autoproclamé « de gauche » [#]_ nous a rejoué ce numéro les 15 et 16 juillet 2017, avec à sa une un dossier de cinq pages titré : « Faut-il brûler les journalistes ? » et sous-titré « Pourquoi tant de haine ? ».
 
+.. figure:: /images/victimisation/une.jpg
+
+   La une de *Libération*
+
 On doit le premier article du dossier, une longue complainte affligée, à Johan Hufnagel, qui co-dirige la rédaction du journal. Le recueil de lamentations commence par une liste d'injures abominables dont seraient couverts les journalistes sur les réseaux sociaux : « merdias », « journalopes », « presstiputes » - (celui-là je ne le connaissais pas, mais j'aime bien) - « laquais du pouvoir »... Et le journaliste de dénoncer « une détestation sans filtre [...] qui peut tourner au harcèlement » tout en revendiquant pratiquer un métier « dans le wagon de tête des pires jobs à exercer ». Plus loin, une colonne est entièrement dédiée à la « rage » sur les réseaux sociaux. Elle commence par citer le sondage twitter ci-dessous : 
 
 .. raw:: html
@@ -54,10 +58,6 @@ La seule analyse proposée par *Libération* est celle d'Arnaud Mercier, cherche
   "La critique des journalistes est devenue **une rhétorique obligée de la communication politique, une ressource électoraliste**. La machine s'est emballée lors de la campagne présidentielle. **Le FN comme Jean-Luc Mélenchon ont pris les médias pour cible**. Même Fillon n'a pas trouvé d'autre exutoire face à ses turpitudes. On se retrouve dans un climat de violence verbale inouïe, passant de la dénonciation à la haine. **Et les politiques ont une énorme responsabilité**. En entonnant un discours de dénigrement, ils libèrent la parole des esprits agressifs et violents, qui se lâchent.
 
 On note, d'abord, le dénigrement de toute prise de position critique du journalisme, forcément manipulatrice et électoraliste, donc nulle et non avenue. Façon pratique de discréditer un discours sans même avoir à répondre à son contenu argumentaire. Puis, bien sûr, l'assimilation Mélenchon-Le Pen qui « ont pris les médias pour cible », en oubliant au passage l'éventualité selon laquelle ce pourrait aussi être l'inverse, à savoir que certains médias auraient ciblé Jean-Luc Mélenchon, surtout dans les dernières semaines précédent le premier tour, comme en 2012 [#]_... Et enfin, bien sûr, l'accusation groupée de « les politiques » et leur « violence verbale inouïe ». Car les médias ne tolèrent pas que l'on mette des mots durs sur une réalité difficile, faites de conflits et de rapports de force. Tout en diffusant largement des fictions très violentes sans y voir aucun problème.
-
-.. figure:: /images/victimisation/une.jpg
-
-   La une de *Libération*
 
 
 .. [#] https://opiam.fr/2016/03/29/libvictime/
