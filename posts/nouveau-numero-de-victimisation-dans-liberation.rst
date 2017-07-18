@@ -18,6 +18,8 @@ Dans le journal *Libération*, qui a déjà successivement assimilé Mélenchon 
 
   « s’il a réussi de grands rassemblements politiques et tutoyé les 15 % d’intentions de vote en 2012 [ce n'est pas] pas en surjouant la **victime du «système médiatique»** à la moindre ligne qu’il juge écrite de travers. » (28 mars 2016) [#]_
 
+.. TEASER_END
+
 En effet, les journalistes de *Libération* - sans doute infaillibles et donc exempts de toute critique qui ne pourrait relever que de la pleurnicherie - s'y connaissent en victimisation. Déjà, le 27 avril 2014, ils écrivaient [#]_ :
 
   « La rédaction, **face à des actionnaires sans scrupule** qui se moquent de l’histoire et de la place de Libé dans le paysage médiatique, a su réagir et interpeller ses lecteurs. Alors qu’elle dispose de peu de moyens, elle travaille à un projet alternatif. **Oui, véritablement, l’équipe de Libé est pour l’heure l’honneur de la profession**. »
