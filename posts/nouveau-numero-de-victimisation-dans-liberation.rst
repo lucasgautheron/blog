@@ -39,7 +39,7 @@ On doit le premier article du dossier, une longue complainte affligée, à Johan
          <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Votez pour élire le ou la journaliste &quot;qui pète tellement plus haut que son cul qu &#39;il/elle en espère atteindre JUPITER &quot;<br>RT un max svp</p>&mdash; Stanerie (@STANXdubstep) <a href="https://twitter.com/STANXdubstep/status/884763801601617920">11 juillet 2017</a></blockquote>
          <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-« Étant listés les noms de quatre confrères, que par charité nous ne reproduirons pas », précise le journaliste, qui vraisemblablement se sent solidaire - réflexe de corporation courant et renforcé par des dénominations confuses comme « les journalistes » ou « les politiques » - de ces quatre figures médiatiques pour le moins militantes.
+« Étant listés les noms de quatre confrères, que par charité nous ne reproduirons pas », précise le journaliste, qui vraisemblablement se sent solidaire - réflexe de corporation courant et entretenu par des dénominations généralisatrices confuses comme « les journalistes » - de ces quatre figures médiatiques pour le moins militantes.
 
 Au milieu de ces apitoiements, peut-on trouver une analyse des raisons de la défiance - évidente - envers « les journalistes » ? On trouve en effet un court gloubiboulga sous forme de fausses concessions :
 
