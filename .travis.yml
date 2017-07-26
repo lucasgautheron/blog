@@ -4,6 +4,8 @@ language: python
 cache:
     apt: true
     pip: true
+    directories:
+      - node_modules
 
 python:
  - '3.4'
