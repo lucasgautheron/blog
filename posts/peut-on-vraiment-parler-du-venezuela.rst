@@ -95,8 +95,7 @@ Dans ce cadre, des concessions sur les échecs du Chavisme seraient analysés co
 
   « *Les démocrates, fréquemment accusés d'être insuffisamment anticommunistes (voire pro-communistes), sont constamment tenus sur la défensive dans un environnement culturel où l'anticommunisme est la religion dominante. S'ils laissent le « communisme » (ou quoi que ce soit qui puisse être estampillé de la sorte) triompher dans les lointaines provinces de l'empire américain, le prix à payer est extrêmement élevé. Si la plupart d'entre eux ont de toute façon complètement intériorisé cette religion, tous subissent une énorme pression pour faire la preuve de leur anticommunisme, ce qui les conduit généralement à se comporter en purs réactionnaires. » Chapitre I : Modèle de Propagande, *La Fabrication du Consentement*
 
-Ici, on reconnaît les mécanismes à l'œuvre lorsque les médias, de concert avec toute une partie de la classe politique, exigent des condamnations explicites du Chavisme de la part de Mélenchon en France ou de Corbyn au Royaume-Uni : le soulèvement du peuple Venezuelien contre l'impérialisme américain et les politiques néolibérales suggérées par le FMI est une menace et doit être dénoncée, et quiconque refuse de le faire est un ennemi.
-
+Ici, on reconnaît les mécanismes à l'œuvre lorsque les médias, de concert avec toute une partie de la classe politique, exigent des condamnations explicites du Chavisme de la part de Mélenchon en France ou de Corbyn au Royaume-Uni : le soulèvement du peuple Venezuelien contre l'impérialisme américain et les politiques néolibérales suggérées par le FMI est une menace et doit être dénoncée, et quiconque refuse de le faire est un ennemi. Dans ce contexte, il parait tout à fait naturel que la France Insoumise, par exemple, refuse de donner des gages à un système médiatique au rôle politique aussi évident. « Cotiser » à cette propagande, pour citer Mélenchon, aurait pour effet d'y participer, et ce n'est donc pas une option. Même si, en contrepartie, cela impliquer de s'attirer les foudres de la presse.
 
 Pour conclure, je citerai Pierre Desproges :
 
@@ -127,18 +126,3 @@ Et bien, un peu comme Pierre Desproges, à la question « peut-on parler du Vene
 .. [#] Afin d'anticiper les critiques, précisons que le livre n'explique pas ces phénomènes par de quelconques théories du complot, mais par un faisceau de facteurs comme la dépendance des médias à la sphère financière et capitaliste, à la publicité, l'inégalité des sources d'informations, ou encore des causes idéologiques nationales (anticommunisme ou antiterrorisme) : « *Ces cinq filtres [propriétaires des médias, publicité, sources d'information et experts, contre-feux, cause idéologique nationale] sélectionnent sans pitié les informations susceptibles de parution et plus encore de faire la une et de bénéficier d'un suivi régulier. Par définition, toute information émanant d'une source primaire située dans l'establishment satisfait aux exigences d'un des filtres les plus importants et sera immédiatement traitée par les médias. Celles émanant ou concernent des dissidents, des individus ou des groupes faibles et inorganisés, étrangers ou non, ont un handicap de départ en matière de crédibilité et de coût de vérification. De plus, elles sont souvent non conformes à l'idéologie et aux intérêts des *gate-keepers* et autres puissants tiers influençant le processus de sélection - sauf évidemment dans le cas de dissidents prêts à dénoncer les ennemis officiels.* »
 .. [#] https://www.amnesty.org/fr/latest/news/2017/07/fourteen-men-at-imminent-risk-of-beheading-as-saudi-arabia-continues-bloody-execution-spree/
 
-https://www.arretsurimages.net/articles/2017-08-04/Venezuela-derriere-les-heros-des-manifestations-quelle-opposition-id10092 
-  
-
-situation
-http://www.regards.fr/web/article/venezuela-une-crise-capitale-pour-la-gauche-latino-americaine
-https://www.mediapart.fr/journal/international/060817/le-venezuela-est-un-miroir-grossissant-des-conflits-de-la-region
-
-mélenchon, FI
-https://www.mediapart.fr/journal/france/030817/croquis-des-pudeurs-de-gazelle-pour-le-venezuela
-
-corybn
-https://www.standard.co.uk/news/politics/jeremy-corbyn-faces-new-heat-over-venezuela-as-maduro-cracks-down-on-rebels-a3605616.html
-http://news.sky.com/story/corbyn-calls-for-venezuela-dialogue-as-he-breaks-silence-on-crisis-10978287
-http://www.telegraph.co.uk/news/2017/08/07/jeremy-corbyn-refuses-condemn-venezuelan-presidentnicolas-maduro/
-http://www.telegraph.co.uk/opinion/2017/08/07/jeremy-corbyn-has-failed-venezuela-test-know-stands-democracy/
