@@ -1,13 +1,16 @@
 .. title: Peut-on vraiment parler du Veneuela dans les médias ?
 .. slug: peut-on-vraiment-parler-du-venezuela
-.. date: 2017-08-10 23:09:25 UTC+02:00
+.. date: 2017-08-17 23:09:25 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
+.. previewimage: /images/venezuela/groupe.jpg
 
-Cela fait quelques semaines que les députés de la France Insoumise sont régulièrement interpellés dans les médias au sujet de la grave crise politique que traverse le Venezuela. Sommés de donner leur position vis-à-vis du gouvernement de Maduro, ceux-ci ne prononcent pas la condamnation qui semble être attendue, ce qui suscite des critiques. Mais peut-on aujourd'hui vraiment parler librement du Venezuela dans l'espace médiatique, quand appartient à la France Insoumise ? 
+Cela fait quelques semaines que les députés de la France Insoumise sont régulièrement interpellés dans les médias au sujet de la grave crise politique que traverse le Venezuela. Sommés de donner leur position vis-à-vis du gouvernement de Maduro, ceux-ci ne prononcent pas la condamnation qui semble être attendue, ce qui suscite des critiques. Mais peut-on aujourd'hui vraiment parler librement du Venezuela dans l'espace médiatique, quand appartient à la France Insoumise ?
+
+.. TEASER_END
 
 Mélenchon, Corbyn et le chavisme : une caricature médiatique
 ============================================================
