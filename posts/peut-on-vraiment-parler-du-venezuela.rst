@@ -1,4 +1,4 @@
-.. title: Peut-on vraiment parler du Veneuela dans les médias ?
+.. title: Peut-on vraiment parler du Venezuela dans les médias ?
 .. slug: peut-on-vraiment-parler-du-venezuela
 .. date: 2017-08-17 23:09:25 UTC+02:00
 .. tags: 
