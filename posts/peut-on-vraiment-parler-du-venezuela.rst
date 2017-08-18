@@ -101,7 +101,7 @@ Pour conclure, je citerai Pierre Desproges :
 
   « Premièrement, peut-on rire de tout ? Deuxièmement, peut-on rire avec tout le monde ? A la première question je répondrais oui sans hésiter […]. Deuxième question : peut-on rire avec tout le monde ? C'est dur… »
 
-Et bien, un peu comme Pierre Desproges, à la question « peut-on parler du Venezuela », je répondrais oui,  sans hésitation : il existe une opposition authentiquement de gauche à Maduro, dans la lignée Chaviste, et nous pouvons discuter de son soutien. Mais peut-on en parler avec tout le monde ? C'est dur.
+Et bien, un peu comme Pierre Desproges, à la question « peut-on parler du Venezuela », je répondrais oui,  sans hésitation : il existe une opposition authentiquement de gauche à Maduro, dans la lignée Chaviste, et nous pouvons discuter de son soutien. Mais peut-on en parler avec tout le monde ? C'est dur. En tout cas, pas dans les médias *mainstream*.
 
 .. [#] http://www.lexpress.fr/actualite/politique/lfi/melenchon-chavez-francais-l-eternel-talon-d-achille-du-candidat-insoumis_1898119.html
 .. [#] http://abonnes.lemonde.fr/ameriques/article/2017/07/31/au-venezuela-une-assemblee-constituante-elue-dans-le-sang_5166884_3222.html
