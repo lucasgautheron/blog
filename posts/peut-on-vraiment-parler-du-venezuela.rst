@@ -49,8 +49,6 @@ La gauche peut-elle parler du Venezuela ? Tentative d'explication à la lumière
 * La présentation de la situation au Venezuela biaisée faite par les médias rend difficilement acceptable par le public un discours relativisant les erreurs du gouvernement.
 * Le système médiatique est un adversaire de fait pour la gauche anti-capitaliste et anti-impérialiste (qu'il s'agisse de l'impérialisme français ou américain). Il lui est donc inacceptable de tenir un discours qui alimente ce qu'elle juge relever de la propagande.
 
-Notons, pour anticiper les critiques, que le livre de Chomsky et Herman 
-
 Le déséquilibre du traitement médiatique disqualifie certaines positions
 ------------------------------------------------------------------------
 
