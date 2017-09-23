@@ -8,7 +8,9 @@
 .. type: text
 .. previewimage: /images/23juillet/une.jpg
 
-Aujourd'hui, 23 septembre 2017, la France Insoumise organise une manifestation à Paris contre la loi travail par ordonnances et la régression sans précédent des droits des travailleurs qu'elle marque. Ne soyons pas de mauvais esprit : puisque *Libération* est « de gauche » et « lutte contre les injustices », il est évident  que le journal affichera son soutien à cet événement, n'est-ce pas ? Avant de se précipiter dans les kiosques pour l'acheter, jetons tout de même un rapide coup d'oeil à la une du journal, au cas où :
+Aujourd'hui, 23 septembre 2017, la France Insoumise organise une manifestation à Paris contre la loi travail par ordonnances et la régression sans précédent des droits des travailleurs qu'elle marque. Ne soyons pas de mauvais esprit : puisque *Libération* est « de gauche » et « lutte contre les injustices », il est évident  que le journal affichera son soutien à cet événement, n'est-ce pas ? Avant de se précipiter dans les kiosques pour l'acheter, jetons tout de même un rapide coup d'oeil à la une du journal, au cas où.
+
+.. TEASER_END
 
   .. figure:: /images/23juillet/une.jpg
 
