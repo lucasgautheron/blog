@@ -18,7 +18,7 @@ Aujourd'hui, 23 septembre 2017, la France Insoumise organise une manifestation �
 
      Une de *Libération*, le 23 juillet 2017, jour de manifestation organisée par la France Insoumise.
 
-Je ne sais pas vous, mais étonnamment, je ne trouve pas beaucoup de signes de soutien dans cette une. J'aurais même tendance à la trouver plutôt à charge : je dois être « paranoïaque » [#]_.
+Je ne sais pas vous, mais étonnamment, je ne trouve pas beaucoup de signes de soutien dans cette une. J'aurais même tendance à la trouver plutôt à charge : je dois être « paranoïaque » [#]_ ! Prenons quand même le temps de voir pourquoi...
 
 Choix visuel : le recours au « Dark Mélenchon »
 ===============================================
