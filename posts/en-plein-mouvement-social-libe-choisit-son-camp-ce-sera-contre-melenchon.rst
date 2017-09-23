@@ -35,7 +35,7 @@ La une de *Libération*, dans le même genre, avec son fond noir et son halo rou
 
 Les choix graphiques suggèrent donc qu'on a probablement affaire à quelqu'un d'inquiétant, peut-être même un Hitler.
 
-Construction d'une personnage tyrannique...
+Construction d'une personnage autocratique...
 ===========================================
 
 Intéressons-nous au texte. D'abord le titre : « Mélenchon - Le média, c'est moi ». C'est une référence à une citation prêtée à Louis XIV, qui aurait déclaré : « L'État, c'est moi » afin d'affirmer son autorité suprême sur le Parlement. Ce titre dessine de Mélenchon l'image d'un autocrate narcissique et égocentrique, qui veut son propre média. Le sous-titre explique en effet qu'il veut lancer « sa propre télé ». Le rôle de la France Insoumise est totalement éclipsé : il s'agirait d'un média au service du « leader », pas du mouvement et de ses idées.
