@@ -45,7 +45,7 @@ Intéressons-nous au texte. D'abord le titre : « Mélenchon - Le média, c'est 
 
 Le sous-titre précise également que Mélenchon est « en guerre contre les journalistes ». Cela suggère une situation asymétrique, dans laquelle il s'en prendrait aux journalistes qui refusent de lui « servir la soupe ». Il est en effet inconcevable pour les journalistes de *Libération* que la presse puisse attaquer Mélenchon de façon exagérée voire inacceptable. Quoi qu'en disent, même, les analyses quantitatives de la tonalité des articles à son sujet [#]_ [#]_ :
 
-.. figure:: /images/negative_fraction.png
+.. figure:: /images/23septembre/negative_fraction.png
 
    Fraction (en %) des articles mentionnant chacune de ces personnalités politique ayant une connotation négative (*europresse*). D'après ces données, Mélenchon est aussi mal logé que les Le Pen, voire pire encore.
 
