@@ -6,13 +6,13 @@
 .. link: 
 .. description: 
 .. type: text
-.. previewimage: /images/23juillet/une.jpg
+.. previewimage: /images/23septembre/une.jpg
 
 Aujourd'hui, 23 septembre 2017, la France Insoumise organise une manifestation à Paris contre la loi travail par ordonnances et la régression sans précédent des droits des travailleurs qu'elle marque. Ne soyons pas de mauvais esprit : puisque *Libération* est « de gauche » et « lutte contre les injustices », il est évident  que le journal affichera son soutien à cet événement, n'est-ce pas ? Avant de se précipiter dans les kiosques pour l'acheter, jetons tout de même un rapide coup d'oeil à la une du journal, au cas où.
 
 .. TEASER_END
 
-  .. figure:: /images/23juillet/une.jpg
+  .. figure:: /images/23septembre/une.jpg
 
      Une de *Libération*, le 23 juillet 2017, jour de manifestation organisée par la France Insoumise.
 
@@ -23,11 +23,11 @@ Choix visuel : le recours au « Dark Mélenchon »
 
 Le « Dark Mélenchon » [#]_ est une méthode qui consiste à illustrer des articles sur Mélenchon avec des photographies sombres, anxiogènes, principalement avec des couleurs noire et rouge foncée. Souvent, la photo ne capture pas Mélenchon lui-même mais son ombre. C'est le cas ici avec cette illustration dans *Libération* (étonnant, non) qui fait référence au Docteur Folamour, un scientifique imprégné du régime nazi aux intentions destructrices :
   
-  .. figure:: /images/23juillet/folamour.jpg
+  .. figure:: /images/23septembre/folamour.jpg
 
 La une de *Libération*, dans le même genre, avec son fond noir et son halo rouge, et l'essentiel de Mélenchon dans l'ombre, rappelle une affiche peu flatteuse (si vous êtes choqué par le recours au Godwin au sujet de Mélenchon, sachez que la presse, elle, ne se gêne pas [#]_) :
 
-  .. figure:: /images/23juillet/comparaison.png
+  .. figure:: /images/23septembre/comparaison.png
 
      À gauche, une peinture de propagande nazie de 1938, intitulée « Ein Volk, ein Reich, ein Führer ». À droite, la une de *Libération*.
 
