@@ -12,7 +12,9 @@ Aujourd'hui, 23 septembre 2017, la France Insoumise organise une manifestation �
 
 .. TEASER_END
 
-  .. figure:: /images/23septembre/une.jpg
+
+
+.. figure:: /images/23septembre/une.jpg
 
      Une de *Libération*, le 23 juillet 2017, jour de manifestation organisée par la France Insoumise.
 
@@ -61,7 +63,7 @@ Une une, c'est efficace : c'est ce que tout le monde voit, y compris ceux qui n'
 
 .. [#] https://twitter.com/LibeDesintox/status/864968271665270785
 .. [#] https://opiam.fr/2014/07/29/le-dark-melenchon-un-procede-mediatique-neutre-et-objectif/
-.. [#] http://melenchon.fr/2015/10/25/melenchon-assimile-a-hitler-regulierement-dans-la-presse-nuancee-objective-impartiale-et-deontologique/
+.. [#] http://melenchon.fr/2015/10/25/melenchon-assimile-a-hitler-regulierement-dans-la-presse-nuancee-objective-impartiale-et-deontologique/
 .. [#] https://www.marianne.net/debattons/tribunes/oui-il-y-bien-un-melenchon-bashing-mediatique
 .. [#] https://twitter.com/lucasgautheron/status/909470871651328000
 .. [#] http://www.liberation.fr/france/2014/05/05/melenchon-rejoue-la-strategie-usee-de-la-victimisation-mediatique_1011081
