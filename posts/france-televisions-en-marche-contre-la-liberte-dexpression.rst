@@ -5,7 +5,7 @@
 .. category: politique
 .. link: 
 .. description: 
-.. previewmage: /images/ftvdesinfo/logo.png
+.. previewimage: /images/ftvdesinfo/logo.png
 .. type: text
 
 Dans une lettre émanant de leur service juridique respectif, *France Télévisions* et *Radio France* ont mis en demeure le site parodique *Francetvdésinfo* fin septembre, en exigeant que cesse son activité. Celui-ci était maintenu depuis juin par des militants de la France Insoumise qui entendaient ainsi tourner en dérision la violente charge médiatique contre le mouvement. Une manoeuvre autoritaire disproportionnée et ridicule.
