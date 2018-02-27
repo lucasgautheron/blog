@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. previewimage: /images/rossigneux/lcp.png
+.. previewimage: /images/rossigneux/lcp2.png
 
 Un événement du week-end a retenu toute l'attention de la presse française : il s'agit du départ d'Aude Rossigneux du *Média*, site d'information et d'émissions culturelles et politiques indépendant. Cette affaire aura sans doute suscité davantage d'intérêt que son lancement le 15 janvier, et le déchaînement de la corporation en atteste.
 
@@ -20,7 +20,7 @@ Car bien sûr, à aucun moment il n'aura été question de défendre sincèremen
 
 Ainsi, pour illustrer un article intitulé *«* Le Média *limoge sa présentatrice »*, la très indépendante du pouvoir Chaîne Parlementaire - à la tête de laquelle Bertrand Delais, qui relisait les discours de Macron et a réalisé un *« documentaire »* complaisant à son sujet , s'apprête à être bombardé [#]_ -, choisit une photo... de Mélenchon. Toujours avec le soucis d'informer...
 
-.. figure:: /images/rossigneux/lcp.png
+.. figure:: /images/rossigneux/lcp2.png
 
 De cette manière, *LCP* réalise le même choix que les journaux d'extrême-droite *Valeurs Actuelles* [#]_ et *Atlantico* [#]_ :
 
