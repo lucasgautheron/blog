@@ -1,14 +1,16 @@
 .. title: Le service public se victimise
 .. slug: le-service-public-se-victimise
 .. date: 2018-03-04 22:58:47 UTC+01:00
-.. tags: 
-.. category: 
+.. tags: médias, OPIAM
+.. category: politique
 .. link: 
 .. description: 
 .. type: text
 .. previewimage: /images/wauquiez/franceinfo.png
 
 Sacrilège : Mélenchon s'en est pris (une nouvelle fois) à la sainte profession. *« Si la haine des médias et de ceux qui les animent est juste et saine, elle ne doit pas nous empêcher de réfléchir et de penser notre rapport à eux comme une question qui doit se traiter rationnellement dans les termes d’un combat. »*. La presse s'offusque : la *« haine »*, dites-vous ? *« Juste et saine »*, par-dessus le marché ?
+
+.. TEASER_END
 
 Les réactions ont été si nombreuses - comme d'habitude - qu'on ne serait les répertorier exhaustivement. Mais les manipulations du service public, dont le pluralisme et la qualité de l'information font partie des missions, ont une saveur particulière - d'autant plus qu'elles sont financées par notre redevance. Cet extrait de *« Politique Week-end »* sur *France 3* en est un bon exemple. Danielle Sportiello commence : *« il n'y a qu'à voir avec quelle virulence Jean-Luc Mélenchon attaque la presse qui s'intéresse d'un peu trop près à ses comptes de campagne »*. Vous avez compris : Mélenchon fait diversion, bien embarrassé par la non-affaire de ses comptes de campagne, qui fait l'objet d'au moins deux émissions par semaine sur le service public. *« Le Pen, Mélenchon, Wauquiez, même combat »* ajoute-t-elle, avec une finesse et une pertinence qui évoquent les analyses politiques de Bruno Roger-Petit . « Même discours anti-élites », renchérit-elle. Faut-il comprendre que journalistes menteurs et éditorialistes militants sont l'*« élite »* ? *« À la France Insoumise, la défiance vis-à-vis de la presse que Jean-Luc Mélenchon a créé son propre média, aujourd'hui en crise. »*. Bien sûr, c'est totalement faux : la chaîne en question, *Le Média*, n'a pas du tout été créée par Jean-Luc Mélenchon, ni même par la France Insoumise. « Bien sûr, dans une démocratie, il est normal que la presse soit soumise à la critique ». Ouf ! La critique est permise - mais soumise à conditions, comme celle d'être associé systématiquement à l'extrême droite et Marine Le Pen.
 
