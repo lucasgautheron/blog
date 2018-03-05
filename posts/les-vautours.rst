@@ -1,4 +1,4 @@
-.. title: Soudaine passion de la presse pour le sort d'une confrère
+.. title: Soudaine passion de la presse pour le sort d'une consœur
 .. slug: soudaine-passion-de-la-presse
 .. date: 2018-02-26 22:00:39 UTC+01:00
 .. tags: 
