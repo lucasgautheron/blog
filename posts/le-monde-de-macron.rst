@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. previewimage: /images/lemondedemacron/macron.jpg
+.. previewimage: /images/lemondedemacron/macron_sponsor.jpg
 
 Il y a quelques jours, *Le Monde*, dans un éditorial [#]_ largement recyclé [#]_, prenait la défense du journalisme et de *« l'information »*, *« ressort essentiel de la démocratie »* et *« contre-pouvoir indispensable à sa vitalité »*. Contre-pouvoir, dîtes-vous ? La lecture du numéro du *Monde* du 8 mars 2017 laisse quelques doutes. Promotion de l'agenda gouvernemental national et international, complaisance et journalisme de cour semblent mieux décrire le contenu de ce titre subventionné à hauteur de cinq millions d'euros par an par l'État. Petit résumé.
 
