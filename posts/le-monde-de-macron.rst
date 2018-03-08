@@ -28,7 +28,7 @@ Toujours dans les pages Culture, un article nous annonce *« le chantier du pré
 
 Dans la rubrique *« Styles »*, environ 5000 signes sont consacrés à un article essentiel intitulé *« Devine qui était au dîner des Macron... »*. On y apprend entre-autres, qui, parmi les courtisans, avait les faveurs du président et put s'asseoir avec lui à la *« table d'honneur »*, ou encore que *« Brigitte Macron portait du Vuitton, comme à son habitude »*.
 
-Les publicités, qui occupent davantage d'espace que les problématiques sociales, ne semblent pas s'adresser à tout à fait n'importe qui, mais plutôt aux *« premiers de cordée »* : fauteuil en cuir à 1800 €, voiture à louer pour 400 € par mois... Heureusement, pour finir, les mots-croisés proposent tout de même trois lettres « Pour aider ceux qui n'ont rien » - c'est toujours plus que dans le reste du journal. On a quelques idées : « ISF », « APL »... Mais tout ça, c'est l'ancien monde.
+Les publicités, qui occupent davantage d'espace que les problématiques sociales, ne semblent pas s'adresser à tout à fait n'importe qui, mais plutôt aux *« premiers de cordée »* : fauteuil en cuir à 1800 €, voiture à louer pour 400 € par mois... Heureusement, pour finir, les mots-croisés proposent tout de même trois lettres « Pour aider ceux qui n'ont rien » - c'est toujours plus que dans le reste du journal. On a quelques idées : « ISF », « APL »...
 
 .. [#] http://www.lemonde.fr/idees/article/2018/03/01/haro-sur-les-medias_5264212_3232.html
 .. [#] https://twitter.com/OBerruyer/status/969617999866064897
