@@ -8,7 +8,7 @@
 .. type: text
 .. previewimage: /images/mediapart/cadavre.jpg
 
-Pas un seul article de la rédaction. Même pas un tweet d'indignation d'Edwy Plenel. Seulement quelques brèves de Reuters republiées automatiquement, la dernière remontant au 17 février [#]_. À ce jour (14 mars 2018), l'offensive turque contre Afrin lancée le 20 janvier n'intéresse vraisemblablement pas *Mediapart* - à la différence des massacres de la Ghouta, qui ont suscité récemment - à juste titre - plusieurs articles de Mediapart et messages de leurs journalistes sur les réseaux sociaux. 
+Pas un seul article de la rédaction. Même pas un tweet d'indignation d'Edwy Plenel. Seulement quelques brèves de Reuters republiées automatiquement, la dernière remontant au 17 février [#]_. À ce jour (14 mars 2018), l'offensive turque contre Afrin lancée le 20 janvier n'intéresse vraisemblablement pas *Mediapart* - à la différence des massacres de la Ghouta, qui ont suscité récemment - à juste titre - plusieurs articles de *Mediapart* et des messages de leurs journalistes sur les réseaux sociaux. 
 
 .. TEASER_END
 
