@@ -1,4 +1,4 @@
-.. title: France 2 produit accidentellement un tract du Front National
+.. title: Une infographie de France 2 devient un tract du FN
 .. slug: france-2-produit-accidentellement-un-tract-du-front-national
 .. date: 2017-05-05 00:34:03 UTC+02:00
 .. tags: OPIAM, médias
