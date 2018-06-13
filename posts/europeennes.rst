@@ -1,4 +1,4 @@
-.. title: Européennes : pour une France Insoumise quoi soit au service de la souveraineté populaire
+.. title: Européennes : pour que la France Insoumise soit au service de la souveraineté populaire
 .. slug: europeennes
 .. date: 2018-06-13 16:54:37 UTC+02:00
 .. tags: 
