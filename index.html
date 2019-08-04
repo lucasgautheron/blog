@@ -6,12 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>La Physis</title>
 <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/html4css1.css" rel="stylesheet" type="text/css">
-<link href="assets/css/nikola_rst.css" rel="stylesheet" type="text/css">
+<link href="assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="assets/css/rst.css" rel="stylesheet" type="text/css">
 <link href="assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="assets/css/colorbox.css" rel="stylesheet" type="text/css">
 <link href="assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="assets/css/bootblog.css" rel="stylesheet" type="text/css">
 <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
@@ -19,8 +20,19 @@
 <link rel="icon" href="assets/icon-16.png" sizes="16x16">
 <link rel="icon" href="assets/icon-32.png" sizes="32x32">
 <link rel="icon" href="assets/icon-48.png" sizes="48x48">
-<link rel="next" href="index-2.html" type="text/html">
-<!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'left', // Change this to 'center' to center equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script><!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -29,287 +41,215 @@
   ga('create', 'UA-93713823-1', 'auto');
   ga('send', 'pageview');
 
-</script><link rel="prefetch" href="posts/la-france-insoumise-designee-ennemie-de-la-republique/" type="text/html">
+</script><link rel="prefetch" href="posts/europeennes/" type="text/html">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Aller au contenu principal</a>
 
-
-<!-- Header -->
-
-<div class="wide">
-     
-</div>
-
-<!-- Menubar -->
-
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
-<!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+<!-- Header and menu bar -->
+<div class="container">
+      <header class="blog-header py-3"><div class="row nbb-header align-items-center">
+          <div class="col-md-3 col-xs-2 col-sm-2" style="width: auto;">
+            <button class="navbar-toggler navbar-light bg-light nbb-navbar-toggler" type="button" data-toggle="collapse" data-target=".bs-nav-collapsible" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="http://la-physis.fr/">
-
-                <span id="blog-title">La Physis</span>
-            </a>
+            <div class="collapse bs-nav-collapsible bootblog4-search-form-holder">
+                
+            </div>
         </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="stories/a-propos-de-ce-blog/">A propos</a>
+          <div class="col-md-6 col-xs-10 col-sm-10 bootblog4-brand" style="width: auto;">
+            <a class="navbar-brand blog-header-logo text-dark" href="http://la-physis.fr/">
+
+            <span id="blog-title">La Physis</span>
+        </a>
+          </div>
+            <div class="col-md-3 justify-content-end align-items-center bs-nav-collapsible collapse flex-collapse bootblog4-right-nav">
+            <nav class="navbar navbar-light bg-white"><ul class="navbar-nav bootblog4-right-nav"></ul></nav>
+</div>
+    </div>
+</header><nav class="navbar navbar-expand-md navbar-light bg-white static-top"><div class="collapse navbar-collapse bs-nav-collapsible" id="bs-navbar">
+            <ul class="navbar-nav nav-fill d-flex w-100">
+<li class="nav-item">
+<a href="stories/a-propos-de-ce-blog/" class="nav-link">A propos</a>
                 </li>
-<li>
-<a href="archive.html">Archive</a>
+<li class="nav-item">
+<a href="archive.html" class="nav-link">Archive</a>
                 </li>
-<li>
-<a href="categories/">Tags</a>
+<li class="nav-item">
+<a href="categories/" class="nav-link">Tags</a>
                 </li>
-<li>
-<a href="rss.xml">Flux RSS</a>
+<li class="nav-item">
+<a href="rss.xml" class="nav-link">Flux RSS</a>
                 </li>
-<li>
-<a href="stories/s-abonner/">S'abonner</a>
+<li class="nav-item">
+<a href="stories/s-abonner/" class="nav-link">S'abonner</a>
 
                 
             </li>
 </ul>
-<ul class="nav navbar-nav navbar-right"></ul>
 </div>
 <!-- /.navbar-collapse -->
-    </div>
-<!-- /.container -->
-</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+</nav>
+</div>
+
+<div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        <div class="row">
-            
-            
-
-<div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/la-france-insoumise-designee-ennemie-de-la-republique/" class="u-url">La France Insoumise et les ennemis de la République</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/la-france-insoumise-designee-ennemie-de-la-republique/" rel="bookmark"><time class="published dt-published" datetime="2017-07-04T12:08:20+02:00" title="2017-07-04 12:08">2017-07-04 12:08</time></a></p>
-                <p class="commentline">
         
-    <a href="posts/la-france-insoumise-designee-ennemie-de-la-republique/#disqus_thread" data-disqus-identifier="cache/posts/la-france-insoumise-designee-ennemie-de-la-republique.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/radicalisation/plantu.thumbnail.jpg">
-</div>
-    <div>
-<p>Il est déjà loin l’entre-deux-tours, et le soulèvement unanime des donneurs de leçon d’antifascisme, version moderne des résistants du 8 mai 1945.
-« La République, les choses étant ce qu’elles sont, c’est le vote anti-Le Pen. C’est donc le vote Macron », affirmait alors Laurent Joffrin <a class="footnote-reference" href="posts/la-france-insoumise-designee-ennemie-de-la-republique/#id9" id="id1">[1]</a>. Il faut croire que l’ennemi de la République, aujourd’hui, ce n’est plus l’extrême droite. Non, désormais, la « menace à prendre au sérieux », c’est « Mélenchon, Ruffin et les sans-cravate » (<em>Challenges</em>, 28 juin 2017) <a class="footnote-reference" href="posts/la-france-insoumise-designee-ennemie-de-la-republique/#id10" id="id2">[2]</a> . Mélenchon, après tout, est un « dictateur » (<em>On n’est pas couché</em>) <a class="footnote-reference" href="posts/la-france-insoumise-designee-ennemie-de-la-republique/#id11" id="id3">[3]</a>, un « mirage dangereux » (<em>L’Obs</em>) <a class="footnote-reference" href="posts/la-france-insoumise-designee-ennemie-de-la-republique/#id12" id="id4">[4]</a>. Voilà ce qu’on peut lire le reste du temps, lorsque le Parti Médiatique tisse l’épouvantail Le Pen pour mieux pouvoir le brandir plus tard.</p>
-<p class="more"><a href="posts/la-france-insoumise-designee-ennemie-de-la-republique/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/oui-la-france-insoumise-est-populiste-et-alors/" class="u-url">Oui, la France Insoumise est populiste. Et alors ?</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/oui-la-france-insoumise-est-populiste-et-alors/" rel="bookmark"><time class="published dt-published" datetime="2017-06-29T14:23:28+02:00" title="2017-06-29 14:23">2017-06-29 14:23</time></a></p>
-                <p class="commentline">
         
-    <a href="posts/oui-la-france-insoumise-est-populiste-et-alors/#disqus_thread" data-disqus-identifier="cache/posts/oui-la-france-insoumise-est-populiste-et-alors.html">Comments</a>
+    
+        
+
+    
+        
+    <div class="postindex">
+            <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/europeennes/" class="u-url">Européennes : pour que la France Insoumise soit au service de la souveraineté populaire</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                        Lucas Gautheron
+                    </span></p>
+            <p class="dateline">
+            <a href="posts/europeennes/" rel="bookmark">
+            <time class="published dt-published" datetime="2018-06-13T16:54:37+02:00" itemprop="datePublished" title="2018-06-13 16:54">2018-06-13 16:54</time></a>
+            </p>
+                        <p class="commentline">
+        
+    <a href="posts/europeennes/#disqus_thread" data-disqus-identifier="cache/posts/europeennes.html">Comments</a>
 
 
-        </p>
+                </p>
 </div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/populisme/mouffe.thumbnail.jpg">
+            </header><div class="p-summary entry-summary">
+                    <div>
+<p>« Il n'est pas de politique progressiste possible dans le cadre des traités européens ». À l'approche des élections européennes, cette phrase de Frédéric Lordon devrait être le point d'accord préalable à toute discussion sur la question de l'UE pour qui prétend à une politique « sociale » ou « de gauche » - quoiqu'en disent les résidus hypocrites du Hollandisme qui promettent encore l'« Europe sociale » à traités constants. François Mitterrand, dans un contexte certes bien différent, avait déjà admis lui-même en 1983 - année du renoncement - cet antagonisme : « Je suis partagé entre deux ambitions : celle de la construction de l’Europe et celle de la justice sociale. ». Il fit un choix - le mauvais -, qui fut par la suite le choix systématique du parti socialiste, les 40 années qui s'ensuivirent.</p>
+<p class="more"><a href="posts/europeennes/">Lire la suite…</a></p>
 </div>
-    <div>
-<p>La France Insoumise est régulièrement désignée péjorativement dans les médias et par ses adversaires politiques comme "populiste", au même titre que Donald Trump, Beppe Grillo, Marine Le Pen... Si le populisme est assumé, l'assimilation à des mouvements aussi radicalement opposés à la France Insoumise que le Front National révèle une certaine confusion voire un mépris dans l'analyse. Critique de la critique.</p>
-<p class="more"><a href="posts/oui-la-france-insoumise-est-populiste-et-alors/">Lire la suite…</a></p>
+                </div>
+            </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/lesprit-public-une-emission-privatisee-sur-france-culture/" class="u-url">L'Esprit Public, une émission privatisée sur France Culture</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                        Lucas Gautheron
+                    </span></p>
+            <p class="dateline">
+            <a href="posts/lesprit-public-une-emission-privatisee-sur-france-culture/" rel="bookmark">
+            <time class="published dt-published" datetime="2018-05-14T10:20:44+02:00" itemprop="datePublished" title="2018-05-14 10:20">2018-05-14 10:20</time></a>
+            </p>
+                        <p class="commentline">
+        
+    <a href="posts/lesprit-public-une-emission-privatisee-sur-france-culture/#disqus_thread" data-disqus-identifier="cache/posts/lesprit-public-une-emission-privatisee-sur-france-culture.html">Comments</a>
+
+
+                </p>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/compatibilite-des-programmes-a-la-presidentielle/" class="u-url">Compatibilité des programmes à la Présidentielle</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/compatibilite-des-programmes-a-la-presidentielle/" rel="bookmark"><time class="published dt-published" datetime="2017-06-26T10:38:52+02:00" title="2017-06-26 10:38">2017-06-26 10:38</time></a></p>
-                <p class="commentline">
+            </header><div class="p-summary entry-summary">
+                    <div>
+<p>Chaque dimanche de onze heures à midi, Émilie Aubry anime « L'Esprit Public » sur <em>France Culture</em>, présentée comme une « mise en perspective de l'actualité politique au cours d'un débat d'intellectuels engagés ». La page de l'émission avertit ses auditeurs : ceux-ci doivent s'attendre à de la « polémique », et même de l'« impertinence ».</p>
+<p class="more"><a href="posts/lesprit-public-une-emission-privatisee-sur-france-culture/">Lire la suite…</a></p>
+</div>
+                </div>
+            </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compatibilite-des-programmes-a-la-presidentielle/" class="u-url">Compatibilité des programmes à la Présidentielle</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                        Lucas Gautheron
+                    </span></p>
+            <p class="dateline">
+            <a href="posts/compatibilite-des-programmes-a-la-presidentielle/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-06-26T10:38:52+02:00" itemprop="datePublished" title="2017-06-26 10:38">2017-06-26 10:38</time></a>
+            </p>
+                        <p class="commentline">
         
     <a href="posts/compatibilite-des-programmes-a-la-presidentielle/#disqus_thread" data-disqus-identifier="cache/posts/compatibilite-des-programmes-a-la-presidentielle.html">Comments</a>
 
 
-        </p>
+                </p>
 </div>
-    </header><div class="p-summary entry-summary">
-    <div>
+            </header><div class="p-summary entry-summary">
+                    <div>
 <p>J'avais calculé le taux de compatibilité des programmes des 11 candidats à la Présidentielle à partir d'un <a class="reference external" href="http://www.lemonde.fr/programmes/">comparateur</a> mis au point par Le Monde. Les journalistes y ont comparé les propositions de chaque candidat sur plus de 80 questions, et les ont regroupées lorsqu'elles étaient jugées suffisament similaires. Il suffit alors de calculer, par exemple, le pourcentage de solutions partagées pour chaque paire de candidat. Cette façon de procéder, bien sûr, est limitée, mais l'avantage est qu'elle est peu biaisée puisque les calculs ont été effectués séparément des choix arbitraires de la rédaction du Monde. Au final, le résultat est le suivant :</p>
 <p class="more"><a href="posts/compatibilite-des-programmes-a-la-presidentielle/">Lire la suite…</a></p>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse/" class="u-url">Psychiatrisation de Mélenchon : une méthode récurrente dans la presse</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse/" rel="bookmark"><time class="published dt-published" datetime="2017-06-25T20:17:00+02:00" title="2017-06-25 20:17">2017-06-25 20:17</time></a></p>
-                <p class="commentline">
+                </div>
+            </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/report-de-voix-entre-presidentielle-et-legislatives/" class="u-url">Report de voix entre Présidentielle et législatives</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                        Lucas Gautheron
+                    </span></p>
+            <p class="dateline">
+            <a href="posts/report-de-voix-entre-presidentielle-et-legislatives/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-06-16T09:25:43+02:00" itemprop="datePublished" title="2017-06-16 09:25">2017-06-16 09:25</time></a>
+            </p>
+                        <p class="commentline">
         
-    <a href="posts/psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse/#disqus_thread" data-disqus-identifier="cache/posts/psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse.html">Comments</a>
+    <a href="posts/report-de-voix-entre-presidentielle-et-legislatives/#disqus_thread" data-disqus-identifier="cache/posts/report-de-voix-entre-presidentielle-et-legislatives.html">Comments</a>
 
 
-        </p>
+                </p>
 </div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/psychiatrisation/cricq.thumbnail.jpg">
+            </header><div class="p-summary entry-summary">
+                    <div>
+<p>Dans un <a class="reference external" href="posts/de-2005-a-2017-quont-vote-les-gens-du-oui-et-les-gens-du-non/">billet précédent</a>, je publiais les estimations de trajectoires de vote entre le référendum de 2005 et le premier tour de la Présidentielle de 2017 obtenues par "inférence écologique". J'ai appliqué la même méthode au report du premier tour de la présidentielle au premier des législatives. Pour plus de détails sur la méthode, je vous renvoie vers l'article en question. En attendant, voici les résultats - en gardant en tête que la marge d'erreur est de plusieurs points :</p>
+<p class="more"><a href="posts/report-de-voix-entre-presidentielle-et-legislatives/">Lire la suite…</a></p>
 </div>
-    <div>
-<p>Il était fréquent, en URSS, que les opinions politiques dissidentes soient jugées comme des troubles mentaux, et que les opposants soient internés de force dans des hôpitaux psychiatriques pour y recevoir un traitement, par exemple l'administration de neuroleptiques. Souvent, ceux-ci étaient désignés comme schizophrènes, c'est-à-dire souffrant d'incohérence et de fractionnement de la pensée, fréquemment associés à de la paranoïa. C'est très pratique : assimiler une pensée différente à de la folie, permet de la discréditer et de la marginaliser immédiatement ; il en va de même pour des comportements qui déplaisent. Une pratique réservée à la dictature soviétique ? Si en France, aujourd’hui, on n'interne pas les opposants pour folie, le Parti Médiatique n'hésite pas nous faire part de ses diagnostics.</p>
-<p class="more"><a href="posts/psychiatrisation-de-melenchon-une-methode-recurrente-dans-la-presse/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/villani-compare-melenchon-a-un-chien-aucun-probleme-melenchon-appelle-villani-un-matheux-scandale-mediatique/" class="u-url">Villani compare Mélenchon à un chien, aucun problème. Mélenchon appelle Villani un matheux, scandale médiatique.</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/villani-compare-melenchon-a-un-chien-aucun-probleme-melenchon-appelle-villani-un-matheux-scandale-mediatique/" rel="bookmark"><time class="published dt-published" datetime="2017-06-22T13:01:30+02:00" title="2017-06-22 13:01">2017-06-22 13:01</time></a></p>
-                <p class="commentline">
+                </div>
+            </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur/" class="u-url">Détermination empirique de la probabilité d'un accident nucléaire "majeur"</a></h1>
+                <div class="metadata">
+                    <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                        Lucas Gautheron
+                    </span></p>
+            <p class="dateline">
+            <a href="posts/determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-05-27T17:11:40+02:00" itemprop="datePublished" title="2017-05-27 17:11">2017-05-27 17:11</time></a>
+            </p>
+                        <p class="commentline">
         
-    <a href="posts/villani-compare-melenchon-a-un-chien-aucun-probleme-melenchon-appelle-villani-un-matheux-scandale-mediatique/#disqus_thread" data-disqus-identifier="cache/posts/villani-compare-melenchon-a-un-chien-aucun-probleme-melenchon-appelle-villani-un-matheux-scandale-mediatique.html">Comments</a>
+    <a href="posts/determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur/#disqus_thread" data-disqus-identifier="cache/posts/determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur.html">Comments</a>
 
 
-        </p>
+                </p>
 </div>
-    </header><div class="p-summary entry-summary">
-    <div>
-<p>Les plus sourds d'entre vous auront entendu parler de la "polémique" entre Jean-Luc Mélenchon et Cédric Villani, le chercheur en Mathématiques, récipiendaire d'une médaille Fields et politiquement très libéral - il est un habitué des rencontres économiques d'Aix-En-Provence organisées par le très à droite <em>Cercle des économistes</em>. Pour être précis, disons que plutôt qu'une polémique, il s'agit d'une nouvelle cabale médiatique contre Mélenchon qui, horreur, a osé s'"en prendre" - selon les termes du <em>Figaro</em>, de <em>Paris Match</em> et <em>Télé Loisirs</em> qui réduisent la politique à une affaire de conflits personnels - à l'illustrissime Villani.</p>
-<p class="more"><a href="posts/villani-compare-melenchon-a-un-chien-aucun-probleme-melenchon-appelle-villani-un-matheux-scandale-mediatique/">Lire la suite…</a></p>
+            </header><div class="p-summary entry-summary">
+                    <div>
+<p>Dans un précédent article, je proposais une estimation du nombre de personnes vivant à proximité d'une centrale nucléaire, afin d'évaluer la population concernée par un risque d'accident. Aujourd'hui, je vous propose une estimation empirique du risque d'accident "majeur" nucléaire.</p>
+<blockquote>
+<p class="more"><a href="posts/determination-empirique-de-la-probabilite-dun-accident-nucleaire-majeur/">Lire la suite…</a></p>
+</blockquote>
 </div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/le-journaliste-rachid-laireche-manque-dinspiration/" class="u-url">Le journaliste Rachid Laïreche manque d'inspiration</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/le-journaliste-rachid-laireche-manque-dinspiration/" rel="bookmark"><time class="published dt-published" datetime="2017-06-21T12:32:12+02:00" title="2017-06-21 12:32">2017-06-21 12:32</time></a></p>
-                <p class="commentline">
+                </div>
+            </article>
+</div>
+    
+
+    
         
-    <a href="posts/le-journaliste-rachid-laireche-manque-dinspiration/#disqus_thread" data-disqus-identifier="cache/posts/le-journaliste-rachid-laireche-manque-dinspiration.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/laireche/libetorchon.thumbnail.jpg">
-</div>
-    <div>
-<p>Décidément, rien ne va plus pour Rachid Laïreche. On savait déjà qu'il avait <a class="reference external" href="https://opiam.fr/2016/02/23/rllib/">divorcé de la pensée</a>. Maintenant, il semblerait que même sa haine de Jean-Luc Mélenchon ne soit plus une source d'inspiration suffisante.</p>
-<p class="more"><a href="posts/le-journaliste-rachid-laireche-manque-dinspiration/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/melenchon-veut-remplacer-le-ps-cest-raciste/" class="u-url">Mélenchon veut remplacer le PS, c'est raciste</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/melenchon-veut-remplacer-le-ps-cest-raciste/" rel="bookmark"><time class="published dt-published" datetime="2017-06-21T08:52:11+02:00" title="2017-06-21 08:52">2017-06-21 08:52</time></a></p>
-                <p class="commentline">
-        
-    <a href="posts/melenchon-veut-remplacer-le-ps-cest-raciste/#disqus_thread" data-disqus-identifier="cache/posts/melenchon-veut-remplacer-le-ps-cest-raciste.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/benamou/jlm.thumbnail.jpg">
-</div>
-    <div>
-<p>Les auditeurs de <em>FranceTV Info</em> ont eu le droit hier (20 juin) a un grand moment de radio. On le doit à Georges-Marc Benamou, présenté comme « journaliste à France Info » sur le site du média, mais surtout « commis de Lagardère » et « scribe de Sarkozy » pour <a class="reference external" href="http://www.acrimed.org/Georges-Marc-Benamou-commis-de-Lagardere-devenu-scribe-de-Sarkozy">ACRIMED</a>. Il nous a en effet fait part de sa brillante analyse de la rhétorique de Jean-Luc Mélenchon, qui avait affirmé vouloir « Remplacer le Parti Socialiste ».</p>
-<p class="more"><a href="posts/melenchon-veut-remplacer-le-ps-cest-raciste/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/besoin-daide-relecteurs-pour-le-site-de-lhistoire-de-la-cosmologie/" class="u-url">[Besoin d'aide] Relecteurs pour le site de l'histoire de la cosmologie</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/besoin-daide-relecteurs-pour-le-site-de-lhistoire-de-la-cosmologie/" rel="bookmark"><time class="published dt-published" datetime="2017-06-20T08:17:20+02:00" title="2017-06-20 08:17">2017-06-20 08:17</time></a></p>
-                <p class="commentline">
-        
-    <a href="posts/besoin-daide-relecteurs-pour-le-site-de-lhistoire-de-la-cosmologie/#disqus_thread" data-disqus-identifier="cache/posts/besoin-daide-relecteurs-pour-le-site-de-lhistoire-de-la-cosmologie.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/relecture-cosmo/einstein.thumbnail.jpg">
-</div>
-    <div>
-<p>Bonjour à tous,</p>
-<p>En 1917 débutait la Cosmologie moderne. Pour ses 100 ans, j'aimerais organiser la sortie du site au sujet de son histoire et sur lequel je travaille depuis longtemps.
-C'est un gros travail de bibliographie, de modélisation, de calculs, etc. Et il n'est pas terminé. Cependant, j'aimerais déjà commencer à consulter des personnes susceptibles de m'aider dans sa relecture.</p>
-<p class="more"><a href="posts/besoin-daide-relecteurs-pour-le-site-de-lhistoire-de-la-cosmologie/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/revoir-mon-intervention-sur-C8/" class="u-url">Revoir mon intervention sur C8</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/revoir-mon-intervention-sur-C8/" rel="bookmark"><time class="published dt-published" datetime="2017-06-19T21:50:15+02:00" title="2017-06-19 21:50">2017-06-19 21:50</time></a></p>
-                <p class="commentline">
-        
-    <a href="posts/revoir-mon-intervention-sur-C8/#disqus_thread" data-disqus-identifier="cache/posts/revoir-mon-passage-a-c8.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/c8/horrib.thumbnail.jpg">
-</div>
-    <div>
-<p>J'ai récemment participé à l'émission politique du dimanche sur C8. L'invité principal était Florian Philippot. Le concept est assez étrange, pour le moins, puisque j'étais invité à débattre avec deux jeunes militants dans une voiture. Pas très écolo donc. Il s'agissait d'un militant du PS et d'un militant LR. À la fin, j'ai pu poser une question à l'adresse de Florian Philippot, commençant par "À quoi servez-vous ?".</p>
-<p class="more"><a href="posts/revoir-mon-intervention-sur-C8/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/nkm-agressee-a-paris-la-faute-de-melenchon-pour-RMC/" class="u-url">NKM agressée à Paris : la faute de Mélenchon pour RMC</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">Rouslan Gauchet</span></p>
-            <p class="dateline"><a href="posts/nkm-agressee-a-paris-la-faute-de-melenchon-pour-RMC/" rel="bookmark"><time class="published dt-published" datetime="2017-06-17T17:23:51+02:00" title="2017-06-17 17:23">2017-06-17 17:23</time></a></p>
-                <p class="commentline">
-        
-    <a href="posts/nkm-agressee-a-paris-la-faute-de-melenchon-pour-RMC/#disqus_thread" data-disqus-identifier="cache/posts/nkm-agressee-a-paris-la-faute-de-melenchon-pour-olivier-truchot-rmc.html">Comments</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-            <div class="thumbnail-summary">
-                <img src="images/nkm-jlm/opiam.thumbnail.jpg">
-</div>
-    <div>
-<p>Le 15 juin 2017, Natha­­lie Kosciusko-Mori­­zet, candidate aux législatives à Paris, est agressée dans un marché du cinquième arrondissement alors qu'elle tractait. L'agresseur s'enfuit aussitôt : on ne connait donc pas son identité alors que l'information circule déjà allègrement dans les médias. Mais en l'absence de suspect, le Parti Médiatique avait déjà un coupable tout désigné : Jean-Luc Mélenchon. Celui-ci, en pleine campagne à Marseille, à près de 700 km du lieu de l'incident, était en effet un danger potentiel pour l'ex candidate à la primaire de la droite.</p>
-<p class="more"><a href="posts/nkm-agressee-a-paris-la-faute-de-melenchon-pour-RMC/">Lire la suite…</a></p>
-</div>
-    </div>
-    </article>
-</div>
-
-        <nav class="postindexpager"><ul class="pager">
-<li class="next">
-                <a href="index-2.html" rel="next">Anciens articles</a>
-            </li>
-        </ul></nav><script>var disqus_shortname="la-physis";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
-</div>
-        <!--End of body content-->
-
-        <footer id="footer">
-            Contents © 2017         <a href="mailto:rouslan.gauchet@gmail.com">Rouslan Gauchet</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+       <script>var disqus_shortname="la-physis";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'left', // Change this to 'center' to center equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script><!--End of body content--><footer id="footer">
+            Contents © 2019         <a href="mailto:lucas.gautheron@gmail.com">Lucas Gautheron</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
         </footer>
 </div>
 </div>
 
 
-            <script src="assets/js/jquery.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/moment-with-locales.min.js"></script><script src="assets/js/fancydates.js"></script><script src="assets/js/jquery.colorbox-min.js"></script><script src="assets/js/colorbox-i18n/jquery.colorbox-fr.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+            <script src="assets/js/jquery.min.js"></script><script src="assets/js/popper.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script src="assets/js/baguetteBox.min.js"></script><script src="assets/js/moment-with-locales.min.js"></script><script src="assets/js/fancydates.min.js"></script><!-- fancy dates --><script>
     moment.locale("fr");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
 </body>
 </html>

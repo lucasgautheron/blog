@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Générateur</title>
+
+<script src="https://code.jquery.com/jquery-1.8.0.min.js"></script>
+
+<script type="text/javascript">
+function random_text(){
+    var lines = [];
+    var text = '';
+    $.each($('#data').html().split(/\n/), function(i, line){
+        if(line){
+            lines.push(line);
+        } else {
+            if(lines.length)
+            {
+                var n = Math.floor(Math.random()*lines.length);
+                text = text + ' ' + lines[n];
+                lines = [];
+            }
+        }
+    });
+    $("#text").html(text);
+}
+
+$(document).ready(random_text);
+
+</script>
+</head>
+
+<body>
+<div id="text" style="width: 300px; margin: 100px auto;">
+</div>
+<div id="data" style="display: none">
+À l'ère du numérique,
+À l'ère de la mondialisation,
+dans un contexte de compétition internationale,
+À l'heure de la révolution technologique,
+
+la sélection à l'université
+l'excellence
+la lisibilité
+la visibilité
+
+doit être au coeur de notre ambition.
+n'est pas un gros mot.
+n'est plus un tabou.
+est un enjeu national.
+
+Instaurer
+Implémenter
+Étendre
+Favoriser
+
+des partenariats
+le partenariat public-privé
+la pluridisciplinarité
+l'innovation
+le digital
+
+grâce au big-data,
+à l'aide les Investissements d'Avenir,
+avec les Appels à Projet,
+à travers des solutions connectées,
+avec l'aide de tous les acteurs,
+dans la concertation des acteurs,
+via une nouvelle plateforme,
+
+c'est
+
+plus d'autonomie
+plus d'efficacité
+plus de dialogue
+
+pour l'Université.
+
+</div>
+</body>
+
+</html> 
