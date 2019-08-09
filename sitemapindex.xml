@@ -11,11 +11,15 @@
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/cat_posts.xml</loc>
-  <lastmod>2019-08-09T11:24:00Z</lastmod>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/cat_sciences.xml</loc>
   <lastmod>2019-08-04T20:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://la-physis.fr/categories/flyboard.xml</loc>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/categories/legislatives-2017.xml</loc>
@@ -38,11 +42,19 @@
   <lastmod>2019-08-04T20:46:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://la-physis.fr/categories/startup.xml</loc>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://la-physis.fr/categories/zapata.xml</loc>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://la-physis.fr/rss.xml</loc>
-  <lastmod>2019-08-09T11:24:00Z</lastmod>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://la-physis.fr/sitemap.xml</loc>
-  <lastmod>2019-08-09T11:24:00Z</lastmod>
+  <lastmod>2019-08-09T11:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
