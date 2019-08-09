@@ -19,9 +19,9 @@ Cette ingratitude de la France a bien failli faire fuir l'« homme volant » à 
 
 Franky Zapata, c'est aussi l'histoire d'un self-made man au « destin fou » (*20 Minutes*), qui ne doit son succès à personne, et encore moins à l'école : cet « autodidacte qui ne lâche rien » (*Le Parisien*) l'a en effet quittée à 16 ans.
 
-Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibérale. D'abord, par un discours niais sur l'échec : « On apprend, on échoue pas » (Franky Zapata pour *France Info*), « Touché mais pas coulé » (*Le Parisien*). Comme si l'échec était permis à tous... Il rentre également dans le moule du solutionnisme technologique, en se définissant lui-même comme « solutionneur de problème » (*20 Minutes*). Ce qui lui a valu la bénédiction d'Emma Ducros, journaliste à *l'Opinion*.
+Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibérale. D'abord, par un discours niais sur l'échec : « On apprend, on échoue pas » (Franky Zapata pour *France Info*), « Touché mais pas coulé » (*Le Parisien*). Comme si l'échec était permis à tous... Il rentre également dans le moule du solutionnisme technologique, en se définissant lui-même comme « solutionneur de problème » (*20 Minutes*).
 
-Les médias, en surmédiatisant ce récit, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie.
+Les médias, en alimentant ce récit avec autant d'enthousiasme, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie.
 
 .. raw:: html
 
