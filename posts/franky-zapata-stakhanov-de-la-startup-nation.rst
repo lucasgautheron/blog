@@ -1,7 +1,7 @@
 .. title: Franky Zapata, Stakhanov de la startup nation
 .. slug: franky-zapata-stakhanov-de-la-startup-nation
 .. date: 2019-08-09 11:44:13 UTC+02:00
-.. tags: zapata,startup,flyboard,draft
+.. tags: zapata,startup,flyboard
 .. category: 
 .. link: 
 .. description: 
