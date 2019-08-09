@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://la-physis.fr/</loc>
-  <lastmod>2019-08-04T20:46:00Z</lastmod>
+  <lastmod>2019-08-09T11:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://la-physis.fr/2017/</loc>
@@ -18,8 +18,12 @@
   <lastmod>2019-08-04T20:46:00Z</lastmod>
  </url>
  <url>
+  <loc>http://la-physis.fr/2019/</loc>
+  <lastmod>2019-08-09T11:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://la-physis.fr/archive.html</loc>
-  <lastmod>2019-08-09T09:35:00Z</lastmod>
+  <lastmod>2019-08-09T11:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://la-physis.fr/bullshit/</loc>
@@ -72,6 +76,10 @@
  <url>
   <loc>http://la-physis.fr/posts/europeennes/</loc>
   <lastmod>2019-08-04T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://la-physis.fr/posts/hong-kong-et-les-gilets-jaunes-un-cas-de-dissonnance-cognitive/</loc>
+  <lastmod>2019-08-09T11:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://la-physis.fr/posts/lesprit-public-une-emission-privatisee-sur-france-culture/</loc>
