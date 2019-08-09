@@ -21,3 +21,5 @@ Franky Zapata, c'est aussi l'histoire d'un self-made man au « destin fou » (*2
 Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibérale. D'abord, par un discours niais sur l'échec : « On apprend, on échoue pas » (Franky Zapata pour *France Info*), « Touché mais pas coulé » (*Le Parisien*). Comme si l'échec était permis à tous... Il rentre également dans le moule du solutionnisme technologique, en se définissant lui-même comme « solutionneur de problème » (*20 Minutes*). Ce qui lui a valu la bénédiction d'Emma Ducros, journaliste à *l'Opinion*.
 
 Les médias, en surmédiatisant ce récit, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie.
+
+.. html:: <iframe width="560" height="315" src="https://www.youtube.com/embed/zES6qJBHDIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
