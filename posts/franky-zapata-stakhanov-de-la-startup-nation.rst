@@ -23,4 +23,6 @@ Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibé
 
 Les médias, en surmédiatisant ce récit, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie.
 
-.. html:: <iframe width="560" height="315" src="https://www.youtube.com/embed/zES6qJBHDIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/zES6qJBHDIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
