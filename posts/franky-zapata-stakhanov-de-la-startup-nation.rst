@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. thumbnail: /images/zapata/franky.jpeg
 
 Qui n'a pas entendu parler de Franky Zapata, l'inventeur du « Flyboard Air » ? Ce patron marseillais bénéficie, depuis sa démonstration spectaculaire du 14 juillet face à la tribune officielle, d'une couverture médiatique aussi généreuse qu'élogieuse. Mais celle-ci n'est absolument pas anodine. La promotion du personnage, voulue par l'Élysée, contribue à un discours idéologique précis à travers un récit qui lui est totalement conforme.
 
