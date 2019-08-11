@@ -8,7 +8,7 @@
 .. type: text
 .. thumbnail: /images/zapata/franky.jpeg
 
-Qui n'a pas entendu parler de Franky Zapata, l'inventeur du « Flyboard Air » ? Ce patron marseillais bénéficie, depuis sa démonstration spectaculaire du 14 juillet face à la tribune officielle, d'une couverture médiatique aussi généreuse qu'élogieuse. Mais celle-ci n'est absolument pas anodine. La promotion du personnage, voulue par l'Élysée, contribue à un discours idéologique précis à travers un récit qui lui est totalement conforme.
+Qui n'a pas entendu parler de Franky Zapata, l'inventeur du « Flyboard Air » ? Ce patron marseillais bénéficie, depuis sa démonstration spectaculaire du 14 juillet face à la tribune officielle, d'une couverture médiatique aussi généreuse qu'élogieuse. Mais celle-ci n'est absolument pas anodine. La promotion du personnage, voulue par l'Élysée, contribue à un discours idéologique marqué à travers un récit qui lui est totalement conforme.
 
 Ce discours idéologique, c'est celui de la « startup nation » : l'innovation serait en grande partie une affaire de génie individuel et de prise de risque due aux entrepreneurs et au secteur privé. Un discours qui prône un rôle plus en retrait de l'État - trop normé et contraignant -, une politique fiscale plus à l'avantage des investisseurs privés, et qui vient justifier une meilleure rémunération des actionnaires. 
 
@@ -19,9 +19,9 @@ Cette ingratitude de la France a bien failli faire fuir l'« homme volant » à 
 
 Franky Zapata, c'est aussi l'histoire d'un self-made man au « destin fou » (*20 Minutes*), qui ne doit son succès à personne, et encore moins à l'école : cet « autodidacte qui ne lâche rien » (*Le Parisien*) l'a en effet quittée à 16 ans.
 
-Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibérale. D'abord, par un discours niais sur l'échec : « On apprend, on échoue pas » (Franky Zapata pour *France Info*), « Touché mais pas coulé » (*Le Parisien*). Comme si l'échec était permis à tous... Il rentre également dans le moule du solutionnisme technologique, en se définissant lui-même comme « solutionneur de problème » (*20 Minutes*).
+Autour de lui, règne un langage qui épouse parfaitement la novlangue néolibérale. D'abord, par un discours niais sur l'échec : « On apprend, on échoue pas » (Franky Zapata pour *France Info*), « Touché mais pas coulé » (*Le Parisien*). Car bien sûr l'échec est permis à tous... Il rentre également dans le moule du solutionnisme technologique, en se définissant lui-même comme « solutionneur de problème » (*sic*) (*20 Minutes*).
 
-Les médias, en alimentant ce récit avec autant d'enthousiasme, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie.
+Les médias, donc, en alimentant ce récit avec autant d'enthousiasme, contribuent à ce qu'il faut bien appeler une opération de propagande : là où Stakhanov incarnait le national-productivisme soviétique, Franky Zapata et son gadget incarnent parfaitement le startup-nationalisme de la Macronie. Certes, l'histoire de Franky Zapata n'est pas une fiction. Il ne s'agit pas d'accuser la presse citée ici de l'avoir romancée. Mais simplement, et c'est déjà pas mal, d'avoir suivi avec le discernement qu'on lui connait l'opération de communication du pouvoir.
 
 .. raw:: html
 
